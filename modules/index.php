@@ -17,10 +17,10 @@
                 style="background-image: url(assets/images/backgrounds/slider-1-1.jpg);"></div>
             <div class="container">
                 <div class="main-slider-one__content">
-                    <h5 class="main-slider-one__sub-title">Beauty & Discovery <img
+                    <h5 class="main-slider-one__sub-title">Vive grandes aventuras<img
                             src="assets/images/shapes/slider-1-shape-1.png" alt="trevlo"></h5>
-                    <h3 class="main-slider-one__title">Explore the World <img
-                            src="assets/images/shapes/slider-1-shape-2.png" alt="trevlo"></h3>
+                    <h3 class="main-slider-one__title">Novo Tours<img src="assets/images/shapes/slider-1-shape-2.png"
+                            alt="trevlo"></h3>
                 </div>
             </div>
         </div>
@@ -29,9 +29,9 @@
                 style="background-image: url(assets/images/backgrounds/slider-1-2.jpg);"></div>
             <div class="container">
                 <div class="main-slider-one__content">
-                    <h5 class="main-slider-one__sub-title">Beauty & Discovery <img
+                    <h5 class="main-slider-one__sub-title">Los mejores tours <img
                             src="assets/images/shapes/slider-1-shape-1.png" alt="trevlo"></h5>
-                    <h3 class="main-slider-one__title">Explore the World <img
+                    <h3 class="main-slider-one__title">No te los puedes perder <img
                             src="assets/images/shapes/slider-1-shape-2.png" alt="trevlo"></h3>
                 </div>
             </div>
@@ -41,154 +41,15 @@
                 style="background-image: url(assets/images/backgrounds/slider-1-3.jpg);"></div>
             <div class="container">
                 <div class="main-slider-one__content">
-                    <h5 class="main-slider-one__sub-title">Beauty & Discovery <img
+                    <h5 class="main-slider-one__sub-title">Los Cabos <img
                             src="assets/images/shapes/slider-1-shape-1.png" alt="trevlo"></h5>
-                    <h3 class="main-slider-one__title">Explore the World <img
+                    <h3 class="main-slider-one__title">Explora nuevas aventuras<img
                             src="assets/images/shapes/slider-1-shape-2.png" alt="trevlo"></h3>
                 </div>
             </div>
         </div>
     </div><!-- banner-slider -->
-    <div class="banner-form wow fadeInUp" data-wow-delay="300ms">
-        <div class="container">
-            <form class="banner-form__wrapper" action="https://bracketweb.com/trevlo-html/tour-listing-top-search.html">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="banner-form__control">
-                            <label for="location">Location</label>
-                            <select name="location" class="selectpicker" id="location">
-                                <option value="select">Where to Next?</option>
-                                <option value="spain">Spain</option>
-                                <option value="africa">Africa</option>
-                                <option value="europe">Europe</option>
-                                <option value="thailand">Thailand</option>
-                                <option value="dubai">Dubai</option>
-                                <option value="australia">Australia</option>
-                                <option value="swizerlan">Swizerlan</option>
-                            </select>
-                            <i class="icon-location-2"></i>
-                        </div>
-                    </div>
-                    <div class="col-lg-2">
-                        <div class="banner-form__control">
-                            <label for="type">Type</label>
-                            <select name="type" class="selectpicker" id="type">
-                                <option value="select">Booking Type</option>
-                                <option value="spain">Adventure</option>
-                                <option value="africa">Beach</option>
-                                <option value="europe">Discovery</option>
-                                <option value="thailand">Mountain</option>
-                                <option value="dubai">Hills</option>
-                                <option value="australia">Couple</option>
-                            </select>
-                            <i class="icon-hiking"></i>
-                        </div>
-                    </div>
-                    <div class="col-lg-2">
-                        <div class="banner-form__control">
-                            <label for="date">Date From</label>
-                            <input class="trevlo-multi-datepicker" id="date" type="text" name="date"
-                                placeholder="Select Date">
-                            <i class="icon-calendar-5"></i>
-                        </div>
-                    </div>
-                    <div class="col-lg-3">
-                        <div class="banner-form__control">
-                            <label for="guests">Guests</label>
-                            <button class="banner-form__qty-minus sub">
-                                <i class="icon-minus-3"></i>
-                            </button>
-                            <input id="guests" type="number" value="2" name="guests" placeholder="2">
-                            <button class="banner-form__qty-plus add">
-                                <i class="icon-plus-3"></i>
-                            </button>
-                        </div>
-                    </div>
-                    <div class="col-lg-1">
-                        <div class="banner-form__btn">
-                            <div class="banner-form__filter"><span class="icon-filter"></span></div>
-                            <button type="submit" aria-label="search submit" class="trevlo-btn trevlo-btn--base">
-                                <span><i class="icon-search"></i></span>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-            </form>
-        </div>
-        <div class="banner-form__popup">
-            <div class="banner-form__popup__slider-wrapper">
-                <form action="#" method="get" class="clearfix">
-                    <div id="slider-ranger"></div>
-                </form>
-            </div>
-            <h3 class="banner-form__popup__title">Language</h3>
-            <ul class="banner-form__popup__checkbox">
-                <li>
-                    <input type="checkbox" name="english" id="english">
-                    <label for="english"><span></span>English</label>
-                </li>
-                <li>
-                    <input type="checkbox" name="french" id="french">
-                    <label for="french"><span></span>French</label>
-                </li>
-                <li>
-                    <input type="checkbox" name="german" id="german">
-                    <label for="german"><span></span>German</label>
-                </li>
-                <li>
-                    <input type="checkbox" name="japanese" id="japanese">
-                    <label for="japanese"><span></span>Japanese</label>
-                </li>
-                <li>
-                    <input type="checkbox" name="thailand" id="thailand">
-                    <label for="thailand"><span></span>Thailand</label>
-                </li>
-                <li>
-                    <input type="checkbox" name="arabic" id="arabic">
-                    <label for="arabic"><span></span>Arabic</label>
-                </li>
-            </ul>
-            <h3 class="banner-form__popup__title">Amenities</h3>
-            <ul class="banner-form__popup__checkbox">
-                <li>
-                    <input type="checkbox" name="Accepts" id="Accepts">
-                    <label for="Accepts"><span></span>Accepts Credit Cards</label>
-                </li>
-                <li>
-                    <input type="checkbox" name="Parking" id="Parking">
-                    <label for="Parking"><span></span>Car Parking</label>
-                </li>
-                <li>
-                    <input type="checkbox" name="Coupons" id="Coupons">
-                    <label for="Coupons"><span></span>Free Coupons</label>
-                </li>
-                <li>
-                    <input type="checkbox" name="Laundry" id="Laundry">
-                    <label for="Laundry"><span></span>Laundry Service</label>
-                </li>
-                <li>
-                    <input type="checkbox" name="Outdoor" id="Outdoor">
-                    <label for="Outdoor"><span></span>Outdoor Seating</label>
-                </li>
-                <li>
-                    <input type="checkbox" name="Reservations" id="Reservations">
-                    <label for="Reservations"><span></span>Reservations</label>
-                </li>
-                <li>
-                    <input type="checkbox" name="Restaurant" id="Restaurant">
-                    <label for="Restaurant"><span></span>Restaurant</label>
-                </li>
-                <li>
-                    <input type="checkbox" name="Smoking" id="Smoking">
-                    <label for="Smoking"><span></span>Smoking Allowed</label>
-                </li>
-                <li>
-                    <input type="checkbox" name="Internet" id="Internet">
-                    <label for="Internet"><span></span>Wireless Internet</label>
-                </li>
-            </ul>
-        </div>
-    </div>
+
     <!-- banner-form -->
 </section>
 <!-- main-slider-end -->
@@ -200,9 +61,9 @@
             <div class="col-xl-3 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="sec-title text-left">
 
-                    <p class="sec-title__tagline">Destination list</p><!-- /.sec-title__tagline -->
+                    <p class="sec-title__tagline">Disfruta de Los Cabos con</p>
 
-                    <h2 class="sec-title__title">Explore the Beautiful Places Around the World</h2>
+                    <h2 class="sec-title__title">Novo Tours</h2>
                     <!-- /.sec-title__title -->
                 </div><!-- /.sec-title -->
                 <!-- /.sec-title -->
@@ -214,11 +75,8 @@
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
-                                <a href="destination-details-right.html"
-                                    class="destination-one__card-btn destination-one__card-btn--round trevlo-btn trevlo-btn--base trevlo-btn--base-three"><span>8
-                                        TOURS</span></a>
-                                <h4 class="destination-one__card-title"><a
-                                        href="destination-details-right.html">Spain</a></h4>
+                                <h4 class="destination-one__card-title"><a href="destination-details-right.html">Bote
+                                        Transparente</a></h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--round -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
                     </div><!-- /.destination-one__card-img-box -->
@@ -231,11 +89,8 @@
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
-                                <a href="destination-details-right.html"
-                                    class="destination-one__card-btn destination-one__card-btn--round trevlo-btn trevlo-btn--base trevlo-btn--base-three"><span>7
-                                        TOURS</span></a>
-                                <h4 class="destination-one__card-title"><a
-                                        href="destination-details-right.html">Thailand</a></h4>
+                                <h4 class="destination-one__card-title"><a href="destination-details-right.html">Fábrica
+                                        de chocolate</a></h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--round -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
                     </div><!-- /.destination-one__card-img-box -->
@@ -249,11 +104,8 @@
                             class="destination-one__card-img destination-one__card-img--circle">
                         <div class="destination-one__card-overlay destination-one__card-overlay--circle">
                             <div class="destination-one__card-content destination-one__card-content--circle">
-                                <a href="destination-details-right.html"
-                                    class="destination-one__card-btn destination-one__card-btn--circle trevlo-btn trevlo-btn--base trevlo-btn--base-three"><span>8
-                                        TOURS</span></a>
-                                <h4 class="destination-one__card-title"><a
-                                        href="destination-details-right.html">Dubai</a></h4>
+                                <h4 class="destination-one__card-title"><a href="destination-details-right.html">Fábrica
+                                        de vidirio</a></h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--circle -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--circle -->
                     </div><!-- /.destination-one__card-img-box -->
@@ -267,11 +119,8 @@
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
-                                <a href="destination-details-right.html"
-                                    class="destination-one__card-btn destination-one__card-btn--round trevlo-btn trevlo-btn--base trevlo-btn--base-three"><span>13
-                                        TOURS</span></a>
-                                <h4 class="destination-one__card-title"><a
-                                        href="destination-details-right.html">Australia</a></h4>
+                                <h4 class="destination-one__card-title"><a href="destination-details-right.html">La
+                                        Paz</a></h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--round -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
                     </div><!-- /.destination-one__card-img-box -->
@@ -285,23 +134,27 @@
                             class="destination-one__card-img destination-one__card-img--circle">
                         <div class="destination-one__card-overlay destination-one__card-overlay--circle">
                             <div class="destination-one__card-content destination-one__card-content--circle">
-                                <a href="destination-details-right.html"
-                                    class="destination-one__card-btn destination-one__card-btn--circle trevlo-btn trevlo-btn--base trevlo-btn--base-three"><span>2
-                                        TOURS</span></a>
-                                <h4 class="destination-one__card-title"><a
-                                        href="destination-details-right.html">Italy</a></h4>
+                                <h4 class="destination-one__card-title"><a href="destination-details-right.html">Museo
+                                        tequila</a></h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--circle -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--circle -->
                     </div><!-- /.destination-one__card-img-box -->
                 </div><!-- /.destination-one__card -->
             </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.7s"
+            <div class="col-xl-3 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s"
                 data-wow-duration="1500ms">
-                <div class="destination-one__offer">
-                    <h5 class="destination-one__offer__sub-title">20% Off</h5>
-                    <h2 class="destination-one__offer__title">Summer <br>Hotest Deals</h2>
-                    <a href="destination-1.html" class="trevlo-btn"><span>View Deals</span></a>
-                </div><!-- /.offer- -->
+                <div class="destination-one__card">
+                    <div class="destination-one__card-img-box destination-one__card-img-box--round">
+                        <img src="assets/images/destination/destination-1-5.jpg" alt="destination"
+                            class="destination-one__card-img destination-one__card-img--round">
+                        <div class="destination-one__card-overlay destination-one__card-overlay--round">
+                            <div class="destination-one__card-content destination-one__card-content--round">
+                                <h4 class="destination-one__card-title"><a href="destination-details-right.html">Resta
+                                        El Coral</a></h4>
+                            </div><!-- /.destination-one__card-content destination-one__card-content--round -->
+                        </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
+                    </div><!-- /.destination-one__card-img-box -->
+                </div><!-- /.destination-one__card -->
             </div>
         </div><!-- /.row -->
     </div>
@@ -337,9 +190,8 @@
                                         src="assets/images/shapes/about-1-shape-3.png" alt="trevlo"></div>
                                 <div class="about-one__counter"
                                     style="background-image: url(assets/images/shapes/about-1-shape-4.png);">
-                                    <div class="about-one__counter__number count-box"><span class="count-text"
-                                            data-stop="30" data-speed="1500"></span>%</div><!-- /.counter__number -->
-                                    <p class="about-one__counter__title">Discount</p><!-- /.counter__title -->
+                                    <div class="about-one__counter__number count-box"><span class="count-text"></span>¡Reserva</div><!-- /.counter__number -->
+                                    <p class="about-one__counter__title">Ahora!</p><!-- /.counter__title -->
                                 </div><!-- /.discount -->
                             </div>
                         </div>
@@ -356,27 +208,29 @@
                 <div class="about-one__content">
                     <div class="sec-title text-left">
 
-                        <p class="sec-title__tagline">GET TO KNOW US</p><!-- /.sec-title__tagline -->
+                        <p class="sec-title__tagline">Novo Tours</p><!-- /.sec-title__tagline -->
 
-                        <h2 class="sec-title__title">Experience the World with Our Trevlo Company</h2>
+                        <h2 class="sec-title__title">Deja que el viaje sea tan emocionante como el destino</h2>
                         <!-- /.sec-title__title -->
                     </div><!-- /.sec-title -->
                     <!-- /.sec-title -->
                     <p class="about-one__content__text">
-                        There are many variations of passages of Lorem Ipsum available, but the majority have suffered
-                        alteration in some
+                        Contamos con guías altamente capacitados y conocedores, apasionados por compartir la riqueza
+                        cultural y natural de cada destino, también contamos con años de experiencia en la industria del
+                        turismo, brindando a nuestros clientes un conocimiento profundo de destinos excepcionales y la
+                        capacidad de crear experiencias únicas.
                     </p>
                     <div class="about-one__box">
                         <div class="about-one__box__icon"><span class="icon-safety"></span></div>
-                        <h3 class="about-one__box__title">Safety First<br> Always</h3>
-                        <p class="about-one__box__text">Lorem Ipsum is simply dummy text of<br> the printing.</p>
+                        <h3 class="about-one__box__title">Guías<br> Certificados</h3>
+                        <p class="about-one__box__text">SContamos con un equipo de guías profesionales y certificados. La experiencia es su mejor credencial.</p>
                     </div><!-- /.about-box -->
                     <div class="about-one__box">
                         <div class="about-one__box__icon"><span class="icon-friendly-Guide"></span></div>
-                        <h3 class="about-one__box__title">Friendly<br> Guide</h3>
-                        <p class="about-one__box__text">Lorem Ipsum is simply dummy text of<br> the printing.</p>
+                        <h3 class="about-one__box__title">Compañía Mexicana</h3>
+                        <p class="about-one__box__text">Empresa del sur de California, fundada y operada por profesionales mexicanos.</p>
                     </div><!-- /.about-box -->
-                    <a href="about.html" class="trevlo-btn"><span>Discover More</span></a>
+                    <a href="about.html" class="trevlo-btn"><span>Ver Tours</span></a>
                 </div><!-- /.about-four__content -->
             </div><!-- /.col-xl-6 col-lg-6 -->
         </div><!-- /.row -->
