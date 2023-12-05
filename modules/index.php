@@ -71,7 +71,7 @@
             <div class="col-xl-3 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                 <div class="destination-one__card">
                     <div class="destination-one__card-img-box destination-one__card-img-box--round">
-                        <img src="assets/images/destination/destination-1-2.jpg" alt="destination"
+                        <img src="assets/images/destination/destination-1-2.jpg?=1" alt="destination"
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
@@ -85,7 +85,7 @@
             <div class="col-xl-6 col-lg-8 wow animated fadeInUp" data-wow-delay="0.5s" data-wow-duration="1500ms">
                 <div class="destination-one__card">
                     <div class="destination-one__card-img-box destination-one__card-img-box--round">
-                        <img src="assets/images/destination/destination-1-3.jpg" alt="destination"
+                        <img src="assets/images/destination/destination-1-3.jpg?=1" alt="destination"
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
@@ -100,7 +100,7 @@
                 data-wow-duration="1500ms">
                 <div class="destination-one__card">
                     <div class="destination-one__card-img-box destination-one__card-img-box--circle">
-                        <img src="assets/images/destination/destination-1-4.jpg" alt="destination"
+                        <img src="assets/images/destination/destination-1-4.jpg?=1" alt="destination"
                             class="destination-one__card-img destination-one__card-img--circle">
                         <div class="destination-one__card-overlay destination-one__card-overlay--circle">
                             <div class="destination-one__card-content destination-one__card-content--circle">
@@ -115,14 +115,14 @@
                 data-wow-duration="1500ms">
                 <div class="destination-one__card">
                     <div class="destination-one__card-img-box destination-one__card-img-box--round">
-                        <img src="assets/images/destination/destination-1-5.jpg" alt="destination"
+                        <img src="assets/images/destination/destination-1-5.jpg?=1" alt="destination"
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
                                 <h4 class="destination-one__card-title"><a href="destination-details-right.html">La
                                         Paz</a></h4>
-                            </div><!-- /.destination-one__card-content destination-one__card-content--round -->
-                        </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
+                            </div>
+                        </div>
                     </div><!-- /.destination-one__card-img-box -->
                 </div><!-- /.destination-one__card -->
             </div>
@@ -130,7 +130,7 @@
                 data-wow-duration="1500ms">
                 <div class="destination-one__card">
                     <div class="destination-one__card-img-box destination-one__card-img-box--circle">
-                        <img src="assets/images/destination/destination-1-7.jpg" alt="destination"
+                        <img src="assets/images/destination/destination-1-7.jpg?=1" alt="destination"
                             class="destination-one__card-img destination-one__card-img--circle">
                         <div class="destination-one__card-overlay destination-one__card-overlay--circle">
                             <div class="destination-one__card-content destination-one__card-content--circle">
@@ -145,7 +145,7 @@
                 data-wow-duration="1500ms">
                 <div class="destination-one__card">
                     <div class="destination-one__card-img-box destination-one__card-img-box--round">
-                        <img src="assets/images/destination/destination-1-5.jpg" alt="destination"
+                        <img src="assets/images/destination/destination-1-5.jpg?=1" alt="destination"
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
@@ -170,8 +170,8 @@
                         <div class="col-md-5">
                             <div class="about-one__image__one trevlo-tilt"
                                 data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 3, "speed": 700, "scale": 1 }'>
-                                <img src="assets/images/resources/about-1-1.jpg" alt="trevlo">
-                                <img src="assets/images/resources/about-1-2.jpg" alt="trevlo">
+                                <img src="assets/images/resources/about-1-1.jpg?=2" alt="trevlo">
+                                <img src="assets/images/resources/about-1-2.jpg?=2" alt="trevlo">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 178 30">
                                     <path d="M177.276 2.12957C155.784 21.96 90.3733 49.5857 0.667034 1.44487" />
                                 </svg>
@@ -184,7 +184,7 @@
                                 </svg>
                                 <div class="trevlo-tilt"
                                     data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 5, "speed": 700, "scale": 1 }'>
-                                    <img src="assets/images/resources/about-1-3.jpg" alt="trevlo">
+                                    <img src="assets/images/resources/about-1-3.jpg?=2" alt="trevlo">
                                 </div>
                                 <div class="about-one__image__two__shape"><img
                                         src="assets/images/shapes/about-1-shape-3.png" alt="trevlo"></div>
