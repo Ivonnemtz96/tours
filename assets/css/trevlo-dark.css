@@ -1,8 +1,8 @@
 :root {
   --trevlo-primary: #ffffff;
   --trevlo-primary-rgb: toRGB(#ffffff);
-  --trevlo-white: #2D2330;
-  --trevlo-white-rgb: toRGB(#2D2330);
+  --trevlo-white: #15163e;
+  --trevlo-white-rgb: toRGB(#15163e);
 }
 
 .why-choose-one,
@@ -10,7 +10,7 @@
 .preloader,
 .main-header__phone-icon::after,
 .topbar-one::after {
-  background-color: var(--trevlo-white, #2D2330);
+  background-color: var(--trevlo-white, #15163e);
 }
 
 .testimonials-card:hover .testimonials-card__meta__name,
@@ -26,7 +26,7 @@
 .topbar-one__social-link:hover,
 .main-menu .main-menu__list > li.current > a,
 .main-menu .main-menu__list > li:hover > a {
-  color: var(--trevlo-white, #2D2330);
+  color: var(--trevlo-white, #15163e);
 }
 
 .tour-listing__card-camera-btn,
@@ -139,7 +139,7 @@
 
 .blog-card__overlay,
 .main-slider-one__image::after {
-  background-color: var(--trevlo-white, #2D2330);
+  background-color: var(--trevlo-white, #15163e);
   opacity: 0.6;
 }
 
@@ -160,24 +160,24 @@
 .banner-form__control input[type=text],
 .banner-form__control input[type=number],
 .banner-form__control input[type=email] {
-  color: var(--trevlo-white, #2D2330);
+  color: var(--trevlo-white, #15163e);
 }
 .banner-form__control input[type=text]::-moz-placeholder,
 .banner-form__control input[type=number]::-moz-placeholder,
 .banner-form__control input[type=email]::-moz-placeholder {
-  color: var(--trevlo-white, #2D2330);
+  color: var(--trevlo-white, #15163e);
   opacity: 1;
 }
 .banner-form__control input[type=text]::-ms-input-placeholder,
 .banner-form__control input[type=number]::-ms-input-placeholder,
 .banner-form__control input[type=email]::-ms-input-placeholder {
-  color: var(--trevlo-white, #2D2330);
+  color: var(--trevlo-white, #15163e);
   opacity: 1;
 }
 .banner-form__control input[type=text]::-webkit-input-placeholder,
 .banner-form__control input[type=number]::-webkit-input-placeholder,
 .banner-form__control input[type=email]::-webkit-input-placeholder {
-  color: var(--trevlo-white, #2D2330);
+  color: var(--trevlo-white, #15163e);
   opacity: 1;
 }
 
@@ -185,12 +185,12 @@
   color: var(--trevlo-primary, #ffffff);
 }
 .banner-form .trevlo-btn::after {
-  background-color: var(--trevlo-white, #2D2330);
+  background-color: var(--trevlo-white, #15163e);
 }
 
 .banner-form__control .bootstrap-select .dropdown-menu > li > a {
   background-color: var(--trevlo-primary, #ffffff);
-  color: var(--trevlo-white, #2D2330);
+  color: var(--trevlo-white, #15163e);
 }
 
 .banner-form__control .bootstrap-select .dropdown-menu > li:hover > a,
@@ -199,12 +199,12 @@
 }
 
 .ui-datepicker.ui-widget-content {
-  border: 1px solid var(--trevlo-white, #2D2330);
-  color: var(--trevlo-white, #2D2330);
+  border: 1px solid var(--trevlo-white, #15163e);
+  color: var(--trevlo-white, #15163e);
 }
 
 .ui-datepicker .ui-datepicker-header {
-  background-color: var(--trevlo-white, #2D2330);
+  background-color: var(--trevlo-white, #15163e);
   color: var(--trevlo-primary, #ffffff);
 }
 
@@ -215,7 +215,7 @@
 .ui-datepicker-calendar .ui-state-default,
 .ui-datepicker-calendar .ui-widget-content .ui-state-default,
 .ui-datepicker-calendar .ui-widget-header .ui-state-default {
-  color: var(--trevlo-white, #2D2330);
+  color: var(--trevlo-white, #15163e);
 }
 .ui-datepicker-calendar .ui-state-default:hover,
 .ui-datepicker-calendar .ui-widget-content .ui-state-default:hover,

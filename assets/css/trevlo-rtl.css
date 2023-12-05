@@ -69,9 +69,9 @@
   --trevlo-font2: "Urbanist", sans-serif;
   --trevlo-font3: "Manrope", sans-serif;
   --trevlo-special-font: "Covered By Your Grace", cursive;
-  --trevlo-base: #FF5956;
+  --trevlo-base: #dcab2a;
   --trevlo-base-rgb: 255, 89, 86;
-  --trevlo-primary: #2D2330;
+  --trevlo-primary: #15163e;
   --trevlo-primary-rgb: 45, 35, 48;
   --trevlo-secondary: #736D75;
   --trevlo-secondary-rgb: 115, 109, 117;
@@ -312,7 +312,7 @@
 }
 .sec-title__tagline {
   font-size: var(--trevlo-size-xl, 14px);
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   line-height: 0.9;
   letter-spacing: 1.4px;
   text-transform: uppercase;
@@ -340,7 +340,7 @@ body.locked {
 }
 
 a {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 
 a,
@@ -389,7 +389,7 @@ h4,
 h5,
 h6 {
   font-family: var(--trevlo-font, "DM Sans", sans-serif);
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   font-weight: 700;
 }
 @media (max-width: 575px) {
@@ -509,7 +509,7 @@ path {
   -webkit-appearance: none;
   border: none;
   outline: none !important;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   color: var(--trevlo-white, #ffffff);
   font-size: var(--trevlo-size-2xl, 16px);
   font-family: var(--trevlo-font, "DM Sans", sans-serif);
@@ -539,7 +539,7 @@ path {
   height: 150%;
   border-top-right-radius: 50%;
   border-top-left-radius: 50%;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   transition: 700ms cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
 .trevlo-btn::after {
@@ -552,12 +552,12 @@ path {
   height: 150%;
   border-bottom-right-radius: 50%;
   border-bottom-left-radius: 50%;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   transition-duration: 700ms;
   transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
 .trevlo-btn:hover {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .trevlo-btn:hover::before {
   top: 100%;
@@ -566,19 +566,19 @@ path {
   bottom: -50%;
 }
 .trevlo-btn--primary:hover {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .trevlo-btn--primary::after {
   background-color: var(--trevlo-white, #ffffff);
 }
 .trevlo-btn--primary::before {
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
 }
 .trevlo-btn--secondary:hover {
   color: var(--trevlo-white, #ffffff);
 }
 .trevlo-btn--secondary::after {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .trevlo-btn--secondary::before {
   background-color: var(--trevlo-secondary, #736D75);
@@ -587,19 +587,19 @@ path {
   color: var(--trevlo-white, #ffffff);
 }
 .trevlo-btn--black::after {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .trevlo-btn--black::before {
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
 }
 .trevlo-btn--base:hover {
   color: var(--trevlo-white, #ffffff);
 }
 .trevlo-btn--base::after {
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
 }
 .trevlo-btn--base::before {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .trevlo-btn--base-two:hover {
   color: var(--trevlo-white, #ffffff);
@@ -608,25 +608,25 @@ path {
   background-color: var(--trevlo-black4, #241C26);
 }
 .trevlo-btn--base-two::before {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .trevlo-btn--base-three:hover {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .trevlo-btn--base-three::after {
   background-color: var(--trevlo-white, #ffffff);
 }
 .trevlo-btn--base-three::before {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .trevlo-btn--white {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .trevlo-btn--white:hover {
   color: var(--trevlo-white, #ffffff);
 }
 .trevlo-btn--white::after {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .trevlo-btn--white::before {
   background-color: var(--trevlo-white, #ffffff);
@@ -639,7 +639,7 @@ path {
   color: var(--trevlo-white, #ffffff);
 }
 .trevlo-btn--white-two::after {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .trevlo-btn--white-two::before {
   background-color: var(--trevlo-white2, #FAF5EE);
@@ -648,7 +648,7 @@ path {
   color: var(--trevlo-white, #ffffff);
 }
 .trevlo-btn--gray::after {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .trevlo-btn--gray::before {
   background-color: RGBA(var(--trevlo-white-rgb, 255, 255, 255), 0.14);
@@ -661,7 +661,7 @@ path {
 }
 .trevlo-ratings i {
   font-size: 15px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 
 .trevlo-ratings-two {
@@ -675,7 +675,7 @@ path {
   transition: all 500ms ease;
 }
 .trevlo-ratings-two i.hover, .trevlo-ratings-two i.active {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 
 .trevlo-progress {
@@ -701,7 +701,7 @@ path {
   width: 0px;
   height: 12px;
   border-radius: 30px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   -webkit-transition: all 1500ms ease;
   -ms-transition: all 1500ms ease;
   -o-transition: all 1500ms ease;
@@ -752,7 +752,7 @@ path {
   font-size: 16px;
   line-height: 1;
   font-weight: 700;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   background-color: transparent;
   text-align: center;
   appearance: none;
@@ -769,10 +769,10 @@ path {
   align-items: center;
   justify-content: center;
   font-size: 11px;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .quantity-box__btn:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 
 .price-ranger #slider-range {
@@ -785,12 +785,12 @@ path {
 }
 .price-ranger #slider-range .ui-slider-range {
   height: 100%;
-  background: var(--trevlo-base, #FF5956);
+  background: var(--trevlo-base, #dcab2a);
 }
 .price-ranger #slider-range .ui-slider-handle {
   position: absolute;
   top: -5px;
-  background: var(--trevlo-base, #FF5956);
+  background: var(--trevlo-base, #dcab2a);
   border: 0;
   height: 16px;
   width: 16px !important;
@@ -917,8 +917,8 @@ path {
   border: 1px solid var(--trevlo-white3, #EBE6DE);
 }
 .form-checked-box input[type=checkbox]:checked + label span {
-  background-color: var(--trevlo-base, #FF5956);
-  border-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
+  border-color: var(--trevlo-base, #dcab2a);
 }
 .form-checked-box input[type=checkbox]:checked + label span:before {
   opacity: 1;
@@ -935,7 +935,7 @@ path {
 }
 .bootstrap-select .dropdown-item.active,
 .bootstrap-select .dropdown-item:active {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 
 .tns-outer .tns-controls {
@@ -970,7 +970,7 @@ path {
 }
 .ul-list-one li::before {
   content: "\e907";
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   font-size: 26px;
   position: absolute;
   top: 50%;
@@ -1043,7 +1043,7 @@ path {
   display: inline-block;
   width: 30px;
   height: 4px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   position: relative;
   overflow: hidden;
   top: -1px;
@@ -1082,7 +1082,7 @@ path {
   background-color: var(--trevlo-white, #ffffff);
   align-items: center;
   justify-content: center;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   font-size: var(--trevlo-size-4xl, 20px);
   font-weight: 700;
   border-radius: 6px;
@@ -1099,14 +1099,14 @@ path {
   font-size: 12px;
 }
 .post-pagination a:hover {
-  background-color: var(--trevlo-base, #FF5956);
-  border-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
+  border-color: var(--trevlo-base, #dcab2a);
   color: var(--trevlo-white, #ffffff);
 }
 .post-pagination li:first-child a {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   color: var(--trevlo-white, #ffffff);
-  border-color: var(--trevlo-base, #FF5956);
+  border-color: var(--trevlo-base, #dcab2a);
 }
 
 .trevlo-owl__carousel--with-shadow .owl-stage-outer {
@@ -1168,16 +1168,16 @@ path {
   transition: all 0.4s ease-in-out;
 }
 .trevlo-owl__carousel--basic-nav .owl-dots .owl-dot:hover span, .trevlo-owl__carousel--basic-nav .owl-dots .owl-dot.active span {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .trevlo-owl__carousel--basic-nav .owl-nav.disabled + .owl-dots {
   margin-top: 40px;
 }
 
 .ui-datepicker.ui-widget-content {
-  border: 1px solid var(--trevlo-primary, #2D2330);
+  border: 1px solid var(--trevlo-primary, #15163e);
   font-family: var(--trevlo-font, "DM Sans", sans-serif);
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   font-weight: 500;
   font-size: 16px;
   border-radius: 6px;
@@ -1194,7 +1194,7 @@ path {
   padding: 6px 0;
   border-radius: 6px;
   background-image: none;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   color: var(--trevlo-white, #ffffff);
   font-family: var(--trevlo-font, "DM Sans", sans-serif);
 }
@@ -1209,7 +1209,7 @@ path {
   color: var(--trevlo-white, #ffffff);
 }
 .ui-datepicker-calendar td a {
-  border-color: var(--trevlo-base, #FF5956);
+  border-color: var(--trevlo-base, #dcab2a);
   background-color: var(--trevlo-gray, #928496);
   background-image: none;
 }
@@ -1219,7 +1219,7 @@ path {
   border-color: transparent;
   background-color: var(--trevlo-white3, #EBE6DE);
   background-image: none;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   padding: 10px 5px;
   text-align: center;
   line-height: 1em;
@@ -1228,13 +1228,13 @@ path {
 .ui-datepicker-calendar .ui-widget-content .ui-state-default:hover,
 .ui-datepicker-calendar .ui-widget-header .ui-state-default:hover {
   color: var(--trevlo-white, #ffffff);
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .ui-datepicker-calendar .ui-state-highlight,
 .ui-datepicker-calendar .ui-widget-content .ui-state-highlight,
 .ui-datepicker-calendar .ui-widget-header .ui-state-highlight {
   color: var(--trevlo-white, #ffffff);
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 
 .ui-datepicker .ui-datepicker-prev,
@@ -1245,7 +1245,7 @@ path {
 }
 .ui-datepicker .ui-datepicker-prev:hover,
 .ui-datepicker .ui-datepicker-next:hover {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   color: var(--trevlo-white, #ffffff);
 }
 
@@ -1273,7 +1273,7 @@ path {
 .daterangepicker {
   border: 1px solid var(--trevlo-white3, #EBE6DE);
   font-family: var(--trevlo-font, "DM Sans", sans-serif);
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   font-weight: 500;
   font-size: 16px;
   border-radius: 6px;
@@ -1285,7 +1285,7 @@ path {
 }
 
 .daterangepicker .calendar-table thead th.month {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   font-size: 16px;
   font-weight: 700;
   font-family: var(--trevlo-font, "DM Sans", sans-serif);
@@ -1302,13 +1302,13 @@ path {
 
 .daterangepicker .calendar-table .next span,
 .daterangepicker .calendar-table .prev span {
-  border-color: var(--trevlo-primary, #2D2330);
+  border-color: var(--trevlo-primary, #15163e);
   transition: all 500ms ease;
 }
 
 .daterangepicker .calendar-table .next:hover,
 .daterangepicker .calendar-table .prev:hover {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 
 .daterangepicker .calendar-table .next:hover span,
@@ -1317,7 +1317,7 @@ path {
 }
 
 .daterangepicker .calendar-table thead th {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   font-size: 14px;
   font-weight: 700;
   font-family: var(--trevlo-font, "DM Sans", sans-serif);
@@ -1328,7 +1328,7 @@ path {
   border-color: transparent;
   background-color: var(--trevlo-white3, #EBE6DE);
   background-image: none;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   padding: 10px 5px;
   text-align: center;
   line-height: 1em;
@@ -1350,7 +1350,7 @@ path {
 .daterangepicker td.active,
 .daterangepicker td:hover,
 .daterangepicker td.active:hover {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   border-color: transparent;
   color: var(--trevlo-white, #ffffff);
 }
@@ -1370,7 +1370,7 @@ path {
 
 .daterangepicker .drp-buttons .btn {
   height: 30px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   border-radius: 5px;
   font-family: var(--trevlo-font, "DM Sans", sans-serif);
   font-weight: 700;
@@ -1381,13 +1381,13 @@ path {
   padding: 0 13px;
 }
 .daterangepicker .drp-buttons .btn.cancelBtn {
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
 }
 .daterangepicker .drp-buttons .btn.cancelBtn:hover {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .daterangepicker .drp-buttons .btn:hover {
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
 }
 
 @media (max-width: 1199px) {
@@ -1545,18 +1545,18 @@ path {
   z-index: -1;
   transform: scale(0);
   transition: transform 300ms ease;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
 }
 .guide-single__share-btn:hover::after {
   transform: scale(1);
 }
 .guide-single__share-btn span {
   font-size: 14px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .guide-single__social {
   position: relative;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   display: flex;
   align-items: center;
   gap: 12px;
@@ -1578,7 +1578,7 @@ path {
   height: 0;
   border-style: solid;
   border-width: 4.5px 0 4.5px 9px;
-  border-color: transparent transparent transparent var(--trevlo-primary, #2D2330);
+  border-color: transparent transparent transparent var(--trevlo-primary, #15163e);
 }
 .guide-single__social li a {
   font-size: 14px;
@@ -1588,7 +1588,7 @@ path {
   color: inherit;
 }
 .guide-single__social li a:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .guide-single:hover .guide-single__social {
   transform: translateX(0px);
@@ -1661,20 +1661,20 @@ path {
   transition: all 0.4s ease-in-out;
 }
 .testimonials-card:hover {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .testimonials-card:hover::after {
-  border-color: var(--trevlo-base, #FF5956) transparent transparent transparent;
+  border-color: var(--trevlo-base, #dcab2a) transparent transparent transparent;
 }
 .testimonials-card:hover .testimonials-card__quote,
 .testimonials-card:hover .testimonials-card__ratings {
   color: var(--trevlo-white, #ffffff);
 }
 .testimonials-card:hover .testimonials-card__meta {
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
 }
 .testimonials-card:hover .testimonials-card__meta::after {
-  border-color: transparent var(--trevlo-primary, #2D2330) transparent transparent;
+  border-color: transparent var(--trevlo-primary, #15163e) transparent transparent;
 }
 .testimonials-card__ratings {
   display: flex;
@@ -1682,7 +1682,7 @@ path {
   gap: 4px;
   margin-bottom: 37px;
   font-size: 19px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   transition: all 0.4s ease-in-out;
 }
 @media (max-width: 767px) {
@@ -1717,7 +1717,7 @@ path {
   left: -13px;
   text-align: center;
   padding: 5px 20px 10px 31px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   border-radius: 0px 6px 6px 0px;
   transition: all 400ms ease;
 }
@@ -1747,7 +1747,7 @@ path {
   height: 0;
   border-style: solid;
   border-width: 22px 13px 0 0;
-  border-color: transparent var(--trevlo-base, #FF5956) transparent transparent;
+  border-color: transparent var(--trevlo-base, #dcab2a) transparent transparent;
   transition: all 0.4s ease-in-out;
 }
 .testimonials-card__quote {
@@ -1847,7 +1847,7 @@ path {
   width: 118px;
   height: 118px;
   border-radius: 50%;
-  border: 4px solid var(--trevlo-base, #FF5956);
+  border: 4px solid var(--trevlo-base, #dcab2a);
   overflow: hidden;
 }
 .testimonials-card-two__image img {
@@ -1863,7 +1863,7 @@ path {
   align-items: center;
   gap: 3px;
   font-size: 19px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   transition: all 0.4s ease-in-out;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
@@ -1895,7 +1895,7 @@ path {
   bottom: -19px;
   width: 54px;
   height: 46px;
-  fill: var(--trevlo-base, #FF5956);
+  fill: var(--trevlo-base, #dcab2a);
 }
 @media (max-width: 767px) {
   .testimonials-card-two svg {
@@ -1947,7 +1947,7 @@ path {
   height: 64px;
   border-radius: 11px;
   font-size: 28px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   opacity: 0;
   transition: all 500ms ease;
 }
@@ -2016,7 +2016,7 @@ path {
   height: 246px;
   border-radius: 50%;
   z-index: 2;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   transform: translateY(0);
   transition: transform 600ms ease;
 }
@@ -2038,7 +2038,7 @@ path {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   mix-blend-mode: luminosity;
   opacity: 0.5;
 }
@@ -2083,7 +2083,7 @@ path {
 }
 .pricing-card__list li span {
   font-size: 16px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   transition: all 0.6s ease;
 }
 .pricing-card__list li p {
@@ -2113,7 +2113,7 @@ path {
   background-color: var(--trevlo-white, #ffffff);
 }
 .pricing-card:hover .pricing-card__btn span {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .pricing-card:hover .pricing-card__btn::before {
   background-color: var(--trevlo-white, #ffffff);
@@ -2141,7 +2141,7 @@ path {
   top: 0;
   right: 0;
   border-radius: 0 0 30px 30px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   transition: all 0.6s ease;
 }
 .pricing-card:hover .pricing-card__overlay::after {
@@ -2193,7 +2193,7 @@ path {
   min-width: 66px;
   padding: 3px 5px;
   display: table;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   font-size: var(--trevlo-size-md, 12px);
   color: var(--trevlo-white, #ffffff);
   text-align: center;
@@ -2210,7 +2210,7 @@ path {
   display: table;
   background-color: var(--trevlo-white, #ffffff);
   font-size: var(--trevlo-size-md, 12px);
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   text-align: center;
   font-weight: 700;
   line-height: 1.5;
@@ -2232,7 +2232,7 @@ path {
   color: var(--trevlo-white, #ffffff);
 }
 .tour-listing__card-wishlist:hover {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .tour-listing__card-image-overlay {
   width: 100%;
@@ -2291,11 +2291,11 @@ path {
   border-radius: 50%;
   border: 1px solid var(--trevlo-white3, #EBE6DE);
   font-size: 16px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .tour-listing__card-camera-btn:hover {
-  background-color: var(--trevlo-base, #FF5956);
-  border-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
+  border-color: var(--trevlo-base, #dcab2a);
   color: var(--trevlo-white, #ffffff);
 }
 .tour-listing__card-title {
@@ -2304,7 +2304,7 @@ path {
   margin-bottom: 1px;
 }
 .tour-listing__card-title:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .tour-listing__card-title a {
   color: inherit;
@@ -2334,7 +2334,7 @@ path {
   position: absolute;
   right: 0;
   bottom: 0;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   z-index: 1;
   border-radius: 10px 10px 0 0;
   transition: all 500ms ease;
@@ -2353,7 +2353,7 @@ path {
   position: relative;
   top: 4px;
   font-size: 14px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-left: 5px;
   transition: all 0.4s ease-in-out;
 }
@@ -2374,7 +2374,7 @@ path {
   position: relative;
   top: 4px;
   font-size: 14px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-left: 5px;
   transition: all 0.4s ease-in-out;
 }
@@ -2418,7 +2418,7 @@ path {
   position: relative;
   top: -1px;
   font-size: 14px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-left: 9px;
   transition: all 0.4s ease-in-out;
 }
@@ -2440,7 +2440,7 @@ path {
   position: relative;
   top: -1px;
   font-size: 14px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-left: 9px;
   transition: all 0.4s ease-in-out;
 }
@@ -2487,7 +2487,7 @@ path {
   margin: auto;
   z-index: 1;
   border-radius: 0px 0px 20px 20px;
-  background: linear-gradient(0deg, #2D2330 0%, rgba(0, 0, 0, 0) 98.58%);
+  background: linear-gradient(0deg, #15163e 0%, rgba(0, 0, 0, 0) 98.58%);
   transition-delay: 0.1s;
   transition-timing-function: ease-in-out;
   transition-duration: 0.5s;
@@ -2590,22 +2590,22 @@ path {
   margin-top: 18px;
 }
 .tour-listing-two__card:hover .tour-listing__card-review-box span {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .tour-listing-two .tour-listing__card-review-text {
   font-weight: 700;
 }
 .tour-listing-two__card:hover .tour-listing__card-review-text {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .tour-listing-two__card:hover .tour-listing__card-location-box span {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .tour-listing-two .tour-listing__card-location-text {
   font-weight: 700;
 }
 .tour-listing-two__card:hover .tour-listing__card-location-text {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .tour-listing-two .tour-listing__card-camera-group {
   position: static;
@@ -2625,22 +2625,22 @@ path {
   background-color: RGBA(var(--trevlo-primary-rgb, 45, 35, 48), 0.1);
 }
 .tour-listing-two__card:hover .tour-listing__card-day span {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .tour-listing-two .tour-listing__card-day-text {
   font-weight: 700;
 }
 .tour-listing-two__card:hover .tour-listing__card-day-text {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .tour-listing-two__card:hover .tour-listing__card-people span {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .tour-listing-two .tour-listing__card-people-text {
   font-weight: 700;
 }
 .tour-listing-two__card:hover .tour-listing__card-people-text {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .tour-listing-two__card:hover .tour-listing-two__card-show-day-text {
   color: var(--trevlo-white, #ffffff);
@@ -2652,7 +2652,7 @@ path {
   color: var(--trevlo-white, #ffffff);
 }
 .tour-listing-two__card:hover .tour-listing__card-price {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 
 .tour-listing-three__card {
@@ -2926,7 +2926,7 @@ path {
 }
 .destination-two__card-title {
   font-size: var(--trevlo-size-7xl, 30px);
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   line-height: 1.4;
   margin-bottom: 0;
   text-transform: capitalize;
@@ -2940,7 +2940,7 @@ path {
   background-size: 100% 1px;
 }
 .destination-two__card-title:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .destination-two__card:hover .destination-two__card-img {
   transform: scale(1.1);
@@ -3035,7 +3035,7 @@ path {
   left: 0;
   display: table;
   padding: 11.5px 17px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   text-align: center;
   border-radius: 8px;
 }
@@ -3076,7 +3076,7 @@ path {
   top: -1px;
   display: inline-block;
   font-size: 14px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-left: 5px;
 }
 .blog-card__meta-author {
@@ -3090,7 +3090,7 @@ path {
 }
 .blog-card__title {
   font-size: var(--trevlo-size-5xl, 24px);
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   line-height: 1.25;
   text-transform: capitalize;
   font-weight: 700;
@@ -3106,7 +3106,7 @@ path {
   background-size: 100% 1px;
 }
 .blog-card__title a:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .blog-card__link {
   border-top: 1px solid var(--trevlo-white3, #EBE6DE);
@@ -3129,13 +3129,13 @@ path {
   background-size: 100% 1px;
 }
 .blog-card__link:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .blog-card__link i {
   font-size: 12px;
   margin-right: 9px;
   transition: all 0ms ease;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 
 .blog-card-three .blog__card-img {
@@ -3155,7 +3155,7 @@ path {
   left: 0;
   bottom: 0;
   text-align: center;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   border-radius: 0px 20px 0px 10px;
   z-index: 11;
 }
@@ -3220,7 +3220,7 @@ path {
   top: -1px;
   display: inline-block;
   font-size: 14px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-left: 5px;
 }
 .blog-card-three .blog__card-meta-author {
@@ -3233,7 +3233,7 @@ path {
 }
 .blog-card-three .blog__card-title {
   font-size: var(--trevlo-size-7xl, 30px);
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   line-height: 1.3;
   letter-spacing: -0.5px;
   margin-bottom: 12px;
@@ -3336,7 +3336,7 @@ path {
   margin-bottom: 13px;
 }
 .blog-card-two__comment span {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-left: 5px;
 }
 .blog-card-two__title {
@@ -3353,7 +3353,7 @@ path {
   background-size: 100% 1px;
 }
 .blog-card-two__title a:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .blog-card-two__text {
   opacity: 0.6;
@@ -3395,7 +3395,7 @@ path {
   background-size: 100% 1px;
 }
 .blog-card-two__author__name a:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .blog-card-two__author__designation {
   line-height: 1;
@@ -3413,7 +3413,7 @@ path {
   border-radius: 50%;
   background-color: var(--trevlo-white, #ffffff);
   font-size: 12px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   overflow: hidden;
 }
 .blog-card-two__rm span {
@@ -3422,7 +3422,7 @@ path {
   backface-visibility: hidden;
 }
 .blog-card-two__rm:hover {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   color: var(--trevlo-white, #ffffff);
 }
 .blog-card-two__rm:hover span {
@@ -3472,7 +3472,7 @@ path {
   bottom: 0;
   z-index: 2;
   display: inline-block;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   text-align: center;
   line-height: 1;
   border-radius: 0px 20px 0px 10px;
@@ -3577,9 +3577,9 @@ path {
 }
 .form-one__group .bootstrap-select .dropdown-menu > li:hover > a,
 .form-one__group .bootstrap-select .dropdown-menu > li.selected > a {
-  background: var(--trevlo-base, #FF5956);
+  background: var(--trevlo-base, #dcab2a);
   color: var(--trevlo-white, #ffffff);
-  border-color: var(--trevlo-base, #FF5956);
+  border-color: var(--trevlo-base, #dcab2a);
 }
 .form-one__btn-box {
   position: relative;
@@ -3704,7 +3704,7 @@ path {
   display: block;
   width: 100%;
   background-color: transparent;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   font-size: 16px;
   font-weight: 500;
   height: 34px;
@@ -3718,21 +3718,21 @@ path {
 .banner-form__control input[type=text]::-moz-placeholder,
 .banner-form__control input[type=number]::-moz-placeholder,
 .banner-form__control input[type=email]::-moz-placeholder {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   opacity: 1;
 }
 .banner-form__control .bootstrap-select > .dropdown-toggle::-ms-input-placeholder,
 .banner-form__control input[type=text]::-ms-input-placeholder,
 .banner-form__control input[type=number]::-ms-input-placeholder,
 .banner-form__control input[type=email]::-ms-input-placeholder {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   opacity: 1;
 }
 .banner-form__control .bootstrap-select > .dropdown-toggle::-webkit-input-placeholder,
 .banner-form__control input[type=text]::-webkit-input-placeholder,
 .banner-form__control input[type=number]::-webkit-input-placeholder,
 .banner-form__control input[type=email]::-webkit-input-placeholder {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   opacity: 1;
 }
 .banner-form__control i {
@@ -3763,7 +3763,7 @@ path {
   border-radius: 0;
   border: none;
   outline: none !important;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   font-size: 16px;
   font-weight: 500;
   text-transform: capitalize;
@@ -3802,16 +3802,16 @@ path {
   font-size: 16px;
   font-weight: 500;
   padding: 10px 30px;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   background-color: var(--trevlo-white, #ffffff);
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
 }
 .banner-form__control .bootstrap-select .dropdown-menu > li:hover > a,
 .banner-form__control .bootstrap-select .dropdown-menu > li.selected > a {
-  background: var(--trevlo-base, #FF5956);
+  background: var(--trevlo-base, #dcab2a);
   color: var(--trevlo-white, #ffffff);
-  border-color: var(--trevlo-base, #FF5956);
+  border-color: var(--trevlo-base, #dcab2a);
 }
 .banner-form__qty-minus {
   display: flex;
@@ -3839,7 +3839,7 @@ path {
   transition: all 500ms ease;
 }
 .banner-form__qty-minus i:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .banner-form__qty-plus {
   display: flex;
@@ -3867,7 +3867,7 @@ path {
   transition: all 500ms ease;
 }
 .banner-form__qty-plus i:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .banner-form__btn {
   display: flex;
@@ -3898,7 +3898,7 @@ path {
   transition: all 500ms ease;
 }
 .banner-form__filter:hover, .banner-form__filter.active {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .banner-form .trevlo-btn {
   height: 100px;
@@ -3962,10 +3962,10 @@ path {
   border-radius: 8px;
 }
 .banner-form__popup__slider-wrapper .ui-slider-horizontal .ui-slider-range {
-  background: var(--trevlo-base, #FF5956);
+  background: var(--trevlo-base, #dcab2a);
 }
 .banner-form__popup__slider-wrapper .ui-slider-handle {
-  background: var(--trevlo-base, #FF5956);
+  background: var(--trevlo-base, #dcab2a);
   border-radius: 50%;
   display: inline-block;
   height: 15px;
@@ -3980,7 +3980,7 @@ path {
   height: 22px;
   text-align: center;
   border: none;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   border-radius: 5px;
   font-size: 12px;
   font-weight: 500;
@@ -4003,7 +4003,7 @@ path {
   height: 0;
   border-style: solid;
   border-width: 5px 5px 0 5px;
-  border-color: var(--trevlo-base, #FF5956) transparent transparent transparent;
+  border-color: var(--trevlo-base, #dcab2a) transparent transparent transparent;
 }
 .banner-form__popup__slider-wrapper .ui-slider-handle + .ui-slider-handle span {
   right: -15px;
@@ -4079,8 +4079,8 @@ path {
   opacity: 1;
 }
 .banner-form__popup__checkbox li input[type=checkbox]:checked + label span {
-  background-color: var(--trevlo-base, #FF5956);
-  border-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
+  border-color: var(--trevlo-base, #dcab2a);
 }
 
 /*--------------------------------------------------------------
@@ -4090,7 +4090,7 @@ path {
   width: 25px;
   height: 25px;
   border-radius: 100%;
-  border: 1px solid var(--trevlo-base, #FF5956);
+  border: 1px solid var(--trevlo-base, #dcab2a);
   -webkit-transition: all 200ms ease-out;
   transition: all 200ms ease-out;
   position: fixed;
@@ -4105,7 +4105,7 @@ path {
   width: 10px;
   height: 10px;
   border-radius: 100%;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   opacity: 0.3;
   position: fixed;
   -webkit-transform: translate(50%, -50%);
@@ -4116,7 +4116,7 @@ path {
   z-index: 999991;
 }
 .custom-cursor__hover {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   opacity: 0.4;
 }
 .custom-cursor__innerhover {
@@ -4130,7 +4130,7 @@ path {
 --------------------------------------------------------------*/
 .topbar-one {
   position: relative;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   z-index: 1;
 }
 .topbar-one::after {
@@ -4140,7 +4140,7 @@ path {
   position: absolute;
   top: 0;
   right: 0;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   z-index: -1;
   border-radius: 0 0 0 10px;
 }
@@ -4188,7 +4188,7 @@ path {
 }
 .topbar-one__info-icon {
   font-size: 12px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   position: relative;
   top: 0;
   margin-left: 3px;
@@ -4208,7 +4208,7 @@ path {
   margin-bottom: 0;
 }
 .topbar-one__info a:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .topbar-one__right {
   display: flex;
@@ -4243,7 +4243,7 @@ path {
   transition: all 500ms ease;
 }
 .topbar-one__social-link:hover {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 
 /*--------------------------------------------------------------
@@ -4258,7 +4258,7 @@ path {
   content: "";
   width: 418px;
   height: 100%;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   position: absolute;
   top: 0;
   left: 0;
@@ -4401,7 +4401,7 @@ path {
   content: "";
   width: 100%;
   height: 100%;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   position: absolute;
   top: 0;
   right: 0;
@@ -4413,7 +4413,7 @@ path {
 }
 .main-header__phone-icon span {
   font-size: 20px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   transition: all 0.3s ease-in-out;
 }
 .main-header__phone-title {
@@ -4439,7 +4439,7 @@ path {
   background-size: 100% 1px;
 }
 .main-header__phone-number a:hover {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .main-header__phone:hover .main-header__phone-icon::after {
   transform: scale(1);
@@ -4449,7 +4449,7 @@ path {
   color: var(--trevlo-white, #ffffff);
 }
 .main-header__phone:hover .main-header__phone-number h4 {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .main-header__divider {
   width: 1px;
@@ -4503,15 +4503,15 @@ path {
 }
 @media (max-width: 1399px) {
   .main-header__user, .main-header__search {
-    color: var(--trevlo-primary, #2D2330);
+    color: var(--trevlo-primary, #15163e);
   }
 }
 .main-header__user:hover, .main-header__search:hover {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 @media (max-width: 1399px) {
   .main-header__user:hover, .main-header__search:hover {
-    color: var(--trevlo-base, #FF5956);
+    color: var(--trevlo-base, #dcab2a);
   }
 }
 .main-header--home-three {
@@ -4556,7 +4556,7 @@ path {
   }
 }
 .main-header--home-three .main-header__phone-icon {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .main-header--home-three .main-header__phone-icon span {
   color: var(--trevlo-white, #ffffff);
@@ -4566,7 +4566,7 @@ path {
   color: var(--trevlo-secondary, #736D75);
 }
 .main-header--home-three .main-header__phone-number {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .main-header--home-three .main-menu {
   margin-right: 140px;
@@ -4593,11 +4593,11 @@ path {
 }
 .main-header--home-three .main-menu .main-menu__list > li.current > a,
 .main-header--home-three .main-menu .main-menu__list > li:hover > a {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .main-header--home-three .main-header__user:hover,
 .main-header--home-three .main-header__search:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 @media (min-width: 1200px) and (max-width: 1299px) {
   .main-header--home-three .mobile-nav__btn {
@@ -4617,25 +4617,25 @@ path {
   }
 }
 .main-header--home-three.sticky-header--cloned .main-menu .main-menu__list > li > a {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .main-header--home-three.sticky-header--cloned .main-menu .main-menu__list > li.current > a,
 .main-header--home-three.sticky-header--cloned .main-menu .main-menu__list > li:hover > a {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .main-header--home-three.sticky-header--cloned .main-header__divider {
   background-color: rgba(var(--trevlo-primary-rgb, 45, 35, 48), 0.2);
 }
 .main-header--home-three.sticky-header--cloned .main-header__user,
 .main-header--home-three.sticky-header--cloned .main-header__search {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .main-header--home-three.sticky-header--cloned .main-header__user:hover,
 .main-header--home-three.sticky-header--cloned .main-header__search:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .main-header--home-three.sticky-header--cloned .mobile-nav__btn span {
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
 }
 .main-header--home-three.sticky-header--cloned .main-header__right-right {
   border-color: rgba(var(--trevlo-primary-rgb, 45, 35, 48), 0.2);
@@ -4677,7 +4677,7 @@ path {
 .mobile-nav__btn span {
   width: 100%;
   height: 2px;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   transition: all 0.3s ease-in-out;
 }
 .mobile-nav__btn span:nth-child(2) {
@@ -4685,7 +4685,7 @@ path {
   margin-bottom: 5px;
 }
 .mobile-nav__btn:hover span {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 
 .main-menu {
@@ -4728,7 +4728,7 @@ path {
 }
 .main-menu .main-menu__list > li.current > a,
 .main-menu .main-menu__list > li:hover > a {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   text-shadow: 0 0 0.5px currentColor;
 }
 .main-menu .main-menu__list li ul {
@@ -4795,7 +4795,7 @@ path {
   font-weight: 700;
   font-family: "Font Awesome 5 Free";
   content: "\f061";
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   visibility: hidden;
   opacity: 0;
   transition: all 500ms ease;
@@ -4804,7 +4804,7 @@ path {
 .main-menu .main-menu__list li ul li.current > a,
 .main-menu .main-menu__list li ul li:hover > a {
   background-color: var(--trevlo-white2, #FAF5EE);
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .main-menu .main-menu__list li ul li.current > a::after,
 .main-menu .main-menu__list li ul li:hover > a::after {
@@ -4916,10 +4916,10 @@ body.megamenu-popup-active .mobile-nav__content {
   }
 }
 .megamenu-popup .demo-one__btn::before {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .megamenu-popup .demo-one__btn::after {
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
 }
 .megamenu-popup .megamenu-clickable--close {
   position: absolute;
@@ -4935,7 +4935,7 @@ body.megamenu-popup-active .mobile-nav__content {
   }
 }
 .megamenu-popup .megamenu-clickable--close:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .megamenu-popup .megamenu-clickable--close span {
   width: 24px;
@@ -4982,7 +4982,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .demo-one__title {
   margin: 0;
   font-size: var(--trevlo-size-4xl, 20px);
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   text-transform: capitalize;
   font-weight: 700;
 }
@@ -5077,7 +5077,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .home-showcase .demo-one__title {
   font-size: var(--trevlo-size-4xl, 20px);
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   font-weight: 700;
   padding-top: 17px;
   padding-bottom: 19px;
@@ -5089,7 +5089,7 @@ body.megamenu-popup-active .mobile-nav__content {
   }
 }
 .home-showcase .demo-one__title:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 
 /*--------------------------------------------------------------
@@ -5382,14 +5382,14 @@ body.megamenu-popup-active .mobile-nav__content {
   right: 0;
   left: 0;
   bottom: 0;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   opacity: 0.7;
   cursor: url(../images/close.svg), auto;
 }
 
 .mobile-nav__content {
   width: 300px;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   z-index: 10;
   position: relative;
   height: 100%;
@@ -5422,7 +5422,7 @@ body.megamenu-popup-active .mobile-nav__content {
   cursor: pointer;
 }
 .mobile-nav__close:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 
 .mobile-nav__content .main-menu__list,
@@ -5461,13 +5461,13 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 
 .mobile-nav__content .main-menu__list li a.expanded {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 
 .mobile-nav__content .main-menu__list li a button {
   width: 30px;
   height: 30px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   border: none;
   outline: none;
   color: var(--trevlo-white, #ffffff);
@@ -5498,7 +5498,7 @@ body.megamenu-popup-active .mobile-nav__content {
   margin-right: 20px;
 }
 .mobile-nav__social a:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 
 .mobile-nav__contact {
@@ -5522,13 +5522,13 @@ body.megamenu-popup-active .mobile-nav__content {
   transition: 500ms;
 }
 .mobile-nav__contact li a:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .mobile-nav__contact li > i {
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -5663,7 +5663,7 @@ body.megamenu-popup-active .mobile-nav__content {
   text-align: center;
   border-radius: 0;
   padding: 0;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .search-popup__btn span {
   font-size: 22px;
@@ -5719,7 +5719,7 @@ body.megamenu-popup-active .mobile-nav__content {
 # Page Header
 -----------------------------------------*/
 .page-header {
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   position: relative;
   padding: 128px 0 143px;
   z-index: 1;
@@ -5779,7 +5779,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .trevlo-breadcrumb li {
   font-family: var(--trevlo-font, "DM Sans", sans-serif);
   font-size: var(--trevlo-size-2xl, 16px);
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   line-height: 1.875;
   font-weight: 500;
   text-transform: capitalize;
@@ -5799,7 +5799,7 @@ body.megamenu-popup-active .mobile-nav__content {
   display: inline-flex;
 }
 .trevlo-breadcrumb li a:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 
 /*--------------------------------------------------------------
@@ -5903,7 +5903,7 @@ body.megamenu-popup-active .mobile-nav__content {
   content: "\f107";
   font-weight: 900;
   font-size: 16px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .showing-result__sort .bootstrap-select .dropdown-menu > li + li > a {
   border-top: 1px solid var(--trevlo-white3, #EBE6DE);
@@ -5920,9 +5920,9 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .showing-result__sort .bootstrap-select .dropdown-menu > li:hover > a,
 .showing-result__sort .bootstrap-select .dropdown-menu > li.selected > a {
-  background: var(--trevlo-base, #FF5956);
+  background: var(--trevlo-base, #dcab2a);
   color: var(--trevlo-white, #ffffff);
-  border-color: var(--trevlo-base, #FF5956);
+  border-color: var(--trevlo-base, #dcab2a);
 }
 
 /*--------------------------------------------------------------
@@ -6042,7 +6042,7 @@ body.megamenu-popup-active .mobile-nav__content {
   width: 178px;
   height: 30px;
   stroke-width: 2px;
-  stroke: var(--trevlo-base, #FF5956);
+  stroke: var(--trevlo-base, #dcab2a);
   position: absolute;
   right: 10px;
   bottom: -23px;
@@ -6061,7 +6061,7 @@ body.megamenu-popup-active .mobile-nav__content {
   width: 163px;
   height: 75px;
   stroke-width: 2px;
-  stroke: var(--trevlo-base, #FF5956);
+  stroke: var(--trevlo-base, #dcab2a);
   position: absolute;
   right: 0;
   top: -28px;
@@ -6171,7 +6171,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .about-one__box__icon {
   width: 76px;
   height: 76px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -6199,7 +6199,7 @@ body.megamenu-popup-active .mobile-nav__content {
   height: 150%;
   border-top-right-radius: 50%;
   border-top-left-radius: 50%;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   transition: 700ms cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
 .about-one__box__icon::after {
@@ -6212,7 +6212,7 @@ body.megamenu-popup-active .mobile-nav__content {
   height: 150%;
   border-bottom-right-radius: 50%;
   border-bottom-left-radius: 50%;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   transition-duration: 700ms;
   transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
@@ -6305,7 +6305,7 @@ body.megamenu-popup-active .mobile-nav__content {
   width: 196px;
   height: 76px;
   stroke-width: 2px;
-  stroke: var(--trevlo-base, #FF5956);
+  stroke: var(--trevlo-base, #dcab2a);
   position: absolute;
   right: -39px;
   bottom: -28px;
@@ -6382,7 +6382,7 @@ body.megamenu-popup-active .mobile-nav__content {
   margin: 0 0 22px;
 }
 .about-two__content__heading {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   font-size: 20px;
   line-height: 30px;
   margin: 0 0 25px;
@@ -6401,12 +6401,12 @@ body.megamenu-popup-active .mobile-nav__content {
   position: relative;
   font-size: 18px;
   font-weight: 700;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   padding-right: 36px;
   margin-bottom: 3px;
 }
 .about-two__content__list li span {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   position: absolute;
   right: 0;
   top: 0;
@@ -6434,7 +6434,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .about-three__content__quote {
   background-color: var(--trevlo-white2, #FAF5EE);
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   font-weight: 700;
   font-size: 20px;
   line-height: 30px;
@@ -6451,12 +6451,12 @@ body.megamenu-popup-active .mobile-nav__content {
   position: relative;
   font-size: 18px;
   font-weight: 700;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   padding-right: 36px;
   margin-bottom: 4px;
 }
 .about-three__content__list li span {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   position: absolute;
   right: 0;
   top: 0;
@@ -6553,7 +6553,7 @@ body.megamenu-popup-active .mobile-nav__content {
   z-index: 2;
   display: inline-block;
   max-width: 210px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   border-radius: 10px;
   text-align: center;
   padding: 0 20px 17px;
@@ -6576,7 +6576,7 @@ body.megamenu-popup-active .mobile-nav__content {
   height: 55px;
   border-radius: 50%;
   border: 5px solid var(--trevlo-white, #ffffff);
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   font-size: 18px;
   color: var(--trevlo-white, #ffffff);
   display: flex;
@@ -6620,7 +6620,7 @@ body.megamenu-popup-active .mobile-nav__content {
   background-size: 100% 1px;
 }
 .about-three__info__number a:hover {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 
 /*-----------------------------------------
@@ -6722,7 +6722,7 @@ body.megamenu-popup-active .mobile-nav__content {
   max-width: 244.931px;
   height: 213.973px;
   border-radius: 116.092px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 @media (max-width: 500px) {
   .about-four__discount {
@@ -6836,7 +6836,7 @@ body.megamenu-popup-active .mobile-nav__content {
   position: relative;
   width: 76px;
   height: 76px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -6855,7 +6855,7 @@ body.megamenu-popup-active .mobile-nav__content {
   z-index: -1;
   transform: scale(0);
   transition: transform 400ms ease;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
 }
 .about-four__service-icon span {
   font-size: 40px;
@@ -6886,7 +6886,7 @@ body.megamenu-popup-active .mobile-nav__content {
 -----------------------------------------*/
 .why-choose-one {
   position: relative;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   padding: 120px 0;
 }
 @media (max-width: 767px) {
@@ -6900,7 +6900,7 @@ body.megamenu-popup-active .mobile-nav__content {
   right: 0;
   left: 0;
   bottom: 0;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -6953,7 +6953,7 @@ body.megamenu-popup-active .mobile-nav__content {
   border-color: var(--trevlo-white, #ffffff);
 }
 .why-choose-one__box:hover .why-choose-one__box__title {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .why-choose-one__box:hover::after {
   bottom: -50%;
@@ -6977,7 +6977,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .why-choose-one__box__icon {
   font-size: 64px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   line-height: 64px;
   margin-bottom: 7px;
 }
@@ -7087,7 +7087,7 @@ body.megamenu-popup-active .mobile-nav__content {
   flex-shrink: 0;
   z-index: 1;
   font-size: 40px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   transition: all 0.5s ease;
 }
 .why-choose-two__box__icon::after {
@@ -7101,8 +7101,8 @@ body.megamenu-popup-active .mobile-nav__content {
   z-index: -1;
   transform: scale(0);
   transition: transform 400ms ease;
-  background-color: var(--trevlo-primary, #2D2330);
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-primary, #15163e);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .why-choose-two__box__title {
   font-size: 20px;
@@ -7110,7 +7110,7 @@ body.megamenu-popup-active .mobile-nav__content {
   margin: 0;
 }
 .why-choose-two__box:hover .why-choose-two__box__icon {
-  border-color: var(--trevlo-base, #FF5956);
+  border-color: var(--trevlo-base, #dcab2a);
   color: var(--trevlo-white, #ffffff);
 }
 .why-choose-two__box:hover .why-choose-two__box__icon::after {
@@ -7209,7 +7209,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .why-choose-three__content__text {
   font-weight: 700;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   opacity: 0.6;
   max-width: 505px;
   margin: 0 0 30px;
@@ -7250,7 +7250,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .why-choose-three__box__icon {
   width: 82px;
   height: 82px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -7271,7 +7271,7 @@ body.megamenu-popup-active .mobile-nav__content {
   height: 150%;
   border-top-right-radius: 50%;
   border-top-left-radius: 50%;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   transition: 700ms cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
 .why-choose-three__box__icon::after {
@@ -7284,7 +7284,7 @@ body.megamenu-popup-active .mobile-nav__content {
   height: 150%;
   border-bottom-right-radius: 50%;
   border-bottom-left-radius: 50%;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   transition-duration: 700ms;
   transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
@@ -7628,7 +7628,7 @@ body.megamenu-popup-active .mobile-nav__content {
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   z-index: 1;
   margin-right: auto;
   margin-left: auto;
@@ -7647,7 +7647,7 @@ body.megamenu-popup-active .mobile-nav__content {
   z-index: -1;
   transform: scale(0);
   transition: transform 400ms ease;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
 }
 .counter-box:hover .counter-box__icon::after {
   transform: scale(1);
@@ -7731,7 +7731,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .counter-two {
   position: relative;
   padding: 120px 0;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 @media (max-width: 767px) {
   .counter-two {
@@ -7825,7 +7825,7 @@ body.megamenu-popup-active .mobile-nav__content {
   position: relative;
   padding: 150px 0 120px;
   overflow: hidden;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
 }
 @media (max-width: 767px) {
   .counter-three {
@@ -7917,7 +7917,7 @@ body.megamenu-popup-active .mobile-nav__content {
   justify-content: center;
   color: var(--trevlo-white, #ffffff);
   font-size: 48px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   transition: all 0.4s ease;
   margin: 0 auto;
   overflow: hidden;
@@ -7932,7 +7932,7 @@ body.megamenu-popup-active .mobile-nav__content {
   height: 150%;
   border-top-right-radius: 50%;
   border-top-left-radius: 50%;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   transition: 700ms cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
 .counter-three__box__icon::after {
@@ -7958,7 +7958,7 @@ body.megamenu-popup-active .mobile-nav__content {
   transition: all 0.6s ease;
 }
 .counter-three__box:hover .counter-three__box__icon {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .counter-three__box:hover .counter-three__box__icon span {
   transform: rotateY(-360deg);
@@ -8024,7 +8024,7 @@ body.megamenu-popup-active .mobile-nav__content {
   z-index: -1;
   transform: scale(0);
   transition: transform 400ms ease;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   transform: scale(0.7);
   visibility: hidden;
   opacity: 0;
@@ -8065,7 +8065,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .cta-one__wrapper {
   position: relative;
   z-index: 2;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   border-radius: 30px;
   overflow: hidden;
   background-position: right top;
@@ -8248,7 +8248,7 @@ body.megamenu-popup-active .mobile-nav__content {
 
 .cta-two {
   position: relative;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   padding: 76px 0 84px;
 }
 .cta-two__sub-title {
@@ -8286,7 +8286,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .cta-three {
   position: relative;
   overflow: hidden;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .cta-three .row > * {
   padding: 0;
@@ -8310,7 +8310,7 @@ body.megamenu-popup-active .mobile-nav__content {
   width: 100%;
   height: 100%;
   position: relative;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -8404,7 +8404,7 @@ body.megamenu-popup-active .mobile-nav__content {
   position: relative;
   padding: 56px 40px 30px;
   border-radius: 10px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 @media (max-width: 991px) {
   .faq-page__contact {
@@ -8431,7 +8431,7 @@ body.megamenu-popup-active .mobile-nav__content {
   border-radius: 50%;
   justify-content: center;
   align-items: center;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   border: 8px solid var(--trevlo-white, #ffffff);
   z-index: 1;
   font-size: 28px;
@@ -8448,7 +8448,7 @@ body.megamenu-popup-active .mobile-nav__content {
   z-index: -1;
   transform: scale(0);
   transition: transform 400ms ease;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .faq-page__contact:hover .faq-page__contact-icon::after {
   transform: scale(1);
@@ -8476,7 +8476,7 @@ body.megamenu-popup-active .mobile-nav__content {
   background-size: 100% 1px;
 }
 .faq-page__contact-number-text:hover {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .faq-page__faq {
   position: relative;
@@ -8511,7 +8511,7 @@ body.megamenu-popup-active .mobile-nav__content {
   gap: 15px;
   position: relative;
   font-size: var(--trevlo-size-3xl, 18px);
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   line-height: 1.5;
   margin-bottom: 0;
   -webkit-transition: all 500ms ease;
@@ -8532,11 +8532,11 @@ body.megamenu-popup-active .mobile-nav__content {
   font-weight: 900;
   transition: all 500ms ease;
   font-size: 16px;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .faq-page__faq .accrodion.active .accrodion-title h4::after {
   content: "\f068";
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   color: var(--trevlo-white, #ffffff);
 }
 .faq-page__faq .accrodion-content {
@@ -8567,7 +8567,7 @@ body.megamenu-popup-active .mobile-nav__content {
   border-radius: 10px;
   background-color: var(--trevlo-white2, #FAF5EE);
   font-size: 18px;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   font-weight: 500;
 }
 .login-page__notice span {
@@ -8575,7 +8575,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .login-page__notice a {
   font-weight: 700;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   background: linear-gradient(to left, currentcolor 0%, currentcolor 100%) 0px 95%/0px 1px no-repeat;
   transition: all 500ms ease;
 }
@@ -8583,7 +8583,7 @@ body.megamenu-popup-active .mobile-nav__content {
   background-size: 100% 1px;
 }
 .login-page__notice a:hover {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 @media (max-width: 575px) {
   .login-page__notice {
@@ -8676,7 +8676,7 @@ body.megamenu-popup-active .mobile-nav__content {
   background-size: 100% 1px;
 }
 .login-page__forget-link:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .login-page__btn-box {
   margin-top: 14px;
@@ -8745,7 +8745,7 @@ body.megamenu-popup-active .mobile-nav__content {
   cursor: pointer;
 }
 .pricing-page .pricing-page__main-tab-box .tab-buttons .tab-btn.active-btn::before {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .pricing-page .pricing-page__main-tab-box .tab-buttons .tab-btn.active-btn span {
   color: var(--trevlo-white, #ffffff);
@@ -8943,7 +8943,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .tour-listing-sidebar__post-title {
   padding-bottom: 23px;
   margin-bottom: 15px;
-  border-bottom: 1px solid var(--trevlo-base, #FF5956);
+  border-bottom: 1px solid var(--trevlo-base, #dcab2a);
 }
 
 /*-----------------------------------------
@@ -9015,7 +9015,7 @@ body.megamenu-popup-active .mobile-nav__content {
   height: 50px;
   border-radius: 6px;
   font-size: 30px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   opacity: 0;
   transition: all 500ms ease;
 }
@@ -9095,7 +9095,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .tour-listing-details__destination-info span {
   font-size: 30px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .tour-listing-details__destination-info-top {
   font-size: var(--trevlo-size-xl, 14px);
@@ -9106,7 +9106,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .tour-listing-details__destination-info-bottom {
   font-size: var(--trevlo-size-2xl, 16px);
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   font-weight: 500;
   line-height: 1;
   margin-bottom: 0;
@@ -9149,7 +9149,7 @@ body.megamenu-popup-active .mobile-nav__content {
   position: relative;
   top: -1.5px;
   font-size: 20px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-left: 12px;
 }
 .tour-listing-details__posted-text {
@@ -9178,7 +9178,7 @@ body.megamenu-popup-active .mobile-nav__content {
   color: var(--trevlo-white, #ffffff);
 }
 .tour-listing-details__info-right:hover .trevlo-btn::after {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   bottom: -50%;
 }
 .tour-listing-details__share-btn {
@@ -9225,7 +9225,7 @@ body.megamenu-popup-active .mobile-nav__content {
   display: inline-block;
 }
 .tour-listing-details__social__list a:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 
 .tour-listing-details__slider {
@@ -9269,7 +9269,7 @@ body.megamenu-popup-active .mobile-nav__content {
   position: relative;
   border: 1px solid var(--trevlo-white, #ffffff);
   font-family: var(--trevlo-font, "DM Sans", sans-serif);
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   font-weight: 500;
   font-size: 16px;
   border-radius: 0px;
@@ -9299,7 +9299,7 @@ body.megamenu-popup-active .mobile-nav__content {
   height: 50px;
   padding: 0;
   border-radius: 0;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   font-size: 16px;
   font-weight: 500;
   border: 0;
@@ -9321,7 +9321,7 @@ body.megamenu-popup-active .mobile-nav__content {
   background-color: var(--trevlo-white, #ffffff);
   background-image: none;
   font-size: 16px;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   padding: 20px 10px;
   font-weight: 500;
   text-align: center;
@@ -9339,13 +9339,13 @@ body.megamenu-popup-active .mobile-nav__content {
 .tour-listing-details__calender-box .ui-datepicker-calendar .ui-widget-content .ui-state-default:hover,
 .tour-listing-details__calender-box .ui-datepicker-calendar .ui-widget-header .ui-state-default:hover {
   color: var(--trevlo-white, #ffffff);
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .tour-listing-details__calender-box .ui-datepicker-calendar .ui-state-highlight,
 .tour-listing-details__calender-box .ui-datepicker-calendar .ui-widget-content .ui-state-highlight,
 .tour-listing-details__calender-box .ui-datepicker-calendar .ui-widget-header .ui-state-highlight {
   color: var(--trevlo-white, #ffffff);
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 .tour-listing-details__calender-box .ui-datepicker .ui-datepicker-prev,
 .tour-listing-details__calender-box .ui-datepicker .ui-datepicker-next {
@@ -9358,7 +9358,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .tour-listing-details__calender-box .ui-datepicker .ui-datepicker-prev:hover,
 .tour-listing-details__calender-box .ui-datepicker .ui-datepicker-next:hover {
   background-color: transparent;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   border: 0;
 }
 .tour-listing-details__calender-box .ui-datepicker .ui-datepicker-prev {
@@ -9385,7 +9385,7 @@ body.megamenu-popup-active .mobile-nav__content {
   right: 0px;
 }
 .tour-listing-details__calender-box .ui-datepicker .ui-datepicker-prev:hover::after {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .tour-listing-details__calender-box .ui-datepicker .ui-datepicker-prev span {
   display: none;
@@ -9414,7 +9414,7 @@ body.megamenu-popup-active .mobile-nav__content {
   left: 0px;
 }
 .tour-listing-details__calender-box .ui-datepicker .ui-datepicker-next:hover::after {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .tour-listing-details__calender-box .ui-datepicker .ui-datepicker-next span {
   display: none;
@@ -9441,7 +9441,7 @@ body.megamenu-popup-active .mobile-nav__content {
   border: 1px solid var(--trevlo-white3, #EBE6DE);
 }
 .tour-listing-details__calender-box .ui-datepicker td.ui-datepicker-today, .tour-listing-details__calender-box .ui-datepicker td:hover {
-  border-color: var(--trevlo-base, #FF5956);
+  border-color: var(--trevlo-base, #dcab2a);
 }
 
 .tour-listing-details__included {
@@ -9468,10 +9468,10 @@ body.megamenu-popup-active .mobile-nav__content {
   position: relative;
   top: 6px;
   font-size: 16px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .tour-listing-details__included-list-one li p {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   font-weight: 700;
   margin-bottom: 0;
 }
@@ -9501,7 +9501,7 @@ body.megamenu-popup-active .mobile-nav__content {
   line-height: 18px;
 }
 .tour-listing-details__included-list-two li p {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   font-weight: 700;
   margin-bottom: 0;
 }
@@ -9548,14 +9548,14 @@ body.megamenu-popup-active .mobile-nav__content {
   padding-left: 15px;
   position: relative;
   font-size: 20px;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   line-height: 1.5;
   margin-bottom: 0;
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
 }
 .tour-listing-details__faq .accrodion-title h4 span {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .tour-listing-details__faq .accrodion .accrodion-title h4::after {
   content: "\f078";
@@ -9567,11 +9567,11 @@ body.megamenu-popup-active .mobile-nav__content {
   font-weight: 900;
   transition: all 500ms ease;
   font-size: 14px;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .tour-listing-details__faq .accrodion.active .accrodion-title h4::after {
   transform: rotate(-180deg) translateY(50%);
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .tour-listing-details__faq .accrodion-content {
   position: relative;
@@ -9589,7 +9589,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .tour-listing-details__faq .accrodion-content-bottom li {
   font-family: var(--trevlo-font, "DM Sans", sans-serif);
   font-size: var(--trevlo-size-2xl, 16px);
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   line-height: 1.875;
   font-weight: 500;
 }
@@ -9651,7 +9651,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .tour-listing-details__amenities-content span {
   font-size: 24px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .tour-listing-details__amenities-content-title {
   font-size: var(--trevlo-size-3xl, 18px);
@@ -9758,7 +9758,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .tour-listing-details__reviews-date-text {
   font-size: 14px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-bottom: 0;
 }
 @media (max-width: 991px) {
@@ -9986,9 +9986,9 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .tour-listing-details__sidebar-form-input .bootstrap-select .dropdown-menu > li:hover > a,
 .tour-listing-details__sidebar-form-input .bootstrap-select .dropdown-menu > li.selected > a {
-  background: var(--trevlo-base, #FF5956);
+  background: var(--trevlo-base, #dcab2a);
   color: var(--trevlo-white, #ffffff);
-  border-color: var(--trevlo-base, #FF5956);
+  border-color: var(--trevlo-base, #dcab2a);
 }
 .tour-listing-details__sidebar-btn {
   margin-top: 5px;
@@ -10000,7 +10000,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .tour-listing-details__sidebar-post-title {
   padding-bottom: 23px;
   margin-bottom: 15px;
-  border-bottom: 1px solid var(--trevlo-base, #FF5956);
+  border-bottom: 1px solid var(--trevlo-base, #dcab2a);
 }
 
 .tour-listing-sidebar-post {
@@ -10054,12 +10054,12 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .tour-listing-sidebar-post__price {
   line-height: 1;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-bottom: 0;
 }
 .tour-listing-sidebar-post__link {
   font-size: var(--trevlo-size-2xl, 16px);
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   line-height: 1.4;
   text-transform: capitalize;
   margin-top: 8px;
@@ -10074,7 +10074,7 @@ body.megamenu-popup-active .mobile-nav__content {
   background-size: 100% 1px;
 }
 .tour-listing-sidebar-post__link:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .tour-listing-sidebar-post__location {
   display: flex;
@@ -10084,7 +10084,7 @@ body.megamenu-popup-active .mobile-nav__content {
   position: relative;
   top: 4px;
   font-size: 14px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-left: 8px;
 }
 .tour-listing-sidebar-post__location-text {
@@ -10131,7 +10131,7 @@ body.megamenu-popup-active .mobile-nav__content {
   padding: 19px 49.5px;
   border-radius: 10px 10px 0px 0px;
   display: table;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   text-align: center;
 }
 @media (max-width: 575px) {
@@ -10161,7 +10161,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .contact-page__info-row {
   max-width: 1172px;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   margin-right: auto;
   margin-left: auto;
   padding: 30px 79px 60px 45px;
@@ -10245,7 +10245,7 @@ body.megamenu-popup-active .mobile-nav__content {
   content: "";
   width: 100%;
   height: 100%;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   position: absolute;
   top: 0;
   right: 0;
@@ -10257,7 +10257,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .contact-page__info-icon-box span {
   font-size: 18px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 @media (max-width: 1199px) {
   .contact-page__info-text-box {
@@ -10276,7 +10276,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .contact-page__info-title {
   font-size: var(--trevlo-size-xl, 14px);
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   line-height: 1;
   font-weight: 500;
   margin-bottom: 4px;
@@ -10312,7 +10312,7 @@ body.megamenu-popup-active .mobile-nav__content {
   color: var(--trevlo-white, #ffffff);
 }
 .contact-page__info-box:hover .contact-page__info-text-link {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 
 /*--------------------------------------------------------------
@@ -10380,7 +10380,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .product-details__price {
   position: relative;
   font-size: var(--trevlo-size-4xl, 20px);
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-bottom: 0;
 }
 .product-details__review {
@@ -10401,7 +10401,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .product-details__ratings .fa-star {
   font-size: 15px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .product-details__review-total {
   line-height: 1;
@@ -10431,7 +10431,7 @@ body.megamenu-popup-active .mobile-nav__content {
   font-weight: 700;
   line-height: 1;
   margin-bottom: 0;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .product-details__quantity {
   display: flex;
@@ -10502,7 +10502,7 @@ body.megamenu-popup-active .mobile-nav__content {
   content: "";
   width: 100%;
   height: 100%;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   position: absolute;
   top: 0;
   right: 0;
@@ -10544,13 +10544,13 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .product-details__description-list li i {
   font-size: 16px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-left: 5px;
 }
 .product-details__description-list li span {
   font-family: var(--trevlo-font, "DM Sans", sans-serif);
   font-size: var(--trevlo-size-2xl, 16px);
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   line-height: 1.4;
   font-weight: 700;
 }
@@ -10660,7 +10660,7 @@ body.megamenu-popup-active .mobile-nav__content {
   margin-bottom: 0;
 }
 .product-details__reviews-date-text {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-bottom: 0;
 }
 @media (max-width: 991px) {
@@ -10697,7 +10697,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .product-details__add-review-ratings .fa-star {
   font-size: 25px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .product-details__form .form-one__btn-box {
   text-align: right;
@@ -10739,7 +10739,7 @@ body.megamenu-popup-active .mobile-nav__content {
   align-items: center;
   padding-right: 20px;
   padding-left: 20px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   height: 60px;
   border-radius: 10px;
 }
@@ -10752,7 +10752,7 @@ body.megamenu-popup-active .mobile-nav__content {
   background-color: transparent;
   width: calc(100% - 20px);
   font-weight: 400;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   height: 100%;
   color: var(--trevlo-white, #ffffff);
 }
@@ -10768,14 +10768,14 @@ body.megamenu-popup-active .mobile-nav__content {
   margin-left: 10px;
 }
 .product__search-form button[type=submit]:hover {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .product__categories {
   padding-bottom: 14px;
 }
 .product__categories-title {
   padding-bottom: 16px;
-  border-bottom: 1px solid var(--trevlo-base, #FF5956);
+  border-bottom: 1px solid var(--trevlo-base, #dcab2a);
   margin-bottom: 6px;
 }
 .product__categories ul {
@@ -10787,7 +10787,7 @@ body.megamenu-popup-active .mobile-nav__content {
   border-bottom: 1px solid var(--trevlo-white2, #FAF5EE);
 }
 .product__categories ul li:not(:last-of-type) a:hover {
-  border-color: var(--trevlo-base, #FF5956);
+  border-color: var(--trevlo-base, #dcab2a);
 }
 .product__categories ul li a {
   font-family: var(--trevlo-font, "DM Sans", sans-serif);
@@ -10808,11 +10808,11 @@ body.megamenu-popup-active .mobile-nav__content {
   transition: all 500ms ease;
   font-size: 16px;
   margin-left: 10px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .product__categories ul li a:hover {
   padding-right: 5px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .product__item {
   padding: 15px 29px 40px 29px;
@@ -10829,7 +10829,7 @@ body.megamenu-popup-active .mobile-nav__content {
   }
 }
 .product__item:hover {
-  border-color: var(--trevlo-base, #FF5956);
+  border-color: var(--trevlo-base, #dcab2a);
   box-shadow: 0px 8px 30px 0px rgba(0, 0, 0, 0.08);
 }
 .product__item-img {
@@ -10865,7 +10865,7 @@ body.megamenu-popup-active .mobile-nav__content {
   opacity: 0;
 }
 .product__item-btn a:hover {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   color: var(--trevlo-white, #ffffff);
 }
 .product__item-btn a:nth-child(1) {
@@ -10926,7 +10926,7 @@ body.megamenu-popup-active .mobile-nav__content {
   background-size: 100% 1px;
 }
 .product__item-title a:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .product__item-price-box {
   display: flex;
@@ -10951,7 +10951,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .product__item-ratings span {
   font-size: 17px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .product__item-link {
   font-size: var(--trevlo-size-xl, 14px);
@@ -10998,7 +10998,7 @@ body.megamenu-popup-active .mobile-nav__content {
   }
 }
 .cart-page__table thead tr th {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   font-size: var(--trevlo-size-4xl, 20px);
   line-height: 1.5;
   font-weight: 700;
@@ -11020,7 +11020,7 @@ body.megamenu-popup-active .mobile-nav__content {
   font-size: var(--trevlo-size-4xl, 20px);
   font-weight: 500;
   line-height: 1.5;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   vertical-align: middle;
   border: none;
   box-shadow: none;
@@ -11058,7 +11058,7 @@ body.megamenu-popup-active .mobile-nav__content {
   font-size: var(--trevlo-size-4xl, 20px);
   line-height: 1.5;
   font-weight: 700;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   margin: 0;
 }
 .cart-page__table-meta-title a {
@@ -11070,7 +11070,7 @@ body.megamenu-popup-active .mobile-nav__content {
   background-size: 100% 1px;
 }
 .cart-page__table-meta-title a:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .cart-page__table-quantity {
   width: 150px;
@@ -11078,11 +11078,11 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .cart-page__table-remove {
   display: block;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   font-size: 16px;
 }
 .cart-page__table-remove:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .cart-page__coupone-form {
   position: relative;
@@ -11137,7 +11137,7 @@ body.megamenu-popup-active .mobile-nav__content {
   font-size: var(--trevlo-size-4xl, 20px);
   font-weight: 700;
   line-height: 1.5;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   display: inline-block;
 }
 .cart-page__cart-total-amount {
@@ -11149,7 +11149,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .cart-page__cart-total-amount--main {
   font-weight: 700;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .cart-page__buttons {
   display: flex;
@@ -11183,7 +11183,7 @@ body.megamenu-popup-active .mobile-nav__content {
   font-weight: 500;
   line-height: 1.4;
   margin-bottom: 34px;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 @media (max-width: 767px) {
   .checkout-page .notice-box {
@@ -11191,7 +11191,7 @@ body.megamenu-popup-active .mobile-nav__content {
   }
 }
 .checkout-page .notice-box a {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   background: linear-gradient(to left, currentcolor 0%, currentcolor 100%) 0px 95%/0px 1px no-repeat;
   transition: all 500ms ease;
   font-weight: 700;
@@ -11250,7 +11250,7 @@ body.megamenu-popup-active .mobile-nav__content {
   right: 0;
   width: 24px;
   height: 24px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   border-radius: 50%;
   border: none;
   vertical-align: middle;
@@ -11377,7 +11377,7 @@ body.megamenu-popup-active .mobile-nav__content {
   line-height: 1.5;
   margin-bottom: 0;
   cursor: pointer;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .checkout-page__payment-title::before {
   content: "";
@@ -11402,8 +11402,8 @@ body.megamenu-popup-active .mobile-nav__content {
   margin-right: 15px;
 }
 .checkout-page__payment-item--active .checkout-page__payment-title::before {
-  background-color: var(--trevlo-base, #FF5956);
-  border-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
+  border-color: var(--trevlo-base, #dcab2a);
   content: "\f00c";
   color: var(--trevlo-white, #ffffff);
 }
@@ -11463,7 +11463,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .destination-one__offer {
   position: relative;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   width: 100%;
   height: auto;
   padding: 49px 40px 48px;
@@ -11528,7 +11528,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .destination-one__offer .trevlo-btn {
   font-size: 14px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   background-color: var(--trevlo-black, #000000);
   padding: 13px 24px;
 }
@@ -11668,10 +11668,10 @@ body.megamenu-popup-active .mobile-nav__content {
   margin-bottom: 0;
 }
 .destination-details__overview-content li p:first-child {
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
 }
 .destination-details__overview-content li p:last-child {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .destination-details__faq .accrodion {
   position: relative;
@@ -11710,7 +11710,7 @@ body.megamenu-popup-active .mobile-nav__content {
   gap: 15px;
   position: relative;
   font-size: var(--trevlo-size-4xl, 20px);
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   line-height: 1.5;
   margin-bottom: 0;
   -webkit-transition: all 500ms ease;
@@ -11727,12 +11727,12 @@ body.megamenu-popup-active .mobile-nav__content {
   font-weight: 900;
   transition: all 500ms ease;
   font-size: 14px;
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   top: 2px;
 }
 .destination-details__faq .accrodion.active .accrodion-title h4::after {
   transform: rotate(-180deg);
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .destination-details__faq .accrodion-content {
   position: relative;
@@ -11767,7 +11767,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .destination-details__faq .accrodion-content-bottom li {
   font-family: var(--trevlo-font, "DM Sans", sans-serif);
   font-size: var(--trevlo-size-2xl, 16px);
-  color: var(--trevlo-primary, #2D2330);
+  color: var(--trevlo-primary, #15163e);
   line-height: 1.875;
   font-weight: 500;
 }
@@ -11800,7 +11800,7 @@ body.megamenu-popup-active .mobile-nav__content {
   line-height: 1.083;
   margin-bottom: 16px;
   padding-bottom: 24px;
-  border-bottom: 1px solid var(--trevlo-base, #FF5956);
+  border-bottom: 1px solid var(--trevlo-base, #dcab2a);
 }
 .destination-sidebar__tour-item + .destination-sidebar__tour-item {
   border-top: 1px solid var(--trevlo-white3, #EBE6DE);
@@ -11831,7 +11831,7 @@ body.megamenu-popup-active .mobile-nav__content {
   width: 100%;
 }
 .destination-sidebar__tour-price {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   line-height: 1;
   margin-bottom: 0;
 }
@@ -11842,7 +11842,7 @@ body.megamenu-popup-active .mobile-nav__content {
   margin-bottom: 4px;
 }
 .destination-sidebar__tour-title:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .destination-sidebar__tour-title a {
   color: inherit;
@@ -11861,7 +11861,7 @@ body.megamenu-popup-active .mobile-nav__content {
   position: relative;
   top: 3.5px;
   font-size: 14px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .destination-sidebar__tour-location-text {
   margin-bottom: 0;
@@ -11920,7 +11920,7 @@ body.megamenu-popup-active .mobile-nav__content {
   z-index: 1;
 }
 .destination-sidebar__discount-shape-one path {
-  fill: var(--trevlo-base, #FF5956);
+  fill: var(--trevlo-base, #dcab2a);
 }
 .destination-sidebar__discount-shape-two {
   width: 370px;
@@ -11987,7 +11987,7 @@ body.megamenu-popup-active .mobile-nav__content {
   transition: transform 0.4s ease;
 }
 .blog-list-card .blog__card-title:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .blog-list-card .blog__card-title a {
   color: inherit;
@@ -12104,7 +12104,7 @@ body.megamenu-popup-active .mobile-nav__content {
   margin-bottom: 0;
 }
 .post-info .post-tag__text:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 
 .comment-wrapper__title {
@@ -12309,7 +12309,7 @@ body.megamenu-popup-active .mobile-nav__content {
   line-height: 1.083;
   padding-bottom: 24px;
   margin-bottom: 30px;
-  border-bottom: 1px solid var(--trevlo-base, #FF5956);
+  border-bottom: 1px solid var(--trevlo-base, #dcab2a);
 }
 .sidebar-blog__search {
   display: flex;
@@ -12344,7 +12344,7 @@ body.megamenu-popup-active .mobile-nav__content {
   margin-left: 10px;
 }
 .sidebar-blog__search button[type=submit]:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .sidebar-blog__posts {
   margin: 0;
@@ -12382,7 +12382,7 @@ body.megamenu-popup-active .mobile-nav__content {
   margin-bottom: 3px;
 }
 .sidebar-blog__posts-date i {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-left: 13px;
 }
 .sidebar-blog__posts-title {
@@ -12399,7 +12399,7 @@ body.megamenu-popup-active .mobile-nav__content {
   background-size: 100% 1px;
 }
 .sidebar-blog__posts-title a:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .sidebar-blog__categories {
   margin: 0;
@@ -12414,7 +12414,7 @@ body.megamenu-popup-active .mobile-nav__content {
   border-bottom: 1px solid var(--trevlo-white2, #FAF5EE);
 }
 .sidebar-blog__categories li:not(:last-of-type) a:hover {
-  border-color: var(--trevlo-base, #FF5956);
+  border-color: var(--trevlo-base, #dcab2a);
 }
 .sidebar-blog__categories li a {
   font-size: var(--trevlo-size-2xl, 16px);
@@ -12432,16 +12432,16 @@ body.megamenu-popup-active .mobile-nav__content {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   transition: all 500ms ease;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   font-size: 16px;
   margin-left: 10px;
 }
 .sidebar-blog__categories li a:hover {
   padding-right: 5px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .sidebar-blog__categories li a:hover::before {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .sidebar-blog__tags {
   display: flex;
@@ -12484,7 +12484,7 @@ body.megamenu-popup-active .mobile-nav__content {
   content: "";
   width: 100%;
   height: 100%;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   position: absolute;
   top: 0;
   right: 0;
@@ -12522,7 +12522,7 @@ body.megamenu-popup-active .mobile-nav__content {
   background-size: 100% 1px;
 }
 .sidebar-blog__comments-title a:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 
 .service-sidebar__single + .service-sidebar__single {
@@ -12582,7 +12582,7 @@ body.megamenu-popup-active .mobile-nav__content {
   text-shadow: 0 0 1px currentColor;
 }
 .service-sidebar__nav li.current a::after, .service-sidebar__nav li:hover a::after {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   opacity: 1;
 }
 .service-sidebar__nav li.current:first-child {
@@ -12638,7 +12638,7 @@ body.megamenu-popup-active .mobile-nav__content {
   margin: 0;
   font-size: 30px;
   font-family: var(--trevlo-special-font, "Covered By Your Grace", cursive);
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-bottom: 4px;
 }
 @media (min-width: 992px) {
@@ -12670,7 +12670,7 @@ body.megamenu-popup-active .mobile-nav__content {
   background-size: 100% 1px;
 }
 .service-sidebar__discount__title a:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .service-sidebar__discount__text {
   margin: 0;
@@ -12834,7 +12834,7 @@ body.megamenu-popup-active .mobile-nav__content {
   content: "";
   width: 100%;
   height: 100%;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   position: absolute;
   top: 0;
   right: 0;
@@ -12913,7 +12913,7 @@ body.megamenu-popup-active .mobile-nav__content {
   background-size: 100% 1px;
 }
 .footer-widget__links a:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .footer-widget__info {
   margin: 0;
@@ -12956,11 +12956,11 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .footer-widget__info span {
   font-size: 14px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-left: 15px;
 }
 .footer-widget__info a:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .footer-widget--newsletter {
   position: relative;
@@ -13050,7 +13050,7 @@ body.megamenu-popup-active .mobile-nav__content {
   position: relative;
   font-family: var(--trevlo-font2, "Urbanist", sans-serif);
   font-weight: 800;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   font-size: 250px;
   line-height: 1;
   letter-spacing: 10px;
@@ -13075,7 +13075,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .error-page__top-title span {
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 4px;
-  -webkit-text-stroke-color: var(--trevlo-base, #FF5956);
+  -webkit-text-stroke-color: var(--trevlo-base, #dcab2a);
 }
 .error-page__top-shape {
   position: absolute;
@@ -13166,7 +13166,7 @@ body.megamenu-popup-active .mobile-nav__content {
   margin-left: 10px;
 }
 .error-page__search-form button[type=submit]:hover {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .error-page__btn {
   text-transform: none;
@@ -13263,7 +13263,7 @@ body.megamenu-popup-active .mobile-nav__content {
   width: 41.4%;
   height: 100%;
   content: "";
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   border-radius: 0 0 30px 0;
 }
 @media (max-width: 1499px) {
@@ -13285,7 +13285,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .benefit-one__content__heading {
   font-family: var(--trevlo-special-font, "Covered By Your Grace", cursive);
   font-size: 30px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   font-weight: 400;
   margin: 0 0 11px;
 }
@@ -13346,7 +13346,7 @@ body.megamenu-popup-active .mobile-nav__content {
   justify-content: center;
   font-size: 40px;
   overflow: hidden;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .benefit-one__box__icon::before {
   content: "";
@@ -13371,7 +13371,7 @@ body.megamenu-popup-active .mobile-nav__content {
   height: 150%;
   border-bottom-right-radius: 50%;
   border-bottom-left-radius: 50%;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   transition-duration: 700ms;
   transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
@@ -13386,7 +13386,7 @@ body.megamenu-popup-active .mobile-nav__content {
   transform: scale(1);
 }
 .benefit-one__box:hover .benefit-one__box__icon {
-  border-color: var(--trevlo-base, #FF5956);
+  border-color: var(--trevlo-base, #dcab2a);
   color: var(--trevlo-white, #ffffff);
 }
 .benefit-one__box:hover .benefit-one__box__icon span {
@@ -13426,7 +13426,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .benefit-one__counter__icon {
   width: 54px;
   height: 54px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -13448,7 +13448,7 @@ body.megamenu-popup-active .mobile-nav__content {
   height: 150%;
   border-top-right-radius: 50%;
   border-top-left-radius: 50%;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   transition: 700ms cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
 .benefit-one__counter__icon::after {
@@ -13461,7 +13461,7 @@ body.megamenu-popup-active .mobile-nav__content {
   height: 150%;
   border-bottom-right-radius: 50%;
   border-bottom-left-radius: 50%;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   transition-duration: 700ms;
   transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
@@ -13487,7 +13487,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .benefit-one__counter__number {
   font-family: var(--trevlo-special-font, "Covered By Your Grace", cursive);
   font-size: 40px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   font-weight: 400;
   line-height: 1;
   display: block;
@@ -13499,7 +13499,7 @@ body.megamenu-popup-active .mobile-nav__content {
 
 .benefit-two {
   position: relative;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
 }
 .benefit-two__bg {
   position: absolute;
@@ -13605,7 +13605,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .benefit-two__box__icon {
   width: 82px;
   height: 82px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -13628,7 +13628,7 @@ body.megamenu-popup-active .mobile-nav__content {
   height: 150%;
   border-top-right-radius: 50%;
   border-top-left-radius: 50%;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   transition: 700ms cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
 .benefit-two__box__icon::after {
@@ -13656,7 +13656,7 @@ body.megamenu-popup-active .mobile-nav__content {
   transform: scale(1);
 }
 .benefit-two__box:hover .benefit-two__box__icon {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
 }
 .benefit-two__box:hover .benefit-two__box__icon span {
   transform: scale(0.95);
@@ -13905,7 +13905,7 @@ body.megamenu-popup-active .mobile-nav__content {
 
 .main-slider-two {
   position: relative;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
 }
 .main-slider-two__shape-one {
   position: absolute;
@@ -14054,7 +14054,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .main-slider-two__text-two {
   position: relative;
   display: block;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   font-size: 13px;
   font-family: var(--trevlo-special-font, "Covered By Your Grace", cursive);
   font-weight: 400;
@@ -14087,7 +14087,7 @@ body.megamenu-popup-active .mobile-nav__content {
   font-size: 30px;
   line-height: 1;
   font-weight: 400;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   font-family: var(--trevlo-special-font, "Covered By Your Grace", cursive);
   margin-bottom: 7px;
   margin-top: -18px;
@@ -14187,7 +14187,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .main-slider-three__sub-title {
   font-size: 24px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   font-weight: 400;
   font-family: var(--trevlo-special-font, "Covered By Your Grace", cursive);
   margin-bottom: 10px;
@@ -14296,7 +14296,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .main-slider-three__customer__number {
   width: 50px;
   height: 50px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   border-radius: 50%;
   font-size: 20px;
   font-weight: 700;
@@ -14357,7 +14357,7 @@ body.boxed-wrapper .main-header__booking-btn {
 --------------------------------------------------------------*/
 .tab-one {
   position: relative;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   padding: 190px 0 125px;
 }
 @media (max-width: 767px) {
@@ -14414,7 +14414,7 @@ body.boxed-wrapper .main-header__booking-btn {
   border-radius: 10px;
   color: var(--trevlo-white, #ffffff);
   text-transform: capitalize;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   transition: all 500ms ease;
 }
 @media (max-width: 767px) {
@@ -14423,7 +14423,7 @@ body.boxed-wrapper .main-header__booking-btn {
   }
 }
 .tab-one__list li span {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-left: 20px;
   transition: all 500ms ease;
   font-size: 40px;
@@ -14439,7 +14439,7 @@ body.boxed-wrapper .main-header__booking-btn {
   }
 }
 .tab-one__list li:hover, .tab-one__list li.active-btn {
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   color: var(--trevlo-white, #ffffff);
 }
 .tab-one__list li:hover span, .tab-one__list li.active-btn span {
@@ -14478,7 +14478,7 @@ body.boxed-wrapper .main-header__booking-btn {
 .tab-one__content__icon {
   width: 102px;
   height: 102px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -14527,7 +14527,7 @@ body.boxed-wrapper .main-header__booking-btn {
   }
 }
 .tab-one__content__list li span {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin-left: 7px;
 }
 .tab-one .client-carousel {
@@ -14544,7 +14544,7 @@ body.boxed-wrapper .main-header__booking-btn {
   color: var(--trevlo-white, #ffffff);
 }
 .tab-one .client-carousel__title span {
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
 }
 
 /*--------------------------------------------------------------
@@ -14575,7 +14575,7 @@ body.boxed-wrapper .main-header__booking-btn {
 .feature-one__box__icon {
   width: 71px;
   height: 71px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -14598,7 +14598,7 @@ body.boxed-wrapper .main-header__booking-btn {
   height: 150%;
   border-top-right-radius: 50%;
   border-top-left-radius: 50%;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   transition: 700ms cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
 .feature-one__box__icon::after {
@@ -14611,7 +14611,7 @@ body.boxed-wrapper .main-header__booking-btn {
   height: 150%;
   border-bottom-right-radius: 50%;
   border-bottom-left-radius: 50%;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   transition-duration: 700ms;
   transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
@@ -14648,7 +14648,7 @@ body.boxed-wrapper .main-header__booking-btn {
 --------------------------------------------------------------*/
 .video-one {
   position: relative;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   padding: 120px 0 191px;
 }
 @media (max-width: 767px) {
@@ -14662,7 +14662,7 @@ body.boxed-wrapper .main-header__booking-btn {
   right: 0;
   height: 100%;
   width: 100%;
-  background-color: var(--trevlo-primary, #2D2330);
+  background-color: var(--trevlo-primary, #15163e);
   background-size: cover;
   background-position: center center;
   background-size: cover;
@@ -14676,7 +14676,7 @@ body.boxed-wrapper .main-header__booking-btn {
 .video-one .video-popup {
   width: 89px;
   height: 89px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -14700,7 +14700,7 @@ body.boxed-wrapper .main-header__booking-btn {
   }
 }
 .video-one__sub-title {
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   font-size: 40px;
   font-weight: 400;
   font-family: var(--trevlo-special-font, "Covered By Your Grace", cursive);
@@ -14794,7 +14794,7 @@ body.boxed-wrapper .main-header__booking-btn {
   height: 150%;
   border-bottom-right-radius: 50%;
   border-bottom-left-radius: 50%;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
   transition-duration: 700ms;
   transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
@@ -14804,7 +14804,7 @@ body.boxed-wrapper .main-header__booking-btn {
   opacity: 1;
 }
 .tour-type__box:hover {
-  border-color: var(--trevlo-base, #FF5956);
+  border-color: var(--trevlo-base, #dcab2a);
 }
 .tour-type__box:hover .tour-type__box__icon {
   color: var(--trevlo-white, #ffffff);
@@ -14824,7 +14824,7 @@ body.boxed-wrapper .main-header__booking-btn {
   display: inline-block;
   font-size: 65px;
   line-height: 65px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   transition-duration: 500ms;
 }
 .tour-type__box__title {
@@ -14905,7 +14905,7 @@ body.boxed-wrapper .main-header__booking-btn {
   align-items: center;
   justify-content: center;
   font-size: 40px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin: -35px auto 13px;
 }
 .tour-type-two__box__front__title {
@@ -14944,7 +14944,7 @@ body.boxed-wrapper .main-header__booking-btn {
   height: 100%;
   object-fit: cover;
   border-radius: 10px 10px 10px 0px;
-  background-color: var(--trevlo-base, #FF5956);
+  background-color: var(--trevlo-base, #dcab2a);
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .tour-type-two__box__back__image {
@@ -14976,7 +14976,7 @@ body.boxed-wrapper .main-header__booking-btn {
   align-items: center;
   justify-content: center;
   font-size: 40px;
-  color: var(--trevlo-base, #FF5956);
+  color: var(--trevlo-base, #dcab2a);
   margin: 0 auto 11px;
 }
 .tour-type-two__box__back__title {

@@ -190,7 +190,8 @@
                                         src="assets/images/shapes/about-1-shape-3.png" alt="trevlo"></div>
                                 <div class="about-one__counter"
                                     style="background-image: url(assets/images/shapes/about-1-shape-4.png);">
-                                    <div class="about-one__counter__number count-box"><span class="count-text"></span>¡Reserva</div><!-- /.counter__number -->
+                                    <div class="about-one__counter__number count-box"><span
+                                            class="count-text"></span>¡Reserva</div><!-- /.counter__number -->
                                     <p class="about-one__counter__title">Ahora!</p><!-- /.counter__title -->
                                 </div><!-- /.discount -->
                             </div>
@@ -223,12 +224,14 @@
                     <div class="about-one__box">
                         <div class="about-one__box__icon"><span class="icon-safety"></span></div>
                         <h3 class="about-one__box__title">Guías<br> Certificados</h3>
-                        <p class="about-one__box__text">SContamos con un equipo de guías profesionales y certificados. La experiencia es su mejor credencial.</p>
+                        <p class="about-one__box__text">Contamos con un equipo de guías profesionales y certificados. La
+                            experiencia es su mejor credencial.</p>
                     </div><!-- /.about-box -->
                     <div class="about-one__box">
                         <div class="about-one__box__icon"><span class="icon-friendly-Guide"></span></div>
                         <h3 class="about-one__box__title">Compañía Mexicana</h3>
-                        <p class="about-one__box__text">Empresa del sur de California, fundada y operada por profesionales mexicanos.</p>
+                        <p class="about-one__box__text">Empresa del sur de California, fundada y operada por
+                            profesionales mexicanos.</p>
                     </div><!-- /.about-box -->
                     <a href="about.html" class="trevlo-btn"><span>Ver Tours</span></a>
                 </div><!-- /.about-four__content -->
@@ -242,9 +245,9 @@
     <div class="container">
         <div class="sec-title text-center">
 
-            <p class="sec-title__tagline">Featured tours</p><!-- /.sec-title__tagline -->
+            <p class="sec-title__tagline">Los Mejores Tours</p><!-- /.sec-title__tagline -->
 
-            <h2 class="sec-title__title">Most Favorite Tour Place</h2><!-- /.sec-title__title -->
+            <h2 class="sec-title__title">Los Tours Más Populares</h2><!-- /.sec-title__title -->
         </div><!-- /.sec-title -->
         <!-- /.sec-title -->
         <div class="tour-listing-one__carousel trevlo-owl__carousel trevlo-owl__carousel--basic-nav trevlo-owl__carousel--with-shadow owl-theme owl-carousel"
@@ -273,19 +276,9 @@
                 <div class="tour-listing__card">
                     <a href="tour-listing-details-right.html" class="tour-listing__card-image-box">
                         <img src="assets/images/tours/tour-3-1.jpg" alt="assets/images/tours/tour-3-1.jpg"
-                            class="tour-listing__card-image">
-                        <div class="tour-listing__card-btn-group">
-
-                            <div class="tour-listing__card-discount @@innerExtraClassName">10% Off</div>
-
-
-                            <div class="tour-listing__card-featured">Featured</div>
-
-                        </div><!-- /.tour-listing__card-btn-group -->
+                            class="tour-listing__card-image"><!-- /.tour-listing__card-btn-group -->
                         <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
                     </a><!-- /.tour-listing__card-image-box -->
-                    <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
-                            class="icon-heart"></span></a>
                     <div class="tour-listing__card-content">
                         <div class="tour-listing__card-camera-group">
                             <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup"
@@ -308,39 +301,34 @@
             }'>
                                 <span class="icon-photo-camera-1"></span>
                             </a>
-                            <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
-                                class="tour-listing__card-camera-btn video-popup">
-                                <span class="icon-video-camera-1-1"></span>
+                        </div>
+                        <h3 class="tour-listing__card-title">
+                            <a href="tour-listing-details-right.html">
+                                Fábrica de Chocolate
                             </a>
-                        </div><!-- /.tour-listing__card-camera-group -->
-                        <h3 class="tour-listing__card-title"><a href="tour-listing-details-right.html">Turkey Balloons
-                                flying</a></h3>
-                        <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem
-                            Ipsum agtilable</p>
+                        </h3>
+                        <p class="tour-listing__card-text text-small">
+                            Cocnoce la fábrica más grande de chocolate de Baja California Sur y deleítate con sus
+                            increíble sabores. <br><br>
+                        </p>
                         <div class="tour-listing__card-inner-content">
-                            <div class="tour-listing__card-review-box">
-                                <span class="icon-star"></span>
-                                <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
-                            </div><!-- /.tour-listing__card-review-box -->
+                            <!-- /.tour-listing__card-review-box -->
                             <div class="tour-listing__card-location-box">
                                 <span class="icon-location-1"></span>
-                                <p class="tour-listing__card-location-text text-small">Main Street, Brooklyn, NY</p>
+                                <p class="tour-listing__card-location-text text-small">San José del Cabo</p>
                             </div><!-- /.tour-listing__card-location-box -->
                             <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                             <div class="tour-listing__card-bottom">
                                 <div class="tour-listing__card-bottom-left">
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
-                                        <p class="tour-listing__card-day-text text-small">3 Day</p>
+                                        <p class="tour-listing__card-day-text text-small">4 horas</p>
                                     </div><!-- /.tour-listing__card-day -->
                                     <div class="tour-listing__card-people">
                                         <span class="icon-Duration"></span>
-                                        <p class="tour-listing__card-people-text text-small">12+</p>
+                                        <p class="tour-listing__card-people-text text-small">3+</p>
                                     </div><!-- /.tour-listing__card-people -->
                                 </div><!-- /.tour-listing__card-bottom-left -->
-                                <div class="tour-listing__card-bottom-right">
-                                    <h4 class="tour-listing__card-price">$160</h4>
-                                </div><!-- /.tour-listing__card-bottom-right -->
                             </div><!-- /.tour-listing__card-bottom -->
                         </div><!-- /.tour-listing__card-inner-content -->
                     </div><!-- /.tour-listing__card-content -->
@@ -351,16 +339,8 @@
                     <a href="tour-listing-details-right.html" class="tour-listing__card-image-box">
                         <img src="assets/images/tours/tour-3-2.jpg" alt="assets/images/tours/tour-3-2.jpg"
                             class="tour-listing__card-image">
-                        <div class="tour-listing__card-btn-group">
-
-
-                            <div class="tour-listing__card-featured">Featured</div>
-
-                        </div><!-- /.tour-listing__card-btn-group -->
-                        <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
-                    </a><!-- /.tour-listing__card-image-box -->
-                    <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
-                            class="icon-heart"></span></a>
+                        <div class="tour-listing__card-image-overlay"></div>
+                    </a><!-- /.tour-listing__card-image-box --></a>
                     <div class="tour-listing__card-content">
                         <div class="tour-listing__card-camera-group">
                             <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup"
@@ -383,39 +363,34 @@
             }'>
                                 <span class="icon-photo-camera-1"></span>
                             </a>
-                            <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
-                                class="tour-listing__card-camera-btn video-popup">
-                                <span class="icon-video-camera-1-1"></span>
-                            </a>
                         </div><!-- /.tour-listing__card-camera-group -->
-                        <h3 class="tour-listing__card-title"><a href="tour-listing-details-right.html">Moscow Red City
-                                Land</a></h3>
-                        <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem
-                            Ipsum agtilable</p>
+                        <h3 class="tour-listing__card-title">
+                            <a href="tour-listing-details-right.html">
+                                Todos Santos
+                            </a>
+                        </h3>
+                        <p class="tour-listing__card-text text-small">
+                            No puedes irte de Baja California Sur, sin conocer el pueblo mágico de Todos Santos y
+                            conocer sobre su historia y cultura que tiene que ofrecer.
+                        </p>
                         <div class="tour-listing__card-inner-content">
-                            <div class="tour-listing__card-review-box">
-                                <span class="icon-star"></span>
-                                <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
-                            </div><!-- /.tour-listing__card-review-box -->
+                            <!-- /.tour-listing__card-review-box -->
                             <div class="tour-listing__card-location-box">
                                 <span class="icon-location-1"></span>
-                                <p class="tour-listing__card-location-text text-small">Main Street, Brooklyn, NY</p>
+                                <p class="tour-listing__card-location-text text-small">Todos Santos, BCS</p>
                             </div><!-- /.tour-listing__card-location-box -->
                             <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                             <div class="tour-listing__card-bottom">
                                 <div class="tour-listing__card-bottom-left">
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
-                                        <p class="tour-listing__card-day-text text-small">3 Day</p>
+                                        <p class="tour-listing__card-day-text text-small">6 horas</p>
                                     </div><!-- /.tour-listing__card-day -->
                                     <div class="tour-listing__card-people">
                                         <span class="icon-Duration"></span>
-                                        <p class="tour-listing__card-people-text text-small">12+</p>
+                                        <p class="tour-listing__card-people-text text-small">5+</p>
                                     </div><!-- /.tour-listing__card-people -->
                                 </div><!-- /.tour-listing__card-bottom-left -->
-                                <div class="tour-listing__card-bottom-right">
-                                    <h4 class="tour-listing__card-price">$110</h4>
-                                </div><!-- /.tour-listing__card-bottom-right -->
                             </div><!-- /.tour-listing__card-bottom -->
                         </div><!-- /.tour-listing__card-inner-content -->
                     </div><!-- /.tour-listing__card-content -->
@@ -427,13 +402,9 @@
                         <img src="assets/images/tours/tour-3-3.jpg" alt="assets/images/tours/tour-3-3.jpg"
                             class="tour-listing__card-image">
                         <div class="tour-listing__card-btn-group">
-
-
                         </div><!-- /.tour-listing__card-btn-group -->
                         <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
                     </a><!-- /.tour-listing__card-image-box -->
-                    <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
-                            class="icon-heart"></span></a>
                     <div class="tour-listing__card-content">
                         <div class="tour-listing__card-camera-group">
                             <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup"
@@ -456,39 +427,32 @@
             }'>
                                 <span class="icon-photo-camera-1"></span>
                             </a>
-                            <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
-                                class="tour-listing__card-camera-btn video-popup">
-                                <span class="icon-video-camera-1-1"></span>
-                            </a>
                         </div><!-- /.tour-listing__card-camera-group -->
-                        <h3 class="tour-listing__card-title"><a href="tour-listing-details-right.html">Turkey Balloons
-                                flying</a></h3>
-                        <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem
-                            Ipsum agtilable</p>
+                        <h3 class="tour-listing__card-title"><a href="tour-listing-details-right.html">
+                                Museo del Tequila
+                            </a></h3>
+                        <p class="tour-listing__card-text text-small">
+                            ¿Has visitado este mágico lugar? No te lo puedes perder y descubrir las maravillas que se
+                            realizan. <br><br>
+                        </p>
                         <div class="tour-listing__card-inner-content">
-                            <div class="tour-listing__card-review-box">
-                                <span class="icon-star"></span>
-                                <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
-                            </div><!-- /.tour-listing__card-review-box -->
+                            <!-- /.tour-listing__card-review-box -->
                             <div class="tour-listing__card-location-box">
                                 <span class="icon-location-1"></span>
-                                <p class="tour-listing__card-location-text text-small">Main Street, Brooklyn, NY</p>
+                                <p class="tour-listing__card-location-text text-small">Baja California Sur</p>
                             </div><!-- /.tour-listing__card-location-box -->
                             <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                             <div class="tour-listing__card-bottom">
                                 <div class="tour-listing__card-bottom-left">
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
-                                        <p class="tour-listing__card-day-text text-small">3 Day</p>
+                                        <p class="tour-listing__card-day-text text-small">6 horas</p>
                                     </div><!-- /.tour-listing__card-day -->
                                     <div class="tour-listing__card-people">
                                         <span class="icon-Duration"></span>
-                                        <p class="tour-listing__card-people-text text-small">12+</p>
+                                        <p class="tour-listing__card-people-text text-small">8+</p>
                                     </div><!-- /.tour-listing__card-people -->
                                 </div><!-- /.tour-listing__card-bottom-left -->
-                                <div class="tour-listing__card-bottom-right">
-                                    <h4 class="tour-listing__card-price">$130</h4>
-                                </div><!-- /.tour-listing__card-bottom-right -->
                             </div><!-- /.tour-listing__card-bottom -->
                         </div><!-- /.tour-listing__card-inner-content -->
                     </div><!-- /.tour-listing__card-content -->
@@ -507,27 +471,28 @@
                 <div class="benefit-one__content">
                     <div class="sec-title text-left">
 
-                        <p class="sec-title__tagline">GET TO KNOW US</p><!-- /.sec-title__tagline -->
+                        <p class="sec-title__tagline">¿Por qué elegirnos?</p>
 
-                        <h2 class="sec-title__title">Why You Should Choose Our Company</h2><!-- /.sec-title__title -->
+                        <h2 class="sec-title__title">Novo Tours</h2>
                     </div><!-- /.sec-title -->
                     <!-- /.sec-title -->
-                    <h5 class="benefit-one__content__heading">Best ways to enjoy adventures</h5>
+                    <h5 class="benefit-one__content__heading">Contamos con los mejores tours de BCS.</h5>
                     <p class="benefit-one__content__text">
-                        There are many variations of passages of Lorem Ipsum simply free text available, but the
-                        majority.
+                        Nuestra agencia cuenta con años de experiencia en la industria del turismo, brindando a nuestros
+                        clientes un conocimiento profundo de lugares excepcionales y la capacidad de crear experiencias
+                        únicas.
                     </p>
                     <div class="benefit-one__box-wrapper">
                         <div class="benefit-one__box">
                             <div class="benefit-one__box__icon"><span class="icon-airplane-1"></span></div>
-                            <h3 class="benefit-one__box__title">Professional & Certified</h3>
+                            <h3 class="benefit-one__box__title">Guías certificados</h3>
                         </div><!-- /.benefit-box -->
                         <div class="benefit-one__box">
                             <div class="benefit-one__box__icon"><span class="icon-ticket-1"></span></div>
-                            <h3 class="benefit-one__box__title">Get Instant Tour Bookings</h3>
+                            <h3 class="benefit-one__box__title">Reservaciones al instante</h3>
                         </div><!-- /.benefit-box -->
                     </div>
-                    <a href="about.html" class="trevlo-btn"><span>Discover More</span></a><!-- /.button -->
+                    <a href="about.html" class="trevlo-btn"><span>Ver tours</span></a><!-- /.button -->
                 </div>
             </div>
             <div class="col-lg-7 wow fadeInRight" data-wow-delay="200ms">
@@ -537,7 +502,7 @@
                     <!-- /.counter__icon -->
                     <div class="benefit-one__counter__number count-box"><span class="count-text" data-stop="3800"
                             data-speed="1500"></span> </div><!-- /.counter__number -->
-                    <p class="benefit-one__counter__title">Satisfied Customers</p><!-- /.counter__title -->
+                    <p class="benefit-one__counter__title">clientes satisfechos</p>
                 </div>
             </div>
         </div>
@@ -551,9 +516,9 @@
     <div class="container">
         <div class="sec-title text-center">
 
-            <p class="sec-title__tagline">Testimonial</p><!-- /.sec-title__tagline -->
+            <p class="sec-title__tagline">Opiniones</p><!-- /.sec-title__tagline -->
 
-            <h2 class="sec-title__title">What Our Customers are<br> Saying?</h2><!-- /.sec-title__title -->
+            <h2 class="sec-title__title">¿Qué dicen nuestros<br> clientes?</h2><!-- /.sec-title__title -->
         </div><!-- /.sec-title -->
         <!-- /.sec-title -->
     </div><!-- /.container -->
@@ -587,8 +552,7 @@
                         <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="Jacob Jones">
                     </div>
                     <div class="testimonials-card__meta">
-                        <h5 class="testimonials-card__meta__name">Jacob Jones</h5>
-                        <p class="testimonials-card__meta__designation">Tourist</p>
+                        <h5 class="testimonials-card__meta__name">Cliente 1</h5>
                     </div><!-- /.testimonials-card__meta -->
                     <div class="testimonials-card__ratings">
                         <span class="icon-star"></span>
@@ -597,9 +561,10 @@
                         <span class="icon-star"></span>
                         <span class="icon-star"></span>
                     </div><!-- /.testimonials-card__ratings -->
-                    <div class="testimonials-card__quote">Flexible Classes refers to the process of acquiring is
-                        knowledge free or skills through the use of process the digital technologies and the internet.
-                        Flexible Classes</div><!-- /.testimonials-card__quote -->
+                    <div class="testimonials-card__quote">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus id praesentium placeat odit
+                        fugiat, vitae enim repellat. Reiciendis, architecto doloremque?
+                    </div><!-- /.testimonials-card__quote -->
                 </div><!-- /.testimonials-card -->
             </div><!-- /.owl-slide-item-->
             <div class="item">
@@ -608,8 +573,7 @@
                         <img src="assets/images/testimonial/testimonial-1-2.jpg" alt="Robert Fox">
                     </div>
                     <div class="testimonials-card__meta">
-                        <h5 class="testimonials-card__meta__name">Robert Fox</h5>
-                        <p class="testimonials-card__meta__designation">Tourist</p>
+                        <h5 class="testimonials-card__meta__name">Cliente 2</h5>
                     </div><!-- /.testimonials-card__meta -->
                     <div class="testimonials-card__ratings">
                         <span class="icon-star"></span>
@@ -618,9 +582,10 @@
                         <span class="icon-star"></span>
                         <span class="icon-star"></span>
                     </div><!-- /.testimonials-card__ratings -->
-                    <div class="testimonials-card__quote">Flexible Classes refers to the process of acquiring is
-                        knowledge free or skills through the use of process the digital technologies and the internet.
-                        Flexible Classes</div><!-- /.testimonials-card__quote -->
+                    <div class="testimonials-card__quote">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, accusamus! Beatae veritatis velit
+                        repudiandae, perspiciatis provident assumenda veniam corrupti illo?
+                    </div><!-- /.testimonials-card__quote -->
                 </div><!-- /.testimonials-card -->
             </div><!-- /.owl-slide-item-->
             <div class="item">
@@ -629,8 +594,7 @@
                         <img src="assets/images/testimonial/testimonial-1-3.jpg" alt="Guy Hawkins">
                     </div>
                     <div class="testimonials-card__meta">
-                        <h5 class="testimonials-card__meta__name">Guy Hawkins</h5>
-                        <p class="testimonials-card__meta__designation">Tourist</p>
+                        <h5 class="testimonials-card__meta__name">Cliente 3</h5>
                     </div><!-- /.testimonials-card__meta -->
                     <div class="testimonials-card__ratings">
                         <span class="icon-star"></span>
@@ -639,9 +603,10 @@
                         <span class="icon-star"></span>
                         <span class="icon-star"></span>
                     </div><!-- /.testimonials-card__ratings -->
-                    <div class="testimonials-card__quote">Flexible Classes refers to the process of acquiring is
-                        knowledge free or skills through the use of process the digital technologies and the internet.
-                        Flexible Classes</div><!-- /.testimonials-card__quote -->
+                    <div class="testimonials-card__quote">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit veritatis sint ullam repellat
+                        voluptatum esse amet aliquam officia excepturi odit.
+                    </div>
                 </div><!-- /.testimonials-card -->
             </div><!-- /.owl-slide-item-->
             <div class="item">
@@ -650,8 +615,7 @@
                         <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="Jacob Jones">
                     </div>
                     <div class="testimonials-card__meta">
-                        <h5 class="testimonials-card__meta__name">Jacob Jones</h5>
-                        <p class="testimonials-card__meta__designation">Tourist</p>
+                        <h5 class="testimonials-card__meta__name">Cliente 4</h5>
                     </div><!-- /.testimonials-card__meta -->
                     <div class="testimonials-card__ratings">
                         <span class="icon-star"></span>
@@ -660,128 +624,31 @@
                         <span class="icon-star"></span>
                         <span class="icon-star"></span>
                     </div><!-- /.testimonials-card__ratings -->
-                    <div class="testimonials-card__quote">Flexible Classes refers to the process of acquiring is
-                        knowledge free or skills through the use of process the digital technologies and the internet.
-                        Flexible Classes</div><!-- /.testimonials-card__quote -->
-                </div><!-- /.testimonials-card -->
-            </div><!-- /.owl-slide-item-->
-            <div class="item">
-                <div class="testimonials-card">
-                    <div class="testimonials-card__image">
-                        <img src="assets/images/testimonial/testimonial-1-2.jpg" alt="Robert Fox">
+                    <div class="testimonials-card__quote">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore error similique rerum eum
+                        consequatur ab quam libero vitae tempora vel.
                     </div>
-                    <div class="testimonials-card__meta">
-                        <h5 class="testimonials-card__meta__name">Robert Fox</h5>
-                        <p class="testimonials-card__meta__designation">Tourist</p>
-                    </div><!-- /.testimonials-card__meta -->
-                    <div class="testimonials-card__ratings">
-                        <span class="icon-star"></span>
-                        <span class="icon-star"></span>
-                        <span class="icon-star"></span>
-                        <span class="icon-star"></span>
-                        <span class="icon-star"></span>
-                    </div><!-- /.testimonials-card__ratings -->
-                    <div class="testimonials-card__quote">Flexible Classes refers to the process of acquiring is
-                        knowledge free or skills through the use of process the digital technologies and the internet.
-                        Flexible Classes</div><!-- /.testimonials-card__quote -->
                 </div><!-- /.testimonials-card -->
-            </div><!-- /.owl-slide-item-->
-            <div class="item">
-                <div class="testimonials-card">
-                    <div class="testimonials-card__image">
-                        <img src="assets/images/testimonial/testimonial-1-3.jpg" alt="Guy Hawkins">
-                    </div>
-                    <div class="testimonials-card__meta">
-                        <h5 class="testimonials-card__meta__name">Guy Hawkins</h5>
-                        <p class="testimonials-card__meta__designation">Tourist</p>
-                    </div><!-- /.testimonials-card__meta -->
-                    <div class="testimonials-card__ratings">
-                        <span class="icon-star"></span>
-                        <span class="icon-star"></span>
-                        <span class="icon-star"></span>
-                        <span class="icon-star"></span>
-                        <span class="icon-star"></span>
-                    </div><!-- /.testimonials-card__ratings -->
-                    <div class="testimonials-card__quote">Flexible Classes refers to the process of acquiring is
-                        knowledge free or skills through the use of process the digital technologies and the internet.
-                        Flexible Classes</div><!-- /.testimonials-card__quote -->
-                </div><!-- /.testimonials-card -->
-            </div><!-- /.owl-slide-item-->
+            </div>
         </div><!-- /.thm-owl__slider -->
     </div><!-- /.container -->
 </section>
-<!-- Testimonial One End -->
-<section class="why-choose-one">
-    <div class="why-choose-one__bg" style="background-image: url(assets/images/backgrounds/why-choose-bg-1.jpg);"></div>
-    <!-- /.why-choose__bg -->
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-5 col-lg-6 wow fadeInUp" data-wow-delay="200ms">
-                <div class="sec-title text-left">
 
-                    <p class="sec-title__tagline">Are you ready to travel</p><!-- /.sec-title__tagline -->
-
-                    <h2 class="sec-title__title">Choose Our Tour Types<br> & Enjoy Now</h2><!-- /.sec-title__title -->
-                </div><!-- /.sec-title -->
-                <!-- /.sec-title -->
-            </div>
-            <div class="col-xl-7 col-lg-6 wow fadeInUp" data-wow-delay="200ms">
-                <p class="why-choose-one__text">
-                    There are many variations of passages of Lorem Ipsum available, but the majority have
-                    suffered alteradution in some form by injected humour, some form
-                </p>
-            </div>
-        </div>
-        <div class="row gutter-y-30">
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-                <div class="why-choose-one__box">
-                    <div class="why-choose-one__box__bg"
-                        style="background-image: url(assets/images/backgrounds/why-choose-bg-1-1.png);"></div>
-                    <div class="why-choose-one__box__icon"><span class="icon-wildlife"></span></div>
-                    <h3 class="why-choose-one__box__title">Wildlife</h3>
-                </div><!-- /.why-choose-box -->
-            </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                <div class="why-choose-one__box">
-                    <div class="why-choose-one__box__bg"
-                        style="background-image: url(assets/images/backgrounds/why-choose-bg-1-2.png);"></div>
-                    <div class="why-choose-one__box__icon"><span class="icon-paragliding-1"></span></div>
-                    <h3 class="why-choose-one__box__title">Paragliding Tours</h3>
-                </div><!-- /.why-choose-box -->
-            </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-                <div class="why-choose-one__box">
-                    <div class="why-choose-one__box__bg"
-                        style="background-image: url(assets/images/backgrounds/why-choose-bg-1-3.png);"></div>
-                    <div class="why-choose-one__box__icon"><span class="icon-hiking-1"></span></div>
-                    <h3 class="why-choose-one__box__title">Adventure Tours</h3>
-                </div><!-- /.why-choose-box -->
-            </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                <div class="why-choose-one__box">
-                    <div class="why-choose-one__box__bg"
-                        style="background-image: url(assets/images/backgrounds/why-choose-bg-1-4.png);"></div>
-                    <div class="why-choose-one__box__icon"><span class="icon-hang-gliding-1"></span></div>
-                    <h3 class="why-choose-one__box__title">Hang Gliding Tours</h3>
-                </div><!-- /.why-choose-box -->
-            </div>
-        </div>
-    </div><!-- /.container -->
-</section><!-- /.why-choose-one -->
-<!-- Offer One Start -->
 <section class="offer-one" style="background-image: url('assets/images/backgrounds/offer-1-bg.png');">
     <div class="container">
         <div class="row">
             <div class="col-xl-5 col-lg-6">
                 <div class="offer-one__content sec-title">
-                    <p class="offer-one__top-title">Special offer for you</p>
-                    <h2 class="offer-one__heading sec-title__heading">Start your Journey with a Single Click</h2>
-                    <p class="offer-one__text">There are many variations of passages of Lorem Ipsum available, but the
-                        majority have</p>
+                    <p class="offer-one__top-title">Ofertas especiales</p>
+                    <h2 class="offer-one__heading sec-title__heading">Estás a un paso de reservar con Novo Tours</h2>
+                    <p class="offer-one__text">
+                        No dejes pasar los días para poder descubir lugares mágicos y las mejores historias que Baja
+                        California Sur tiene para contar.
+                    </p>
                     <div class="offer-one__btn-box wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <a href="tour-listing-side-filter-right.html"
-                            class="offer-one__btn trevlo-btn trevlo-btn--primary"><span>Start Booking</span></a>
+                            class="offer-one__btn trevlo-btn trevlo-btn--primary"><span>¡Reserva Ahora!</span></a>
                     </div><!-- /.offer-one__btn-box -->
                 </div><!-- /.offer-one__content -->
             </div><!-- /.col-xl-5 col-lg-6 -->
@@ -790,7 +657,6 @@
                     <div class="offer-one__inner-img-box">
                         <img src="assets/images/offer/offer-1-1.jpg" alt="offer" class="offer-one__img-one">
                         <img src="assets/images/offer/offer-1-2.jpg" alt="offer" class="offer-one__img-two">
-                        <img src="assets/images/offer/offer-1-3.png" alt="offer" class="offer-one__img-three">
                     </div><!-- /.offer-one__inner-img-box -->
                 </div><!-- /.offer-one__img-box -->
             </div><!-- /.col-xl-7 col-lg-6 -->
@@ -798,314 +664,11 @@
     </div><!-- /.container -->
     <div class="offer-one__shape-one trevlo-splax"
         data-para-options='{ "orientation": "left", "scale": 1.5, "overflow": true }'
-        style="background-image: url('assets/images/shapes/offer-shape-1.png');"></div><!-- /.bg -->
-    <div class="offer-one__shape-two trevlo-splax"
-        data-para-options='{ "orientation": "right", "scale": 1.5, "overflow": true }'
-        style="background-image: url('assets/images/shapes/offer-shape-2.png');"></div><!-- /.bg -->
+        style="background-image: url('assets/images/shapes/offer-shape-1.png');"></div>
     <div class="offer-one__bottom-bg" style="background-image: url('assets/images/offer/offer-1-4.png');"></div>
     <!-- /.bg -->
 </section>
-<!-- Offer End Start -->
-<!-- Counter One Start -->
-<section class="counter-one">
-    <div class="counter-one__bg-box"></div><!-- /.counter-one__bg-box -->
-    <div class="counter-one__main-content">
-        <div class="container">
-            <div class="counter-one__container container-fluid">
-                <div class="row">
-                    <div class="col-xl-3 col-lg-3 col-6 wow animated fadeInUp" data-wow-delay="0.1s"
-                        data-wow-duration="1500ms">
-                        <div class="counter-box @@extraClassName">
-                            <div class="counter-box__icon">
-                                <span class="icon-happy-Travel"></span>
-                            </div><!-- /.counter-box__icon -->
-                            <div class="counter-box__inner sec-title count-box">
-                                <h3 class="counter-box__count-text counter-box__count-text--one sec-title__heading count-text"
-                                    data-stop="30.3" data-speed="1500">00</h3>
-                                <h3 class="counter-box__count-text sec-title__heading">k</h3>
-                            </div><!-- /.counter-box__inner -->
-                            <p class="counter-box__title">Happy Traveller</p>
-                        </div>
-                    </div><!-- /.col-xl-3 col-lg-3 col-6 -->
-                    <div class="col-xl-3 col-lg-3 col-6 wow animated fadeInUp" data-wow-delay="0.3s"
-                        data-wow-duration="1500ms">
-                        <div class="counter-box @@extraClassName">
-                            <div class="counter-box__icon">
-                                <span class="icon-tent-1"></span>
-                            </div><!-- /.counter-box__icon -->
-                            <div class="counter-box__inner sec-title count-box">
-                                <h3 class="counter-box__count-text counter-box__count-text--one sec-title__heading count-text"
-                                    data-stop="40.5" data-speed="1500">00</h3>
-                                <h3 class="counter-box__count-text sec-title__heading">k</h3>
-                            </div><!-- /.counter-box__inner -->
-                            <p class="counter-box__title">Tent Sites</p>
-                        </div>
-                    </div><!-- /.col-xl-3 col-lg-3 col-6 -->
-                    <div class="col-xl-3 col-lg-3 col-6 wow animated fadeInUp" data-wow-delay="0.5s"
-                        data-wow-duration="1500ms">
-                        <div class="counter-box @@extraClassName">
-                            <div class="counter-box__icon">
-                                <span class="icon-satisfied"></span>
-                            </div><!-- /.counter-box__icon -->
-                            <div class="counter-box__inner sec-title count-box">
-                                <h3 class="counter-box__count-text counter-box__count-text--one sec-title__heading count-text"
-                                    data-stop="88.9" data-speed="1500">00</h3>
-                                <h3 class="counter-box__count-text sec-title__heading">%</h3>
-                            </div><!-- /.counter-box__inner -->
-                            <p class="counter-box__title">Satisfaction Rate</p>
-                        </div>
-                    </div><!-- /.col-xl-3 col-lg-3 col-6 -->
-                    <div class="col-xl-3 col-lg-3 col-6 wow animated fadeInUp" data-wow-delay="0.7s"
-                        data-wow-duration="1500ms">
-                        <div class="counter-box counter-box--no-border">
-                            <div class="counter-box__icon">
-                                <span class="icon-online-chat-1"></span>
-                            </div><!-- /.counter-box__icon -->
-                            <div class="counter-box__inner sec-title count-box">
-                                <h3 class="counter-box__count-text counter-box__count-text--one sec-title__heading count-text"
-                                    data-stop="6.30" data-speed="1500">00</h3>
-                                <h3 class="counter-box__count-text sec-title__heading">+</h3>
-                            </div><!-- /.counter-box__inner -->
-                            <p class="counter-box__title">Year Of Service</p>
-                        </div>
-                    </div><!-- /.col-xl-3 col-lg-3 col-6 -->
-                </div><!-- /.row -->
-            </div><!-- /.counter-one__container container-fluid -->
-        </div><!-- /.container -->
-    </div><!-- /.counter-one__main-content -->
-</section>
-<!-- Counter One End -->
-<!-- blog-one Start -->
-<div class="blog-one">
-    <div class="container">
-        <div class="sec-title text-center">
 
-            <p class="sec-title__tagline">Articles</p><!-- /.sec-title__tagline -->
-
-            <h2 class="sec-title__title">Latest News & Articles from<br> the Blog Posts</h2><!-- /.sec-title__title -->
-        </div><!-- /.sec-title -->
-        <div class="blog-page__carousel trevlo-owl__carousel trevlo-owl__carousel--basic-nav owl-theme owl-carousel"
-            data-owl-options='{
-            "items": 5,
-            "margin": 30,
-            "smartSpeed": 700,
-            "loop":false,
-            "autoplay": 6000,
-            "nav":false,
-            "dots":true,
-            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
-            "responsive":{
-                "0":{
-                    "items": 1
-                },
-                "768":{
-                    "items": 2
-                },
-                "1200":{
-                    "items": 3
-                }
-            }
-            }'>
-            <div class="item">
-                <div class="blog-card">
-                    <a href="blog-details-right.html" class="blog-card__image-link">
-                        <img src="assets/images/blog/blog-1-1.jpg" alt="You Should See Things when visiting Japan"
-                            class="blog-card__image">
-                        <div class="blog-card__overlay">
-                            <span class="blog-card__plus icon-plus"></span>
-                        </div><!-- /.blog-card__overlay -->
-                    </a><!-- /.blog-card__image-link -->
-                    <div class="blog-card__content">
-                        <div class="blog-card__date">
-                            <h4 class="blog-card__date-number">30</h4>
-                            <h4 class="blog-card__date-month">aug</h4>
-                        </div><!-- /.blog-card__date -->
-                        <ul class="blog-card__meta">
-                            <li>
-                                <span class="blog-card__meta-icon icon-user"></span>
-                                <span class="blog-card__meta-author">By Admin</span>
-                            </li>
-                            <li>
-                                <span class="blog-card__meta-icon icon-chat"></span>
-                                <span class="blog-card__meta-author">2 Comment</span>
-                            </li>
-                        </ul><!-- /.blog-card__meta -->
-                        <h3 class="blog-card__title"><a href="blog-details-right.html">You Should See Things when
-                                visiting Japan</a></h3><!-- /.blog-card__title -->
-                        <a href="blog-details-right.html" class="blog-card__link">
-                            Read more
-                            <i class="fas fa-arrow-right"></i>
-                        </a><!-- /.blog-card__link -->
-                    </div><!-- /.blog-card__content -->
-                </div><!-- /.blog-card -->
-            </div><!-- /.col-md-6 col-xl-4 -->
-            <div class="item">
-                <div class="blog-card">
-                    <a href="blog-details-right.html" class="blog-card__image-link">
-                        <img src="assets/images/blog/blog-1-2.jpg" alt="You Should See Things when visiting Japan"
-                            class="blog-card__image">
-                        <div class="blog-card__overlay">
-                            <span class="blog-card__plus icon-plus"></span>
-                        </div><!-- /.blog-card__overlay -->
-                    </a><!-- /.blog-card__image-link -->
-                    <div class="blog-card__content">
-                        <div class="blog-card__date">
-                            <h4 class="blog-card__date-number">15</h4>
-                            <h4 class="blog-card__date-month">sep</h4>
-                        </div><!-- /.blog-card__date -->
-                        <ul class="blog-card__meta">
-                            <li>
-                                <span class="blog-card__meta-icon icon-user"></span>
-                                <span class="blog-card__meta-author">By Admin</span>
-                            </li>
-                            <li>
-                                <span class="blog-card__meta-icon icon-chat"></span>
-                                <span class="blog-card__meta-author">2 Comment</span>
-                            </li>
-                        </ul><!-- /.blog-card__meta -->
-                        <h3 class="blog-card__title"><a href="blog-details-right.html">You Should See Things when
-                                visiting Japan</a></h3><!-- /.blog-card__title -->
-                        <a href="blog-details-right.html" class="blog-card__link">
-                            Read more
-                            <i class="fas fa-arrow-right"></i>
-                        </a><!-- /.blog-card__link -->
-                    </div><!-- /.blog-card__content -->
-                </div><!-- /.blog-card -->
-            </div><!-- /.col-md-6 col-xl-4 -->
-            <div class="item">
-                <div class="blog-card">
-                    <a href="blog-details-right.html" class="blog-card__image-link">
-                        <img src="assets/images/blog/blog-1-3.jpg" alt="You Should See Things when visiting Japan"
-                            class="blog-card__image">
-                        <div class="blog-card__overlay">
-                            <span class="blog-card__plus icon-plus"></span>
-                        </div><!-- /.blog-card__overlay -->
-                    </a><!-- /.blog-card__image-link -->
-                    <div class="blog-card__content">
-                        <div class="blog-card__date">
-                            <h4 class="blog-card__date-number">30</h4>
-                            <h4 class="blog-card__date-month">oct</h4>
-                        </div><!-- /.blog-card__date -->
-                        <ul class="blog-card__meta">
-                            <li>
-                                <span class="blog-card__meta-icon icon-user"></span>
-                                <span class="blog-card__meta-author">By Admin</span>
-                            </li>
-                            <li>
-                                <span class="blog-card__meta-icon icon-chat"></span>
-                                <span class="blog-card__meta-author">2 Comment</span>
-                            </li>
-                        </ul><!-- /.blog-card__meta -->
-                        <h3 class="blog-card__title"><a href="blog-details-right.html">You Should See Things when
-                                visiting Japan</a></h3><!-- /.blog-card__title -->
-                        <a href="blog-details-right.html" class="blog-card__link">
-                            Read more
-                            <i class="fas fa-arrow-right"></i>
-                        </a><!-- /.blog-card__link -->
-                    </div><!-- /.blog-card__content -->
-                </div><!-- /.blog-card -->
-            </div><!-- /.col-md-6 col-xl-4 -->
-        </div><!-- /.row -->
-    </div><!-- /.container -->
-</div><!-- /.blog-one -->
-<!-- blog-one End -->
-<div class="client-carousel @@extraClassName">
-    <div class="container">
-        <h5 class="client-carousel__title"><span>2k + Brands Trust Us</span></h5>
-        <div class="client-carousel__one trevlo-owl__carousel owl-theme owl-carousel" data-owl-options='{
-            "items": 5,
-            "margin": 65,
-            "smartSpeed": 700,
-            "loop":true,
-            "autoplay": 6000,
-            "nav":false,
-            "dots":false,
-            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
-            "responsive":{
-                "0":{
-                    "items":1,
-                    "margin": 0
-                },
-                "450":{
-                    "items":2,
-                    "margin": 0
-                },
-                "768":{
-                    "items":3,
-                    "margin": 40
-                },
-                "992":{
-                    "items": 4,
-                    "margin": 40
-                },
-                "1200":{
-                    "items": 5
-                }
-            }
-            }'>
-            <div class="client-carousel__one__item">
-                <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.png"
-                    alt="trevlo">
-                <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.png"
-                    alt="trevlo">
-            </div><!-- /.owl-slide-item-->
-            <div class="client-carousel__one__item">
-                <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.png"
-                    alt="trevlo">
-                <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.png"
-                    alt="trevlo">
-            </div><!-- /.owl-slide-item-->
-            <div class="client-carousel__one__item">
-                <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.png"
-                    alt="trevlo">
-                <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.png"
-                    alt="trevlo">
-            </div><!-- /.owl-slide-item-->
-            <div class="client-carousel__one__item">
-                <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.png"
-                    alt="trevlo">
-                <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.png"
-                    alt="trevlo">
-            </div><!-- /.owl-slide-item-->
-            <div class="client-carousel__one__item">
-                <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.png"
-                    alt="trevlo">
-                <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.png"
-                    alt="trevlo">
-            </div><!-- /.owl-slide-item-->
-            <div class="client-carousel__one__item">
-                <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.png"
-                    alt="trevlo">
-                <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.png"
-                    alt="trevlo">
-            </div><!-- /.owl-slide-item-->
-            <div class="client-carousel__one__item">
-                <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.png"
-                    alt="trevlo">
-                <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.png"
-                    alt="trevlo">
-            </div><!-- /.owl-slide-item-->
-            <div class="client-carousel__one__item">
-                <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.png"
-                    alt="trevlo">
-                <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.png"
-                    alt="trevlo">
-            </div><!-- /.owl-slide-item-->
-            <div class="client-carousel__one__item">
-                <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.png"
-                    alt="trevlo">
-                <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.png"
-                    alt="trevlo">
-            </div><!-- /.owl-slide-item-->
-            <div class="client-carousel__one__item">
-                <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.png"
-                    alt="trevlo">
-                <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.png"
-                    alt="trevlo">
-            </div><!-- /.owl-slide-item-->
-        </div><!-- /.thm-owl__slider -->
-    </div><!-- /.container -->
-</div><!-- /.client-carousel -->
 <section class="gallery-one">
     <div class="container">
         <div class="gallery-one__carousel trevlo-owl__carousel trevlo-owl__carousel--basic-nav owl-carousel"

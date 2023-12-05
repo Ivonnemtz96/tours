@@ -54,10 +54,10 @@
                             <a href="about.html">Nosotros</a>
                         </li>
                         <li>
-                            <a href="about.html">Tours</a>
+                            <a href="tours.php">Tours</a>
                         </li>
                         <li>
-                            <a href="about.html">Servicios</a>
+                            <a href="about.html">Galería</a>
                         </li>
                         <li>
                             <a href="contact.html">Contacto</a>
