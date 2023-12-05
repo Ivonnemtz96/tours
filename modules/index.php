@@ -14,7 +14,7 @@
 		}'>
         <div class="item">
             <div class="main-slider-one__image"
-                style="background-image: url(assets/images/backgrounds/slider-1-1.jpg);"></div>
+                style="background-image: url(assets/images/backgrounds/slider-1-1.jpg?=1);"></div>
             <div class="container">
                 <div class="main-slider-one__content">
                     <h5 class="main-slider-one__sub-title">Vive grandes aventuras<img
@@ -26,7 +26,7 @@
         </div>
         <div class="item">
             <div class="main-slider-one__image"
-                style="background-image: url(assets/images/backgrounds/slider-1-2.jpg);"></div>
+                style="background-image: url(assets/images/backgrounds/slider-1-2.jpg?=2);"></div>
             <div class="container">
                 <div class="main-slider-one__content">
                     <h5 class="main-slider-one__sub-title">Los mejores tours <img
@@ -38,7 +38,7 @@
         </div>
         <div class="item">
             <div class="main-slider-one__image"
-                style="background-image: url(assets/images/backgrounds/slider-1-3.jpg);"></div>
+                style="background-image: url(assets/images/backgrounds/slider-1-3.jpg?=3);"></div>
             <div class="container">
                 <div class="main-slider-one__content">
                     <h5 class="main-slider-one__sub-title">Los Cabos <img
