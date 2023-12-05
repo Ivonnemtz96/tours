@@ -41,14 +41,14 @@
         <div class="main-header__inner">
             <div class="main-header__left">
                 <div class="main-header__logo">
-                    <a href="index.html">
-                        <img src="assets/images/logo-light.png" alt="Trevlo HTML" width="146">
+                    <a href="index.php">
+                        <img src="assets/images/logo-light.png" alt="Novo Tours" width="146">
                     </a>
                 </div><!-- /.main-header__logo -->
                 <nav class="main-header__nav main-menu text-center">
                     <ul class="main-menu__list">
                         <li class="dropdown megamenu">
-                            <a href="index.html">Inicio</a>
+                            <a href="index.php">Inicio</a>
                         </li>
                         <li>
                             <a href="index.php#about">Nosotros</a>
@@ -57,10 +57,10 @@
                             <a href="tours.php">Tours</a>
                         </li>
                         <li>
-                            <a href="about.html">Galería</a>
+                            <a href="gallery.php">Galería</a>
                         </li>
                         <li>
-                            <a href="contact.html">Contacto</a>
+                            <a href="contact.php">Contacto</a>
                         </li>
                     </ul>
                 </nav><!-- /.main-header__nav -->
