@@ -51,7 +51,7 @@
                             <a href="index.html">Inicio</a>
                         </li>
                         <li>
-                            <a href="about.html">Nosotros</a>
+                            <a href="index.php#about">Nosotros</a>
                         </li>
                         <li>
                             <a href="tours.php">Tours</a>

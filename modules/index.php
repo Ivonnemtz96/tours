@@ -332,8 +332,8 @@
                             </div><!-- /.tour-listing__card-bottom -->
                         </div><!-- /.tour-listing__card-inner-content -->
                     </div><!-- /.tour-listing__card-content -->
-                </div><!-- /.tour-listing__card -->
-            </div><!-- /.item -->
+                </div>
+            </div>
             <div class="item">
                 <div class="tour-listing__card">
                     <a href="tour-listing-details-right.html" class="tour-listing__card-image-box">
