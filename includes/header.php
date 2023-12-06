@@ -5,7 +5,7 @@
                 <ul class="topbar-one__info">
                     <li class="topbar-one__info-item">
                         <span class="topbar-one__info-icon icon-location-1"></span>
-                        <span class="topbar-one__info-text">30 Commercial Road Fratton, Australia</span>
+                        <span class="topbar-one__info-text">San Antonio 149 Interior 202 Plaza Krystal,Arcos del Sol</span>
                     </li>
                     <li class="topbar-one__info-item">
                         <span class="topbar-one__info-icon icon-envelope"></span>
@@ -15,7 +15,7 @@
                 <ul class="topbar-one__info topbar-one__info--right">
                     <li class="topbar-one__info-item">
                         <span class="topbar-one__info-icon icon-clock-1"></span>
-                        <span class="topbar-one__info-text">Mon to Sat: 8:00 am - 7:00 pm</span>
+                        <span class="topbar-one__info-text">Lun a Sab: 8:00 am - 7:00 pm</span>
                     </li>
                 </ul><!-- /.topbar-one__info -->
             </div><!-- /.topbar-one__left -->
@@ -80,7 +80,7 @@
                         </div>
                         <div class="main-header__phone-text">
                             <p class="main-header__phone-title">Márcanos</p>
-                            <h4 class="main-header__phone-number"><a href="tel:1234567890">123 4567890</a></h4>
+                            <h4 class="main-header__phone-number"><a href="tel:6241436371">624-143-6371</a></h4>
                         </div>
                     </div>
                 </div>
