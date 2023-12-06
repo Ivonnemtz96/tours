@@ -16,9 +16,9 @@
     <div class="container">
         <div class="row">
 
-        <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+            <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="tour-listing__card">
-                    <a href="tour-listing-details-right.html" class="tour-listing__card-image-box">
+                    <a href="tour1.php" class="tour-listing__card-image-box">
                         <img src="assets/images/tours/18.jpg" alt="Novo Tours" class="tour-listing__card-image">
                         <div class="tour-listing__card-btn-group">
                         </div><!-- /.tour-listing__card-btn-group -->
@@ -47,12 +47,12 @@
                                 <span class="icon-photo-camera-1"></span>
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
-                        <h3 class="tour-listing__card-title"><a href="tour-listing-details-right.html">
+                        <h3 class="tour-listing__card-title"><a href="tour1.php">
                                 Avistamiento de ballenas
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
-                            Nuestro espacio te transporta a un oasis gastronómico donde cada plato es una obra maestra
-                            de sabores marinos exquisitos. <br><br>
+                            Embárcate en una aventura emocionante con nuestro tour de avistamiento de ballenas, donde la
+                            majestuosidad de estos gigantes del océano cobra vida. <br><br>
                         </p>
                         <div class="tour-listing__card-inner-content">
                             <!-- /.tour-listing__card-review-box -->
@@ -80,7 +80,7 @@
 
             <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="tour-listing__card">
-                    <a href="tour-listing-details-right.html" class="tour-listing__card-image-box">
+                    <a href="tour1.php" class="tour-listing__card-image-box">
                         <img src="assets/images/tours/tour-3-1.jpg" alt="assets/images/tours/tour-3-1.jpg"
                             class="tour-listing__card-image"><!-- /.tour-listing__card-btn-group -->
                         <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
@@ -109,12 +109,12 @@
                             </a>
                         </div>
                         <h3 class="tour-listing__card-title">
-                            <a href="tour-listing-details-right.html">
+                            <a href="tour1.php">
                                 Fábrica de Chocolate
                             </a>
                         </h3>
                         <p class="tour-listing__card-text text-small">
-                            Cocnoce la fábrica más grande de chocolate de Baja California Sur y deleítate con sus
+                            Conoce la fábrica más grande de chocolate de Baja California Sur y deleítate con sus
                             increíble sabores. <br><br> <br><br>
                         </p>
                         <div class="tour-listing__card-inner-content">
@@ -142,7 +142,7 @@
             </div>
             <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="tour-listing__card">
-                    <a href="tour-listing-details-right.html" class="tour-listing__card-image-box">
+                    <a href="tour1.php" class="tour-listing__card-image-box">
                         <img src="assets/images/tours/tour-3-2.jpg" alt="assets/images/tours/tour-3-2.jpg"
                             class="tour-listing__card-image">
                         <div class="tour-listing__card-image-overlay"></div>
@@ -171,7 +171,7 @@
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
                         <h3 class="tour-listing__card-title">
-                            <a href="tour-listing-details-right.html">
+                            <a href="tour1.php">
                                 Todos Santos
                             </a>
                         </h3>
@@ -205,7 +205,7 @@
             </div>
             <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                 <div class="tour-listing__card">
-                    <a href="tour-listing-details-right.html" class="tour-listing__card-image-box">
+                    <a href="tour1.php" class="tour-listing__card-image-box">
                         <img src="assets/images/tours/tour-3-3.jpg" alt="assets/images/tours/tour-3-3.jpg"
                             class="tour-listing__card-image">
                         <div class="tour-listing__card-btn-group">
@@ -235,7 +235,7 @@
                                 <span class="icon-photo-camera-1"></span>
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
-                        <h3 class="tour-listing__card-title"><a href="tour-listing-details-right.html">
+                        <h3 class="tour-listing__card-title"><a href="tour1.php">
                                 Museo del Tequila
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
@@ -268,7 +268,7 @@
 
             <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                 <div class="tour-listing__card">
-                    <a href="tour-listing-details-right.html" class="tour-listing__card-image-box">
+                    <a href="tour1.php" class="tour-listing__card-image-box">
                         <img src="assets/images/tours/07.jpg" alt="Novo Tours" class="tour-listing__card-image">
                         <!-- /.tour-listing__card-btn-group -->
                         <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
@@ -297,7 +297,7 @@
                             </a>
                         </div>
                         <h3 class="tour-listing__card-title">
-                            <a href="tour-listing-details-right.html">
+                            <a href="tour1.php">
                                 Bote Transparente
                             </a>
                         </h3>
@@ -331,7 +331,7 @@
             </div>
             <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                 <div class="tour-listing__card">
-                    <a href="tour-listing-details-right.html" class="tour-listing__card-image-box">
+                    <a href="tour1.php" class="tour-listing__card-image-box">
                         <img src="assets/images/tours/10.jpg" alt="Novo Tours" class="tour-listing__card-image">
                         <div class="tour-listing__card-image-overlay"></div>
                     </a><!-- /.tour-listing__card-image-box --></a>
@@ -359,7 +359,7 @@
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
                         <h3 class="tour-listing__card-title">
-                            <a href="tour-listing-details-right.html">
+                            <a href="tour1.php">
                                 Fábrica de Vidrio
                             </a>
                         </h3>
@@ -393,7 +393,7 @@
             </div>
             <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.5s" data-wow-duration="1500ms">
                 <div class="tour-listing__card">
-                    <a href="tour-listing-details-right.html" class="tour-listing__card-image-box">
+                    <a href="tour1.php" class="tour-listing__card-image-box">
                         <img src="assets/images/tours/14.jpg" alt="Novo Tours" class="tour-listing__card-image">
                         <div class="tour-listing__card-btn-group">
                         </div><!-- /.tour-listing__card-btn-group -->
@@ -422,7 +422,7 @@
                                 <span class="icon-photo-camera-1"></span>
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
-                        <h3 class="tour-listing__card-title"><a href="tour-listing-details-right.html">
+                        <h3 class="tour-listing__card-title"><a href="tour1.php">
                                 Resta El Coral
                             </a></h3>
                         <p class="tour-listing__card-text text-small">

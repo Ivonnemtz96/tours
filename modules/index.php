@@ -75,7 +75,7 @@
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
-                                <h4 class="destination-one__card-title"><a href="destination-details-right.html">Bote
+                                <h4 class="destination-one__card-title"><a href="tour1.php">Bote
                                         Transparente</a></h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--round -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
@@ -89,7 +89,7 @@
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
-                                <h4 class="destination-one__card-title"><a href="destination-details-right.html">Fábrica
+                                <h4 class="destination-one__card-title"><a href="tour1.php">Fábrica
                                         de chocolate</a></h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--round -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
@@ -104,7 +104,7 @@
                             class="destination-one__card-img destination-one__card-img--circle">
                         <div class="destination-one__card-overlay destination-one__card-overlay--circle">
                             <div class="destination-one__card-content destination-one__card-content--circle">
-                                <h4 class="destination-one__card-title"><a href="destination-details-right.html">Fábrica
+                                <h4 class="destination-one__card-title"><a href="tour1.php">Fábrica
                                         de vidirio</a></h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--circle -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--circle -->
@@ -119,7 +119,7 @@
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
-                                <h4 class="destination-one__card-title"><a href="destination-details-right.html">La
+                                <h4 class="destination-one__card-title"><a href="tour1.php">La
                                         Paz</a></h4>
                             </div>
                         </div>
@@ -134,7 +134,7 @@
                             class="destination-one__card-img destination-one__card-img--circle">
                         <div class="destination-one__card-overlay destination-one__card-overlay--circle">
                             <div class="destination-one__card-content destination-one__card-content--circle">
-                                <h4 class="destination-one__card-title"><a href="destination-details-right.html">Museo
+                                <h4 class="destination-one__card-title"><a href="tour1.php">Museo
                                         tequila</a></h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--circle -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--circle -->
@@ -149,7 +149,7 @@
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
-                                <h4 class="destination-one__card-title"><a href="destination-details-right.html">Resta
+                                <h4 class="destination-one__card-title"><a href="tour1.php">Resta
                                         El Coral</a></h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--round -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
@@ -184,25 +184,25 @@
                                 </svg>
                                 <div class="trevlo-tilt"
                                     data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 5, "speed": 700, "scale": 1 }'>
-                                    <img src="assets/images/resources/about-1-3.jpg?=2" alt="trevlo">
+                                    <img src="assets/images/resources/about-1-3.jpg?=2" alt="Novo Tours">
                                 </div>
                                 <div class="about-one__image__two__shape"><img
-                                        src="assets/images/shapes/about-1-shape-3.png" alt="trevlo"></div>
+                                        src="assets/images/shapes/about-1-shape-3.png" alt="Novo Tours"></div>
                                 <div class="about-one__counter"
                                     style="background-image: url(assets/images/shapes/about-1-shape-4.png);">
                                     <div class="about-one__counter__number count-box"><span
-                                            class="count-text"></span>¡Reserva</div><!-- /.counter__number -->
-                                    <p class="about-one__counter__title">Ahora!</p><!-- /.counter__title -->
-                                </div><!-- /.discount -->
+                                            class="count-text"></span>¡Reserva</div>
+                                    <p class="about-one__counter__title">Ahora!</p>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div><!-- /.about-one__image -->
                 <div class="about-one__shape-one">
-                    <img src="assets/images/shapes/about-1-shape-1.png" alt="trevlo">
+                    <img src="assets/images/shapes/about-1-shape-1.png" alt="Novo Tours">
                 </div><!-- /.about-one__shape -->
                 <div class="about-one__shape-two">
-                    <img src="assets/images/shapes/about-1-shape-2.png" alt="trevlo">
+                    <img src="assets/images/shapes/about-1-shape-2.png" alt="Novo Tours">
                 </div><!-- /.about-one__shape -->
             </div><!-- /.col-xl-6 col-lg-6 -->
             <div class="col-xl-6 col-lg-6 wow fadeInRight" data-wow-delay="200ms">
@@ -233,7 +233,7 @@
                         <p class="about-one__box__text">Empresa del sur de California, fundada y operada por
                             profesionales mexicanos.</p>
                     </div><!-- /.about-box -->
-                    <a href="about.html" class="trevlo-btn"><span>Ver Tours</span></a>
+                    <a href="tours.php" class="trevlo-btn"><span>Ver Tours</span></a>
                 </div><!-- /.about-four__content -->
             </div><!-- /.col-xl-6 col-lg-6 -->
         </div><!-- /.row -->
@@ -271,7 +271,7 @@
             }'>
             <div class="item">
                 <div class="tour-listing__card">
-                    <a href="tour-listing-details-right.html" class="tour-listing__card-image-box">
+                    <a href="tour1.php" class="tour-listing__card-image-box">
                         <img src="assets/images/tours/tour-3-1.jpg?=1" alt="Novo Tours"
                             class="tour-listing__card-image"><!-- /.tour-listing__card-btn-group -->
                         <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
@@ -300,7 +300,7 @@
                             </a>
                         </div>
                         <h3 class="tour-listing__card-title">
-                            <a href="tour-listing-details-right.html">
+                            <a href="tour1.php">
                                 Fábrica de Chocolate
                             </a>
                         </h3>
@@ -333,7 +333,7 @@
             </div>
             <div class="item">
                 <div class="tour-listing__card">
-                    <a href="tour-listing-details-right.html" class="tour-listing__card-image-box">
+                    <a href="tour1.php" class="tour-listing__card-image-box">
                         <img src="assets/images/tours/01.jpg" alt="Novo tours"
                             class="tour-listing__card-image">
                         <div class="tour-listing__card-image-overlay"></div>
@@ -362,7 +362,7 @@
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
                         <h3 class="tour-listing__card-title">
-                            <a href="tour-listing-details-right.html">
+                            <a href="tour1.php">
                                 Todos Santos
                             </a>
                         </h3>
@@ -395,7 +395,7 @@
             </div><!-- /.item -->
             <div class="item">
                 <div class="tour-listing__card">
-                    <a href="tour-listing-details-right.html" class="tour-listing__card-image-box">
+                    <a href="tour1.php" class="tour-listing__card-image-box">
                         <img src="assets/images/tours/04.jpg" alt="Novo Tours"
                             class="tour-listing__card-image">
                         <div class="tour-listing__card-btn-group">
@@ -425,7 +425,7 @@
                                 <span class="icon-photo-camera-1"></span>
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
-                        <h3 class="tour-listing__card-title"><a href="tour-listing-details-right.html">
+                        <h3 class="tour-listing__card-title"><a href="tour1.php">
                                 Museo del Tequila
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
@@ -489,7 +489,7 @@
                             <h3 class="benefit-one__box__title">Reservaciones al instante</h3>
                         </div><!-- /.benefit-box -->
                     </div>
-                    <a href="about.html" class="trevlo-btn"><span>Ver tours</span></a><!-- /.button -->
+                    <a href="tours.php" class="trevlo-btn"><span>Ver tours</span></a><!-- /.button -->
                 </div>
             </div>
             <div class="col-lg-7 wow fadeInRight" data-wow-delay="200ms">
@@ -642,7 +642,7 @@
                     </p>
                     <div class="offer-one__btn-box wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        <a href="tour-listing-side-filter-right.html"
+                        <a href="contact.php"
                             class="offer-one__btn trevlo-btn trevlo-btn--primary"><span>¡Reserva Ahora!</span></a>
                     </div><!-- /.offer-one__btn-box -->
                 </div><!-- /.offer-one__content -->
