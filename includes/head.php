@@ -1,14 +1,13 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Home One || Trevlo || HTML Template For Tours & Travel</title>
+    <title>Novo Tours</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description"
-        content="Trevlo is a modern HTML Template for Beauty, Spa Centers, Hair, Nail, Spa Salons & Cosmetic shops. The template perfectly fits Beauty Spa, Salon, and Wellness Treatments websites and businesses." />
+    <meta name="description" content="We are a Mexican tourism company, created and developed in Los Cabos, Baja California Sur. Novo Tours main commitment is to provide a high quality service focused on the welfare and satisfaction of our customers." />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">

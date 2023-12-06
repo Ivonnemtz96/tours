@@ -161,7 +161,7 @@
 </section>
 <!-- Destination End -->
 <!-- About Start -->
-<section class="about-one">
+<section class="about-one" id="about">
     <div class="container">
         <div class="row">
             <div class="col-xl-6 col-lg-6 wow fadeInLeft" data-wow-delay="200ms">

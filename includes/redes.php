@@ -186,13 +186,13 @@
 </div>
 
 <div class="insta-float">
-    <a href="https://www.instagram.com/anatorrescalzado/" target="_blank">
-        <i class="fa-brands fa-instagram"></i><span>Instagram<br><small>@anatorrescalzado</small></span>
+    <a href="https://www.instagram.com/novotoursloscabos/?igshid=NGVhN2U2NjQ0Yg%3D%3D" target="_blank">
+        <i class="fa-brands fa-instagram"></i><span>Instagram<br><small>@novotoursloscabos</small></span>
     </a>
 </div>
 
 <div class="fb-float">
-    <a href="https://www.facebook.com/profile.php?id=100090776287759" target="_blank">
-        <i class="fa-brands fa-facebook"></i><span>Facebook<br><small>Ana torres</small></span>
+    <a href="https://www.facebook.com/novotoursbcs" target="_blank">
+        <i class="fa-brands fa-facebook"></i><span>Facebook<br><small>Novo Tours</small></span>
     </a>
 </div>

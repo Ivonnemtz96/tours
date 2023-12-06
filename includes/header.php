@@ -22,11 +22,11 @@
             <div class="topbar-one__right">
                 <ul class="topbar-one__social">
                     <li class="topbar-one__social-item">
-                        <a href="https://facebook.com/" class="topbar-one__social-link"><i
+                        <a target="_blank" href="https://www.facebook.com/novotoursbc" class="topbar-one__social-link"><i
                                 class="fab fa-facebook-f"></i></a>
                     </li>
                     <li class="topbar-one__social-item">
-                        <a href="https://instagram.com/" class="topbar-one__social-link"><i
+                        <a target="_blank" href="https://www.instagram.com/novotoursloscabos/?igshid=NGVhN2U2NjQ0Yg%3D%3D" class="topbar-one__social-link"><i
                                 class="fab fa-instagram"></i></a>
                     </li>
                 </ul><!-- /.topbar-one__social -->
