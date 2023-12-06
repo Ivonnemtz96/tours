@@ -244,12 +244,9 @@
 <section class="tour-listing-one" style="background-image: url(assets/images/backgrounds/tour-bg-1.jpg);">
     <div class="container">
         <div class="sec-title text-center">
-
-            <p class="sec-title__tagline">Los Mejores Tours</p><!-- /.sec-title__tagline -->
-
-            <h2 class="sec-title__title">Los Tours Más Populares</h2><!-- /.sec-title__title -->
-        </div><!-- /.sec-title -->
-        <!-- /.sec-title -->
+            <p class="sec-title__tagline">Los Mejores Tours</p>
+            <h2 class="sec-title__title">Los Tours Más Populares</h2>
+        </div>
         <div class="tour-listing-one__carousel trevlo-owl__carousel trevlo-owl__carousel--basic-nav trevlo-owl__carousel--with-shadow owl-theme owl-carousel"
             data-owl-options='{
             "items": 3,
@@ -275,7 +272,7 @@
             <div class="item">
                 <div class="tour-listing__card">
                     <a href="tour-listing-details-right.html" class="tour-listing__card-image-box">
-                        <img src="assets/images/tours/tour-3-1.jpg" alt="assets/images/tours/tour-3-1.jpg"
+                        <img src="assets/images/tours/tour-3-1.jpg?=1" alt="Novo Tours"
                             class="tour-listing__card-image"><!-- /.tour-listing__card-btn-group -->
                         <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
                     </a><!-- /.tour-listing__card-image-box -->
@@ -285,13 +282,13 @@
                                 data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-1.jpg"
+                    "src": "assets/images/tours/tour-3-1.jpg?=1"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-2.jpg"
+                    "src": "assets/images/tours/tour-3-2.jpg?=1"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-3.jpg"
+                    "src": "assets/images/tours/tour-3-3.jpg?=1"
                   }
                 ],
                 "gallery": {
@@ -337,7 +334,7 @@
             <div class="item">
                 <div class="tour-listing__card">
                     <a href="tour-listing-details-right.html" class="tour-listing__card-image-box">
-                        <img src="assets/images/tours/tour-3-2.jpg" alt="assets/images/tours/tour-3-2.jpg"
+                        <img src="assets/images/tours/01.jpg" alt="Novo tours"
                             class="tour-listing__card-image">
                         <div class="tour-listing__card-image-overlay"></div>
                     </a><!-- /.tour-listing__card-image-box --></a>
@@ -347,13 +344,13 @@
                                 data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-2.jpg"
+                    "src": "assets/images/tours/02.jpg"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-3.jpg"
+                    "src": "assets/images/tours/01.jpg"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/03.jpg"
                   }
                 ],
                 "gallery": {
@@ -399,7 +396,7 @@
             <div class="item">
                 <div class="tour-listing__card">
                     <a href="tour-listing-details-right.html" class="tour-listing__card-image-box">
-                        <img src="assets/images/tours/tour-3-3.jpg" alt="assets/images/tours/tour-3-3.jpg"
+                        <img src="assets/images/tours/04.jpg" alt="Novo Tours"
                             class="tour-listing__card-image">
                         <div class="tour-listing__card-btn-group">
                         </div><!-- /.tour-listing__card-btn-group -->
@@ -411,13 +408,13 @@
                                 data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-3.jpg"
+                    "src": "assets/images/tours/04.jpg"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/05.jpg"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/06.jpg"
                   }
                 ],
                 "gallery": {
@@ -496,7 +493,7 @@
                 </div>
             </div>
             <div class="col-lg-7 wow fadeInRight" data-wow-delay="200ms">
-                <div class="benefit-one__image"><img src="assets/images/resources/benefit-1-1.jpg" alt="trevlo"></div>
+                <div class="benefit-one__image"><img src="assets/images/resources/01.jpg" alt="trevlo"></div>
                 <div class="benefit-one__counter">
                     <div class="benefit-one__counter__icon"><span class="icon-satisfied"></span></div>
                     <!-- /.counter__icon -->
@@ -508,8 +505,6 @@
         </div>
     </div>
 </section>
-<!-- Benefit One End -->
-<!-- Testimonial One Start -->
 <section class="testimonial-one testimonial-one--home">
     <div class="testimonial-one__bg" style="background-image: url(assets/images/shapes/testimonial-1-bg-2.png);">
     </div><!-- /.testimonial-one__bg -->
@@ -655,8 +650,8 @@
             <div class="col-xl-7 col-lg-6 wow animated fadeInRight" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="offer-one__img-box">
                     <div class="offer-one__inner-img-box">
-                        <img src="assets/images/offer/offer-1-1.jpg" alt="offer" class="offer-one__img-one">
-                        <img src="assets/images/offer/offer-1-2.jpg" alt="offer" class="offer-one__img-two">
+                        <img src="assets/images/resources/02.jpg" alt="offer" class="offer-one__img-one">
+                        <img src="assets/images/resources/03.jpg" alt="offer" class="offer-one__img-two">
                     </div><!-- /.offer-one__inner-img-box -->
                 </div><!-- /.offer-one__img-box -->
             </div><!-- /.col-xl-7 col-lg-6 -->
