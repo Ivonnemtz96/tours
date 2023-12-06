@@ -6,7 +6,7 @@
         </h2>
         <div class="page-header__breadcrumb-box">
             <ul class="trevlo-breadcrumb">
-                <li><a href="index.html">Inicio</a></li>
+                <li><a href="index.php">Inicio</a></li>
                 <li>Contacto</li>
             </ul><!-- /.trevlo-breadcrumb -->
         </div><!-- /.page-header__breadcrumb-box -->
@@ -75,9 +75,9 @@
                         </div>
                         <div class="contact-page__info-text-box">
                             <p class="contact-page__info-title">Estamos para servirte</p>
-                            <a href="tel:23(000)-8050">
+                            <a href="tel:6241436371">
                                 <h4 class="contact-page__info-text contact-page__info-text-link">
-                                    123 456 7890
+                                624-143- 6371
                                 </h4>
                             </a>
                         </div>
@@ -104,7 +104,7 @@
                         </div>
                         <div class="contact-page__info-text-box">
                             <p class="contact-page__info-title">visita nuestras oficinas</p>
-                            <h4 class="contact-page__info-text">Cabo San Lucas, BCS</h4>
+                            <h4 class="contact-page__info-text">San Antonio 149 Interior 202 Plaza Krystal Colonia Arcos del Sol</h4>
                         </div>
                     </div><!-- /.contact-page__info-box -->
                 </div>

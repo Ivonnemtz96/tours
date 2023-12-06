@@ -1,13 +1,13 @@
 <section class="page-header">
-    <div class="page-header__bg"></div>
+    <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/02.jpg);"></div>
     <!-- /.page-header__bg -->
     <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Gallery
+        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Galería
         </h2>
         <div class="page-header__breadcrumb-box">
             <ul class="trevlo-breadcrumb">
-                <li><a href="index.html">Home</a></li>
-                <li>Gallery</li>
+                <li><a href="index.php">Inicio</a></li>
+                <li>Galería</li>
             </ul><!-- /.trevlo-breadcrumb -->
         </div><!-- /.page-header__breadcrumb-box -->
     </div><!-- /.container -->
@@ -21,9 +21,9 @@
                 data-wow-duration="1500ms">
                 <div class="gallery-single">
                     <div class="gallery-single__img-box">
-                        <img src="assets/images/gallery/gallery-3-1.jpg" alt="gallery" class="gallery-single__img">
+                        <img src="assets/images/gallery/01.jpg" alt="Novo Tours" class="gallery-single__img">
                         <div class="gallery-single__overlay">
-                            <a href="assets/images/gallery/gallery-3-1.jpg"
+                            <a href="assets/images/gallery/01.jpg"
                                 class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                     class="icon-plus"></span></a>
                         </div><!-- /.gallery-single__overlay -->
@@ -34,9 +34,9 @@
                 data-wow-duration="1500ms">
                 <div class="gallery-single">
                     <div class="gallery-single__img-box">
-                        <img src="assets/images/gallery/gallery-3-2.jpg" alt="gallery" class="gallery-single__img">
+                        <img src="assets/images/gallery/02.jpg" alt="Novo Tours" class="gallery-single__img">
                         <div class="gallery-single__overlay">
-                            <a href="assets/images/gallery/gallery-3-2.jpg"
+                            <a href="assets/images/gallery/02.jpg"
                                 class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                     class="icon-plus"></span></a>
                         </div><!-- /.gallery-single__overlay -->
@@ -47,9 +47,9 @@
                 data-wow-duration="1500ms">
                 <div class="gallery-single">
                     <div class="gallery-single__img-box">
-                        <img src="assets/images/gallery/gallery-3-3.jpg" alt="gallery" class="gallery-single__img">
+                        <img src="assets/images/gallery/03.jpg" alt="Novo Tours" class="gallery-single__img">
                         <div class="gallery-single__overlay">
-                            <a href="assets/images/gallery/gallery-3-3.jpg"
+                            <a href="assets/images/gallery/03.jpg"
                                 class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                     class="icon-plus"></span></a>
                         </div><!-- /.gallery-single__overlay -->
@@ -60,9 +60,9 @@
                 data-wow-duration="1500ms">
                 <div class="gallery-single">
                     <div class="gallery-single__img-box">
-                        <img src="assets/images/gallery/gallery-3-4.jpg" alt="gallery" class="gallery-single__img">
+                        <img src="assets/images/gallery/04.jpg" alt="Novo Tours" class="gallery-single__img">
                         <div class="gallery-single__overlay">
-                            <a href="assets/images/gallery/gallery-3-4.jpg"
+                            <a href="assets/images/gallery/04.jpg"
                                 class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                     class="icon-plus"></span></a>
                         </div><!-- /.gallery-single__overlay -->
@@ -73,9 +73,9 @@
                 data-wow-duration="1500ms">
                 <div class="gallery-single">
                     <div class="gallery-single__img-box">
-                        <img src="assets/images/gallery/gallery-3-5.jpg" alt="gallery" class="gallery-single__img">
+                        <img src="assets/images/gallery/05.jpg" alt="Novo Tours" class="gallery-single__img">
                         <div class="gallery-single__overlay">
-                            <a href="assets/images/gallery/gallery-3-5.jpg"
+                            <a href="assets/images/gallery/05.jpg"
                                 class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                     class="icon-plus"></span></a>
                         </div><!-- /.gallery-single__overlay -->
@@ -86,9 +86,9 @@
                 data-wow-duration="1500ms">
                 <div class="gallery-single">
                     <div class="gallery-single__img-box">
-                        <img src="assets/images/gallery/gallery-3-6.jpg" alt="gallery" class="gallery-single__img">
+                        <img src="assets/images/gallery/06.jpg" alt="Novo Tours" class="gallery-single__img">
                         <div class="gallery-single__overlay">
-                            <a href="assets/images/gallery/gallery-3-6.jpg"
+                            <a href="assets/images/gallery/06.jpg"
                                 class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                     class="icon-plus"></span></a>
                         </div><!-- /.gallery-single__overlay -->
@@ -99,9 +99,9 @@
                 data-wow-duration="1500ms">
                 <div class="gallery-single">
                     <div class="gallery-single__img-box">
-                        <img src="assets/images/gallery/gallery-3-7.jpg" alt="gallery" class="gallery-single__img">
+                        <img src="assets/images/gallery/07.jpg" alt="Novo Tours" class="gallery-single__img">
                         <div class="gallery-single__overlay">
-                            <a href="assets/images/gallery/gallery-3-7.jpg"
+                            <a href="assets/images/gallery/07.jpg"
                                 class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                     class="icon-plus"></span></a>
                         </div><!-- /.gallery-single__overlay -->
@@ -112,9 +112,9 @@
                 data-wow-duration="1500ms">
                 <div class="gallery-single">
                     <div class="gallery-single__img-box">
-                        <img src="assets/images/gallery/gallery-3-8.jpg" alt="gallery" class="gallery-single__img">
+                        <img src="assets/images/gallery/08.jpg" alt="Novo Tours" class="gallery-single__img">
                         <div class="gallery-single__overlay">
-                            <a href="assets/images/gallery/gallery-3-8.jpg"
+                            <a href="assets/images/gallery/08.jpg"
                                 class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                     class="icon-plus"></span></a>
                         </div><!-- /.gallery-single__overlay -->
@@ -125,9 +125,9 @@
                 data-wow-duration="1500ms">
                 <div class="gallery-single">
                     <div class="gallery-single__img-box">
-                        <img src="assets/images/gallery/gallery-3-9.jpg" alt="gallery" class="gallery-single__img">
+                        <img src="assets/images/gallery/09.jpg" alt="Novo Tours" class="gallery-single__img">
                         <div class="gallery-single__overlay">
-                            <a href="assets/images/gallery/gallery-3-9.jpg"
+                            <a href="assets/images/gallery/09.jpg"
                                 class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                     class="icon-plus"></span></a>
                         </div><!-- /.gallery-single__overlay -->
