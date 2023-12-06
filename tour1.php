@@ -9,6 +9,7 @@
             include('includes/preloader.php');
             include('includes/header.php');
             include('modules/tour1.php');
+            include('includes/redes.php'); 
             include('includes/footer.php'); 
         ?>
     </div>

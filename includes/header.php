@@ -42,7 +42,7 @@
             <div class="main-header__left">
                 <div class="main-header__logo">
                     <a href="index.php">
-                        <img src="assets/images/logo-light.png" alt="Novo Tours" width="146">
+                        <img src="assets/images/logo.png" alt="Novo Tours" width="146">
                     </a>
                 </div><!-- /.main-header__logo -->
                 <nav class="main-header__nav main-menu text-center">

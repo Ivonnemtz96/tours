@@ -90,3 +90,5 @@
 <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
 <!-- template js -->
 <script src="assets/js/trevlo.js"></script>
+<!-- icons de redes sociales -->
+<script src="https://kit.fontawesome.com/a66c8c86d9.js" crossorigin="anonymous"></script>
