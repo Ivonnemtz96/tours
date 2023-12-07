@@ -145,7 +145,7 @@
                 data-wow-duration="1500ms">
                 <div class="destination-one__card">
                     <div class="destination-one__card-img-box destination-one__card-img-box--round">
-                        <img src="assets/images/destination/destination-1-5.jpg?=1" alt="destination"
+                        <img src="assets/images/destination/01.jpg?=1" alt="destination"
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
