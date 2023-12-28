@@ -14,7 +14,7 @@
 		}'>
         <div class="item">
             <div class="main-slider-one__image"
-                style="background-image: url(assets/images/backgrounds/slider-1-1.jpg?=1);"></div>
+                style="background-image: url(assets/images/backgrounds/04.jpg?=1);"></div>
             <div class="container">
                 <div class="main-slider-one__content">
                     <h5 class="main-slider-one__sub-title">Vive grandes aventuras<img

@@ -4,10 +4,6 @@
             <div class="topbar-one__left">
                 <ul class="topbar-one__info">
                     <li class="topbar-one__info-item">
-                        <span class="topbar-one__info-icon icon-location-1"></span>
-                        <span style="color: #fff;" class="topbar-one__info-text">San Antonio 149 Interior 202 Plaza Krystal,Arcos del Sol</span>
-                    </li>
-                    <li class="topbar-one__info-item">
                         <span class="topbar-one__info-icon icon-envelope"></span>
                         <a style="color: #fff;" href="mailto:info@novotoursbcs.com" class="topbar-one__info-text">info@novotoursbcs.com</a>
                     </li>
@@ -15,7 +11,7 @@
                 <ul class="topbar-one__info topbar-one__info--right">
                     <li class="topbar-one__info-item">
                         <span class="topbar-one__info-icon icon-clock-1"></span>
-                        <span style="color: #fff;" class="topbar-one__info-text">Lun a Sab: 8:00 am - 7:00 pm</span>
+                        <span style="color: #fff;" class="topbar-one__info-text">Lun a Dom: 8:00 am - 6:00 pm</span>
                     </li>
                 </ul><!-- /.topbar-one__info -->
             </div><!-- /.topbar-one__left -->

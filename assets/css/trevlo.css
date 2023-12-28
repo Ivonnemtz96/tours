@@ -13880,7 +13880,7 @@ body.megamenu-popup-active .mobile-nav__content {
   width: 100%;
   height: 100%;
   content: "";
-  background-color: rgba(var(--trevlo-primary-rgb, 45, 35, 48), 0.6);
+  background-color: rgba(var(--trevlo-primary-rgb, 45, 35, 48), 0.4);
 }
 .main-slider-one .banner-form {
   position: absolute;
