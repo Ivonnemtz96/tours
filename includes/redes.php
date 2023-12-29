@@ -180,8 +180,8 @@
 </style>
 
 <div class="whats-float">
-    <a href="https://wa.me/+526241436371?text=Hola,%20me%20gustaría%20más%20información." target="_blank">
-        <i class="fa-brands fa-whatsapp"></i><span>WhatsApp<br><small>6241436371</small></span>
+    <a href="https://wa.me/+526241603790?text=Hola,%20me%20gustaría%20más%20información." target="_blank">
+        <i class="fa-brands fa-whatsapp"></i><span>WhatsApp<br><small>6241603790</small></span>
     </a>
 </div>
 

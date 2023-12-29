@@ -13,8 +13,8 @@
 		"autoplay": true
 		}'>
         <div class="item">
-            <div class="main-slider-one__image"
-                style="background-image: url(assets/images/backgrounds/04.jpg?=1);"></div>
+            <div class="main-slider-one__image" style="background-image: url(assets/images/backgrounds/04.jpg?=1);">
+            </div>
             <div class="container">
                 <div class="main-slider-one__content">
                     <h5 class="main-slider-one__sub-title">Vive grandes aventuras<img
@@ -57,8 +57,8 @@
 <!-- Destination Start -->
 <section class="destination-one">
     <div class="container">
-        <div class="destination-page__row row">
-            <div class="col-xl-3 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+        <div class="row justify-content-center">
+            <div class="col-xl-3 col-md-8 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="sec-title text-left">
 
                     <p class="sec-title__tagline">Disfruta de Los Cabos con</p>
@@ -68,10 +68,12 @@
                 </div><!-- /.sec-title -->
                 <!-- /.sec-title -->
             </div>
+        </div>
+        <div class="destination-page__row row">
             <div class="col-xl-3 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                 <div class="destination-one__card">
                     <div class="destination-one__card-img-box destination-one__card-img-box--round">
-                        <img src="assets/images/destination/destination-1-2.jpg?=1" alt="destination"
+                        <img src="assets/images/destination/destination-1-2.jpg?=1" alt="Novo Tours"
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
@@ -82,15 +84,33 @@
                     </div><!-- /.destination-one__card-img-box -->
                 </div><!-- /.destination-one__card -->
             </div>
-            <div class="col-xl-6 col-lg-8 wow animated fadeInUp" data-wow-delay="0.5s" data-wow-duration="1500ms">
+            <div class="col-xl-3 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                data-wow-duration="1500ms">
+                <div class="destination-one__card">
+                    <div class="destination-one__card-img-box destination-one__card-img-box--circle">
+                        <img src="assets/images/destination/06.jpg?=1" alt="Novo Tours"
+                            class="destination-one__card-img destination-one__card-img--circle">
+                        <div class="destination-one__card-overlay destination-one__card-overlay--circle">
+                            <div class="destination-one__card-content destination-one__card-content--circle">
+                                <h4 class="destination-one__card-title">
+                                    <a href="tour1.php">
+                                        Snorkel
+                                    </a>
+                                </h4>
+                            </div><!-- /.destination-one__card-content destination-one__card-content--circle -->
+                        </div><!-- /.destination-one__card-overlay destination-one__card-overlay--circle -->
+                    </div><!-- /.destination-one__card-img-box -->
+                </div><!-- /.destination-one__card -->
+            </div>
+            <div class="col-xl-6 col-lg-4 col-lg-8 wow animated fadeInUp" data-wow-delay="0.5s" data-wow-duration="1500ms">
                 <div class="destination-one__card">
                     <div class="destination-one__card-img-box destination-one__card-img-box--round">
-                        <img src="assets/images/destination/destination-1-3.jpg?=1" alt="destination"
+                        <img src="assets/images/destination/02.jpg?=1" alt="Novo Tours"
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
-                                <h4 class="destination-one__card-title"><a href="tour1.php">Fábrica
-                                        de chocolate</a></h4>
+                                <h4 class="destination-one__card-title"><a href="tour1.php">
+                                        Todos Santos</a></h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--round -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
                     </div><!-- /.destination-one__card-img-box -->
@@ -100,12 +120,15 @@
                 data-wow-duration="1500ms">
                 <div class="destination-one__card">
                     <div class="destination-one__card-img-box destination-one__card-img-box--circle">
-                        <img src="assets/images/destination/destination-1-4.jpg?=1" alt="destination"
+                        <img src="assets/images/destination/03.jpg?=1" alt="Novo Tours"
                             class="destination-one__card-img destination-one__card-img--circle">
                         <div class="destination-one__card-overlay destination-one__card-overlay--circle">
                             <div class="destination-one__card-content destination-one__card-content--circle">
-                                <h4 class="destination-one__card-title"><a href="tour1.php">Fábrica
-                                        de vidirio</a></h4>
+                                <h4 class="destination-one__card-title">
+                                    <a href="tour1.php">
+                                        San José del Cabo
+                                    </a>
+                                </h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--circle -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--circle -->
                     </div><!-- /.destination-one__card-img-box -->
@@ -115,7 +138,7 @@
                 data-wow-duration="1500ms">
                 <div class="destination-one__card">
                     <div class="destination-one__card-img-box destination-one__card-img-box--round">
-                        <img src="assets/images/destination/destination-1-5.jpg?=1" alt="destination"
+                        <img src="assets/images/destination/07.jpg?=1" alt="Novo Tours"
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
@@ -130,12 +153,15 @@
                 data-wow-duration="1500ms">
                 <div class="destination-one__card">
                     <div class="destination-one__card-img-box destination-one__card-img-box--circle">
-                        <img src="assets/images/destination/destination-1-7.jpg?=1" alt="destination"
+                        <img src="assets/images/destination/04.jpg?=1" alt="Novo Tours"
                             class="destination-one__card-img destination-one__card-img--circle">
                         <div class="destination-one__card-overlay destination-one__card-overlay--circle">
                             <div class="destination-one__card-content destination-one__card-content--circle">
-                                <h4 class="destination-one__card-title"><a href="tour1.php">Museo
-                                        tequila</a></h4>
+                                <h4 style="font-size: 1.7rem;" class="destination-one__card-title">
+                                    <a href="tour1.php">
+                                        Avistamiento de Ballenas
+                                    </a>
+                                </h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--circle -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--circle -->
                     </div><!-- /.destination-one__card-img-box -->
@@ -145,12 +171,15 @@
                 data-wow-duration="1500ms">
                 <div class="destination-one__card">
                     <div class="destination-one__card-img-box destination-one__card-img-box--round">
-                        <img src="assets/images/destination/01.jpg?=1" alt="destination"
+                        <img src="assets/images/destination/05.jpg?=1" alt="Novo Tours"
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
-                                <h4 class="destination-one__card-title"><a href="tour1.php">Resta
-                                        El Coral</a></h4>
+                                <h4 style="font-size: 1.7rem;" class="destination-one__card-title">
+                                    <a href="tour1.php">
+                                        Sunset & Tasting Plus
+                                    </a>
+                                </h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--round -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
                     </div><!-- /.destination-one__card-img-box -->
@@ -301,7 +330,7 @@
                         </div>
                         <h3 class="tour-listing__card-title">
                             <a href="tour1.php">
-                                Fábrica de Chocolate
+                                Tour al Arco
                             </a>
                         </h3>
                         <p class="tour-listing__card-text text-small">
@@ -334,8 +363,7 @@
             <div class="item">
                 <div class="tour-listing__card">
                     <a href="tour1.php" class="tour-listing__card-image-box">
-                        <img src="assets/images/tours/01.jpg" alt="Novo tours"
-                            class="tour-listing__card-image">
+                        <img src="assets/images/tours/01.jpg" alt="Novo tours" class="tour-listing__card-image">
                         <div class="tour-listing__card-image-overlay"></div>
                     </a><!-- /.tour-listing__card-image-box --></a>
                     <div class="tour-listing__card-content">
@@ -396,8 +424,7 @@
             <div class="item">
                 <div class="tour-listing__card">
                     <a href="tour1.php" class="tour-listing__card-image-box">
-                        <img src="assets/images/tours/04.jpg" alt="Novo Tours"
-                            class="tour-listing__card-image">
+                        <img src="assets/images/tours/04.jpg" alt="Novo Tours" class="tour-listing__card-image">
                         <div class="tour-listing__card-btn-group">
                         </div><!-- /.tour-listing__card-btn-group -->
                         <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
@@ -426,7 +453,7 @@
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
                         <h3 class="tour-listing__card-title"><a href="tour1.php">
-                                Museo del Tequila
+                                Two Capes City
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
                             ¿Has visitado este mágico lugar? No te lo puedes perder y descubrir las maravillas que se
@@ -642,8 +669,8 @@
                     </p>
                     <div class="offer-one__btn-box wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        <a href="contact.php"
-                            class="offer-one__btn trevlo-btn trevlo-btn--primary"><span>¡Reserva Ahora!</span></a>
+                        <a href="contact.php" class="offer-one__btn trevlo-btn trevlo-btn--primary"><span>¡Reserva
+                                Ahora!</span></a>
                     </div><!-- /.offer-one__btn-box -->
                 </div><!-- /.offer-one__content -->
             </div><!-- /.col-xl-5 col-lg-6 -->
