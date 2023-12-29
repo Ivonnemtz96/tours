@@ -2781,7 +2781,7 @@ path {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: RGBA(var(--trevlo-primary-rgb, 45, 35, 48), 0.28);
+  background-color: RGBA(var(--trevlo-primary-rgb, 45, 35, 48), 0.1);
 }
 .destination-one__card-overlay--round {
   border-radius: 10px;
@@ -14998,3 +14998,17 @@ body.boxed-wrapper .main-header__booking-btn {
   transform: rotateY(0deg);
 }
 /*# sourceMappingURL=trevlo.css.map */
+/* CUSTOM COLORS */
+.sunset{
+  background: linear-gradient(to top, #bb5058, #fa8a58, #f76c07);
+}
+.sunset2{
+  background: linear-gradient(to bottom, #bb5058, #fa8a58, #f76c07);
+}
+
+.color-texto{
+  color: #fff;
+}
+.texto-shadow{
+  text-shadow: 2px 2px 1px #5cd3bd;
+}

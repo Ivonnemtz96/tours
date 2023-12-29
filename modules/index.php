@@ -55,7 +55,7 @@
 <!-- main-slider-end -->
 
 <!-- Destination Start -->
-<section class="destination-one">
+<section class="destination-one sunset2">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-xl-3 col-md-8 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
@@ -63,7 +63,7 @@
 
                     <p class="sec-title__tagline">Disfruta de Los Cabos con</p>
 
-                    <h2 class="sec-title__title">Novo Tours</h2>
+                    <h2 class="sec-title__title texto-shadow">Novo Tours</h2>
                     <!-- /.sec-title__title -->
                 </div><!-- /.sec-title -->
                 <!-- /.sec-title -->
@@ -102,7 +102,8 @@
                     </div><!-- /.destination-one__card-img-box -->
                 </div><!-- /.destination-one__card -->
             </div>
-            <div class="col-xl-6 col-lg-4 col-lg-8 wow animated fadeInUp" data-wow-delay="0.5s" data-wow-duration="1500ms">
+            <div class="col-xl-6 col-lg-4 col-lg-8 wow animated fadeInUp" data-wow-delay="0.5s"
+                data-wow-duration="1500ms">
                 <div class="destination-one__card">
                     <div class="destination-one__card-img-box destination-one__card-img-box--round">
                         <img src="assets/images/destination/02.jpg?=1" alt="Novo Tours"
@@ -190,10 +191,10 @@
 </section>
 <!-- Destination End -->
 <!-- About Start -->
-<section class="about-one" id="about">
-    <div class="container">
+<section class="about-one sunset" id="about">
+    <div class="container" >
         <div class="row">
-            <div class="col-xl-6 col-lg-6 wow fadeInLeft" data-wow-delay="200ms">
+            <div class="col-xl-6 col-lg-6 wow fadeInLeft" data-wow-delay="200ms" style="margin-top: 5rem;">
                 <div class="about-one__image">
                     <div class="row">
                         <div class="col-md-5">
@@ -226,25 +227,20 @@
                             </div>
                         </div>
                     </div>
-                </div><!-- /.about-one__image -->
-                <div class="about-one__shape-one">
-                    <img src="assets/images/shapes/about-1-shape-1.png" alt="Novo Tours">
-                </div><!-- /.about-one__shape -->
-                <div class="about-one__shape-two">
-                    <img src="assets/images/shapes/about-1-shape-2.png" alt="Novo Tours">
-                </div><!-- /.about-one__shape -->
+                </div>
             </div><!-- /.col-xl-6 col-lg-6 -->
-            <div class="col-xl-6 col-lg-6 wow fadeInRight" data-wow-delay="200ms">
+            <div class="col-xl-6 col-lg-6 wow fadeInRight" data-wow-delay="200ms" style="margin-top: 5rem;">
                 <div class="about-one__content">
                     <div class="sec-title text-left">
 
                         <p class="sec-title__tagline">Novo Tours</p><!-- /.sec-title__tagline -->
 
-                        <h2 class="sec-title__title">Deja que el viaje sea tan emocionante como el destino</h2>
+                        <h2 class="sec-title__title texto-shadow">Deja que el viaje sea tan emocionante como el destino
+                        </h2>
                         <!-- /.sec-title__title -->
                     </div><!-- /.sec-title -->
                     <!-- /.sec-title -->
-                    <p class="about-one__content__text">
+                    <p class="about-one__content__text color-texto">
                         Contamos con guías altamente capacitados y conocedores, apasionados por compartir la riqueza
                         cultural y natural de cada destino, también contamos con años de experiencia en la industria del
                         turismo, brindando a nuestros clientes un conocimiento profundo de destinos excepcionales y la
@@ -252,14 +248,15 @@
                     </p>
                     <div class="about-one__box">
                         <div class="about-one__box__icon"><span class="icon-safety"></span></div>
-                        <h3 class="about-one__box__title">Guías<br> Certificados</h3>
-                        <p class="about-one__box__text">Contamos con un equipo de guías profesionales y certificados. La
+                        <h3 class="about-one__box__title color-texto">Guías<br> Certificados</h3>
+                        <p class="about-one__box__text color-texto">Contamos con un equipo de guías profesionales y
+                            certificados. La
                             experiencia es su mejor credencial.</p>
                     </div><!-- /.about-box -->
                     <div class="about-one__box">
                         <div class="about-one__box__icon"><span class="icon-friendly-Guide"></span></div>
-                        <h3 class="about-one__box__title">Compañía Mexicana</h3>
-                        <p class="about-one__box__text">Empresa del sur de California, fundada y operada por
+                        <h3 class="about-one__box__title color-texto">Compañía Mexicana</h3>
+                        <p class="about-one__box__text color-texto">Empresa del sur de California, fundada y operada por
                             profesionales mexicanos.</p>
                     </div><!-- /.about-box -->
                     <a href="tours.php" class="trevlo-btn"><span>Ver Tours</span></a>
@@ -270,7 +267,7 @@
 </section>
 <!-- About End -->
 <!-- Tour Listing One Start -->
-<section class="tour-listing-one" style="background-image: url(assets/images/backgrounds/tour-bg-1.jpg);">
+<section class="tour-listing-one sunset" style="background-image: url(assets/images/resources/06.png); background-repeat:no-repeat;background-position: center;">
     <div class="container">
         <div class="sec-title text-center">
             <p class="sec-title__tagline">Los Mejores Tours</p>
@@ -677,8 +674,8 @@
             <div class="col-xl-7 col-lg-6 wow animated fadeInRight" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="offer-one__img-box">
                     <div class="offer-one__inner-img-box">
-                        <img src="assets/images/resources/02.jpg" alt="offer" class="offer-one__img-one">
-                        <img src="assets/images/resources/03.jpg" alt="offer" class="offer-one__img-two">
+                        <img src="assets/images/resources/05.jpg" alt="offer" class="offer-one__img-one">
+                        <img src="assets/images/resources/04.jpg" alt="offer" class="offer-one__img-two">
                     </div><!-- /.offer-one__inner-img-box -->
                 </div><!-- /.offer-one__img-box -->
             </div><!-- /.col-xl-7 col-lg-6 -->
