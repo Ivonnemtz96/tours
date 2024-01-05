@@ -8,7 +8,7 @@
         <?php
             include('includes/preloader.php');
             include('includes/header.php');
-            include('modules/clearBoat.php');
+            include('modules/cabos.php');
             include('includes/redes.php'); 
             include('includes/footer.php'); 
         ?>
