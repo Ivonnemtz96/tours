@@ -643,7 +643,7 @@
     </div><!-- /.container -->
 </section>
 
-<section class="offer-one" style="background-image: url('assets/images/backgrounds/offer-1-bg.png');">
+<section class="offer-one" style="background-image: url('assets/images/backgrounds/05.jpg');">
     <div class="container">
         <div class="row">
             <div class="col-xl-5 col-lg-6">
