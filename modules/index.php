@@ -93,7 +93,7 @@
                         <div class="destination-one__card-overlay destination-one__card-overlay--circle">
                             <div class="destination-one__card-content destination-one__card-content--circle">
                                 <h4 class="destination-one__card-title">
-                                    <a href="tour1.php">
+                                    <a href="snorkel.php">
                                         Snorkel
                                     </a>
                                 </h4>
@@ -110,7 +110,7 @@
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
-                                <h4 class="destination-one__card-title"><a href="tour1.php">
+                                <h4 class="destination-one__card-title"><a href="todosSantos.php">
                                         Todos Santos</a></h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--round -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
@@ -126,7 +126,7 @@
                         <div class="destination-one__card-overlay destination-one__card-overlay--circle">
                             <div class="destination-one__card-content destination-one__card-content--circle">
                                 <h4 class="destination-one__card-title">
-                                    <a href="tour1.php">
+                                    <a href="artWalk.php">
                                         San José del Cabo
                                     </a>
                                 </h4>
@@ -143,7 +143,7 @@
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
-                                <h4 class="destination-one__card-title"><a href="tour1.php">La
+                                <h4 class="destination-one__card-title"><a href="laPaz.php">La
                                         Paz</a></h4>
                             </div>
                         </div>
@@ -159,7 +159,7 @@
                         <div class="destination-one__card-overlay destination-one__card-overlay--circle">
                             <div class="destination-one__card-content destination-one__card-content--circle">
                                 <h4 style="font-size: 1.7rem;" class="destination-one__card-title">
-                                    <a href="tour1.php">
+                                    <a href="ballenas.php">
                                         Avistamiento de Ballenas
                                     </a>
                                 </h4>
@@ -177,7 +177,7 @@
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
                                 <h4 style="font-size: 1.7rem;" class="destination-one__card-title">
-                                    <a href="tour1.php">
+                                    <a href="sunset.php">
                                         Sunset & Tasting Plus
                                     </a>
                                 </h4>
@@ -192,7 +192,7 @@
 <!-- Destination End -->
 <!-- About Start -->
 <section class="about-one sunset" id="about">
-    <div class="container" >
+    <div class="container">
         <div class="row">
             <div class="col-xl-6 col-lg-6 wow fadeInLeft" data-wow-delay="200ms" style="margin-top: 5rem;">
                 <div class="about-one__image">
@@ -267,7 +267,8 @@
 </section>
 <!-- About End -->
 <!-- Tour Listing One Start -->
-<section class="tour-listing-one sunset" style="background-image: url(assets/images/resources/06.png); background-repeat:no-repeat;background-position: center;">
+<section class="tour-listing-one sunset"
+    style="background-image: url(assets/images/resources/06.png); background-repeat:no-repeat;background-position: center;">
     <div class="container">
         <div class="sec-title text-center">
             <p class="sec-title__tagline">Los Mejores Tours</p>
@@ -298,8 +299,8 @@
             <div class="item">
                 <div class="tour-listing__card">
                     <a href="tour1.php" class="tour-listing__card-image-box">
-                        <img src="assets/images/tours/tour-3-1.jpg?=1" alt="Novo Tours"
-                            class="tour-listing__card-image"><!-- /.tour-listing__card-btn-group -->
+                        <img src="assets/images/tours/39.jpg?=1" alt="Novo Tours" class="tour-listing__card-image">
+                        <!-- /.tour-listing__card-btn-group -->
                         <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
                     </a><!-- /.tour-listing__card-image-box -->
                     <div class="tour-listing__card-content">
@@ -308,13 +309,13 @@
                                 data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-1.jpg?=1"
+                    "src": "assets/images/tours/39.jpg?=1"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-2.jpg?=1"
+                    "src": "assets/images/tours/40.jpg?=1"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-3.jpg?=1"
+                    "src": "assets/images/tours/36.jpg?=1"
                   }
                 ],
                 "gallery": {
@@ -326,19 +327,19 @@
                             </a>
                         </div>
                         <h3 class="tour-listing__card-title">
-                            <a href="tour1.php">
+                            <a href="sanLucas.php">
                                 Tour al Arco
                             </a>
                         </h3>
                         <p class="tour-listing__card-text text-small">
-                            Cocnoce la fábrica más grande de chocolate de Baja California Sur y deleítate con sus
-                            increíble sabores. <br><br>
+                            Conoce uno de los atractivos turísticos más visitados en Los Cabos, hermosas playas y
+                            deslumbrantes atardeceres.<br><br>
                         </p>
                         <div class="tour-listing__card-inner-content">
                             <!-- /.tour-listing__card-review-box -->
                             <div class="tour-listing__card-location-box">
                                 <span class="icon-location-1"></span>
-                                <p class="tour-listing__card-location-text text-small">San José del Cabo</p>
+                                <p class="tour-listing__card-location-text text-small">Cabo San Lucas</p>
                             </div><!-- /.tour-listing__card-location-box -->
                             <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                             <div class="tour-listing__card-bottom">
@@ -347,10 +348,6 @@
                                         <span class="icon-clock-1"></span>
                                         <p class="tour-listing__card-day-text text-small">4 horas</p>
                                     </div><!-- /.tour-listing__card-day -->
-                                    <div class="tour-listing__card-people">
-                                        <span class="icon-Duration"></span>
-                                        <p class="tour-listing__card-people-text text-small">3+</p>
-                                    </div><!-- /.tour-listing__card-people -->
                                 </div><!-- /.tour-listing__card-bottom-left -->
                             </div><!-- /.tour-listing__card-bottom -->
                         </div><!-- /.tour-listing__card-inner-content -->
@@ -360,7 +357,7 @@
             <div class="item">
                 <div class="tour-listing__card">
                     <a href="tour1.php" class="tour-listing__card-image-box">
-                        <img src="assets/images/tours/01.jpg" alt="Novo tours" class="tour-listing__card-image">
+                        <img src="assets/images/tours/34.jpg" alt="Novo tours" class="tour-listing__card-image">
                         <div class="tour-listing__card-image-overlay"></div>
                     </a><!-- /.tour-listing__card-image-box --></a>
                     <div class="tour-listing__card-content">
@@ -369,13 +366,7 @@
                                 data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/02.jpg"
-                  },
-                  {
-                    "src": "assets/images/tours/01.jpg"
-                  },
-                  {
-                    "src": "assets/images/tours/03.jpg"
+                    "src": "assets/images/tours/34.jpg"
                   }
                 ],
                 "gallery": {
@@ -387,7 +378,7 @@
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
                         <h3 class="tour-listing__card-title">
-                            <a href="tour1.php">
+                            <a href="todosSantos.php">
                                 Todos Santos
                             </a>
                         </h3>
@@ -449,7 +440,7 @@
                                 <span class="icon-photo-camera-1"></span>
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
-                        <h3 class="tour-listing__card-title"><a href="tour1.php">
+                        <h3 class="tour-listing__card-title"><a href="cabos.php">
                                 Two Capes City
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
@@ -499,9 +490,8 @@
                     <!-- /.sec-title -->
                     <h5 class="benefit-one__content__heading">Contamos con los mejores tours de BCS.</h5>
                     <p class="benefit-one__content__text">
-                        Nuestra agencia cuenta con años de experiencia en la industria del turismo, brindando a nuestros
-                        clientes un conocimiento profundo de lugares excepcionales y la capacidad de crear experiencias
-                        únicas.
+                        ¿Conoces la historia entre las dos ciudades de Los Cabos? Embárcate en nuestro tour en donde te
+                        mostraremos parte de San José y San Lucas.
                     </p>
                     <div class="benefit-one__box-wrapper">
                         <div class="benefit-one__box">
@@ -530,8 +520,8 @@
     </div>
 </section>
 <section class="testimonial-one testimonial-one--home">
-    <div class="testimonial-one__bg" style="background-image: url(assets/images/shapes/testimonial-1-bg-2.png);">
-    </div><!-- /.testimonial-one__bg -->
+    <!-- <div class="testimonial-one__bg" style="background-image: url(assets/images/shapes/testimonial-1-bg-2.png);">
+    </div>/.testimonial-one__bg -->
     <div class="container">
         <div class="sec-title text-center">
 
@@ -684,6 +674,6 @@
     <div class="offer-one__shape-one trevlo-splax"
         data-para-options='{ "orientation": "left", "scale": 1.5, "overflow": true }'
         style="background-image: url('assets/images/shapes/offer-shape-1.png');"></div>
-    <div class="offer-one__bottom-bg" style="background-image: url('assets/images/offer/offer-1-4.png');"></div>
+    <!-- <div class="offer-one__bottom-bg" style="background-image: url('assets/images/offer/offer-1-4.png');"></div> -->
     <!-- /.bg -->
 </section>
