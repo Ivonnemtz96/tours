@@ -149,7 +149,7 @@
             <div class="tour-listing-details__destination-row row">
                 <div class="col-xl-4 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
                     <div class="tour-listing-details__destination-left">
-                        <h3 class="tour-listing-details__dastination-title">Barco Transparente</h3>
+                        <h3 class="tour-listing-details__dastination-title">Tour a Cabo San Lucas</h3>
                     </div><!-- /.tour-listing-details__daetination-left -->
                 </div><!-- /.col-xl-4 -->
                 <div class="col-xl-8">
@@ -159,17 +159,10 @@
                             <span class="icon-clock-1"></span>
                             <div class="tour-listing-details__destination-info-title">
                                 <h4 class="tour-listing-details__destination-info-top">Duración</h4>
-                                <h4 class="tour-listing-details__destination-info-bottom">4-7 Horas</h4>
+                                <h4 class="tour-listing-details__destination-info-bottom">4-5 Horas</h4>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
-                        <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.3s"
-                            data-wow-duration="1500ms">
-                            <span class="icon-Duration"></span>
-                            <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Edad min</h4>
-                                <h4 class="tour-listing-details__destination-info-bottom">4+</h4>
-                            </div>
-                        </div>
+
                         <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
                             data-wow-duration="1500ms">
                             <span class="icon-location-1"></span>
@@ -193,30 +186,32 @@
                     </div>
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        El fin de la tierra, la asombrosa unión de dos mares, el Mar de Cortés y el Océano Pacífico, te
-                        lleva a un increíble paseo hasta el Arco de Cabo San Lucas. Podrás ver la colonia de leones
-                        marinos y las maravillosas formaciones rocosas, grandes atracciones de nuestro hermoso destino.
+                        Cabo San Lucas también tiene tradiciones y arte que mostrarnos, una de estas es la Fábrica de
+                        vidrio soplado aquí verás como un puñado de vidrio molido se transforma en una pieza de arte,
+                        sorprendente talento y belleza.<br>
+
+                        Un asombroso paseo a bordo del barco con fondo de cristal es también parte de la aventura en el
+                        recorrido del Arco verás otras maravillas naturales como la colonia de lobos marinos,
+                        formaciones rocosas y el imponente Arco en medio de dos mares Mar de Cortés y Océano Pacífico.
                         <br>
 
-                        Nuestro recorrido también incluye tiempo para ir de compras en el centro de Cabo San Lucas,
-                        donde encontrarás numerosas artesanías y tiendas de marcas reconocidas. Una de ellas es Hacienda
-                        Tequila, donde degustaremos y aprenderemos más sobre los mejores tequilas y otras bebidas
-                        típicas de México. <br>
-
-                        Land's End es un tour que te muestra la vida en nuestro animado centro turístico, así como la
-                        flora y fauna de nuestra bahía.
+                        Después es hora de degustar los mejores tequilas mexicanos de marcas extraordinarias y antiguas,
+                        llenos de sabor y tradición. Tiempo libre para ir de compras o pasear por la marina encontrarás
+                        muchas marcas famosas y tiendas de artesanías con obras hechas por manos mexicanas.
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
-                    <h3 class="tour-listing-details__title tour-listing-details__included-title">Incluye/ No Incluye
-                    </h3>
+
                     <div class="row">
                         <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
                             data-wow-duration="1500ms">
+                            <h3 class="tour-listing-details__title tour-listing-details__included-title">
+                                Incluye
+                            </h3>
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Tiempo en la Playa (opcional)</p>
+                                    <p>Área de artesanía</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
@@ -238,17 +233,16 @@
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Guía certificado bilingüe</p>
+                                    <p>Guía certificado en Cabo San Lucas</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Flexibilidad en salidas a las 09:00, 11:00 y 13:00, regresos a las 13:00, 15:00 y
-                                        16:30</p>
+                                    <p>Fábrica de soplado de vidrio</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Tierra's End, colonia de
+                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Fin de la Tierra, colonia de
                                         leones marinos y formaciones rocosas)</p>
                                 </li>
 
@@ -256,47 +250,30 @@
                                     <i class="fas fa-check-circle"></i>
                                     <p>Tiempo de compras</p>
                                 </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Tequila tasting (Opcional)</p>
+                                </li>
 
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-7 -->
                         <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s"
                             data-wow-duration="1500ms">
+                            <h3 class="tour-listing-details__title tour-listing-details__included-title">
+                              No Incluye
+                            </h3>
                             <ul class="tour-listing-details__included-list-two">
                                 <li>
                                     <i class="fas fa-times"></i>
                                     <p>Propinas</p>
                                 </li>
+                                <li>
+                                    <i class="fas fa-times"></i>
+                                    <p>Comida</p>
+                                </li>
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-5 -->
                     </div><!-- /.row -->
-                </div>
-
-                <div class="tour-listing-details__included">
-                    <h3 class="tour-listing-details__title tour-listing-details__included-title">Complementarios</h3>
-                    <div class="row">
-                        <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
-                            data-wow-duration="1500ms">
-                            <ul class="tour-listing-details__included-list-one">
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Paseo del Arte</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Centro Histórico</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Misión de San José del Cabo</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Tierra's End, colonia de
-                                        leones marinos y formaciones rocosas)</p>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
                 </div>
                 <div class="tour-listing-details__location">
                     <h3 class="tour-listing-details__title tour-listing-details__location-title">Location</h3>
@@ -344,8 +321,8 @@
                                             <span class="icon-photo-camera-1"></span>
                                         </a>
                                     </div>
-                                    <h3 class="tour-listing__card-title"><a
-                                            href="tour1.php">Fábrica de Chocolate</a></h3>
+                                    <h3 class="tour-listing__card-title"><a href="tour1.php">Fábrica de Chocolate</a>
+                                    </h3>
                                     <p class="tour-listing__card-text text-small">
                                         Conoce la fábrica más grande de chocolate de Baja California Sur y deleítate con
                                         sus increíble sabores. <br><br><br>
@@ -412,8 +389,8 @@
                                             <span class="icon-video-camera-1-1"></span>
                                         </a>
                                     </div><!-- /.tour-listing__card-camera-group -->
-                                    <h3 class="tour-listing__card-title"><a
-                                            href="tour1.php">Avistamiento de ballenas</a></h3>
+                                    <h3 class="tour-listing__card-title"><a href="tour1.php">Avistamiento de
+                                            ballenas</a></h3>
                                     <p class="tour-listing__card-text text-small">
                                         Embárcate en una aventura emocionante con nuestro tour de avistamiento de
                                         ballenas, donde la majestuosidad de estos gigantes del océano cobra vida.
