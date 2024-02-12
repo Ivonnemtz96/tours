@@ -18,33 +18,59 @@
             <div class="container">
                 <div class="main-slider-one__content">
                     <h5 class="main-slider-one__sub-title">Vive grandes aventuras<img
-                            src="assets/images/shapes/slider-1-shape-1.png" alt="trevlo"></h5>
+                            src="assets/images/shapes/slider-1-shape-1.png" alt="Novo Tours"></h5>
                     <h3 class="main-slider-one__title">Novo Tours<img src="assets/images/shapes/slider-1-shape-2.png"
-                            alt="trevlo"></h3>
+                            alt="Novo Tours"></h3>
                 </div>
             </div>
         </div>
         <div class="item">
             <div class="main-slider-one__image"
-                style="background-image: url(assets/images/backgrounds/slider-1-2.jpg?=2);"></div>
+                style="background-image: url(assets/images/backgrounds/09.jpg?=2);"></div>
             <div class="container">
                 <div class="main-slider-one__content">
                     <h5 class="main-slider-one__sub-title">Los mejores tours <img
-                            src="assets/images/shapes/slider-1-shape-1.png" alt="trevlo"></h5>
+                            src="assets/images/shapes/slider-1-shape-1.png" alt="Novo Tours"></h5>
                     <h3 class="main-slider-one__title">No te los puedes perder <img
-                            src="assets/images/shapes/slider-1-shape-2.png" alt="trevlo"></h3>
+                            src="assets/images/shapes/slider-1-shape-2.png" alt="Novo Tours"></h3>
                 </div>
             </div>
         </div>
         <div class="item">
             <div class="main-slider-one__image"
-                style="background-image: url(assets/images/backgrounds/slider-1-3.jpg?=3);"></div>
+                style="background-image: url(assets/images/backgrounds/12.jpg?=3);"></div>
             <div class="container">
                 <div class="main-slider-one__content">
                     <h5 class="main-slider-one__sub-title">Los Cabos <img
-                            src="assets/images/shapes/slider-1-shape-1.png" alt="trevlo"></h5>
+                            src="assets/images/shapes/slider-1-shape-1.png" alt="Novo Tours"></h5>
                     <h3 class="main-slider-one__title">Explora nuevas aventuras<img
-                            src="assets/images/shapes/slider-1-shape-2.png" alt="trevlo"></h3>
+                            src="assets/images/shapes/slider-1-shape-2.png" alt="Novo Tours"></h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="main-slider-one__image"
+                style="background-image: url(assets/images/backgrounds/06.jpg);"></div>
+            <div class="container">
+                <div class="main-slider-one__content">
+                    <h5 class="main-slider-one__sub-title">Los destinos más visitados <img
+                            src="assets/images/shapes/slider-1-shape-1.png" alt="Novo Tours"></h5>
+                    <h3 class="main-slider-one__title">Conoce Baja California Sur<img
+                            src="assets/images/shapes/slider-1-shape-2.png" alt="Novo Tours"></h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="main-slider-one__image"
+                style="background-image: url(assets/images/backgrounds/08.jpg);"></div>
+            <div class="container">
+                <div class="main-slider-one__content">
+                    <h5 class="main-slider-one__sub-title">Los Cabos <img
+                            src="assets/images/shapes/slider-1-shape-1.png" alt="Novo Tours"></h5>
+                    <h3 class="main-slider-one__title">Explora nuevas aventuras<img
+                            src="assets/images/shapes/slider-1-shape-2.png" alt="Novo Tours"></h3>
                 </div>
             </div>
         </div>
@@ -55,7 +81,7 @@
 <!-- main-slider-end -->
 
 <!-- Destination Start -->
-<section class="destination-one sunset2">
+<section class="destination-one">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-xl-3 col-md-8 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
@@ -191,7 +217,7 @@
 </section>
 <!-- Destination End -->
 <!-- About Start -->
-<section class="about-one sunset" id="about">
+<section class="about-one" id="about">
     <div class="container">
         <div class="row">
             <div class="col-xl-6 col-lg-6 wow fadeInLeft" data-wow-delay="200ms" style="margin-top: 5rem;">
@@ -240,7 +266,7 @@
                         <!-- /.sec-title__title -->
                     </div><!-- /.sec-title -->
                     <!-- /.sec-title -->
-                    <p class="about-one__content__text color-texto">
+                    <p class="about-one__content__text ">
                         Contamos con guías altamente capacitados y conocedores, apasionados por compartir la riqueza
                         cultural y natural de cada destino, también contamos con años de experiencia en la industria del
                         turismo, brindando a nuestros clientes un conocimiento profundo de destinos excepcionales y la
@@ -248,15 +274,15 @@
                     </p>
                     <div class="about-one__box">
                         <div class="about-one__box__icon"><span class="icon-safety"></span></div>
-                        <h3 class="about-one__box__title color-texto">Guías<br> Certificados</h3>
-                        <p class="about-one__box__text color-texto">Contamos con un equipo de guías profesionales y
+                        <h3 class="about-one__box__title ">Guías<br> Certificados</h3>
+                        <p class="about-one__box__text ">Contamos con un equipo de guías profesionales y
                             certificados. La
                             experiencia es su mejor credencial.</p>
                     </div><!-- /.about-box -->
                     <div class="about-one__box">
                         <div class="about-one__box__icon"><span class="icon-friendly-Guide"></span></div>
-                        <h3 class="about-one__box__title color-texto">Compañía Mexicana</h3>
-                        <p class="about-one__box__text color-texto">Empresa del sur de California, fundada y operada por
+                        <h3 class="about-one__box__title ">Compañía Mexicana</h3>
+                        <p class="about-one__box__text ">Empresa del sur de California, fundada y operada por
                             profesionales mexicanos.</p>
                     </div><!-- /.about-box -->
                     <a href="tours.php" class="trevlo-btn"><span>Ver Tours</span></a>
@@ -267,7 +293,7 @@
 </section>
 <!-- About End -->
 <!-- Tour Listing One Start -->
-<section class="tour-listing-one sunset"
+<section class="tour-listing-one"
     style="background-image: url(assets/images/resources/06.png); background-repeat:no-repeat;background-position: center;">
     <div class="container">
         <div class="sec-title text-center">
