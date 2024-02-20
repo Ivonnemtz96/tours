@@ -29,17 +29,17 @@
         }'>
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/22.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/grandes/ballenas-1.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/22.jpg"
+                            "src": "assets/images/tours/grandes/ballenas-2.jpg"
                           },
                           {
-                            "src": "assets/images/tours/23.jpg"
+                            "src": "assets/images/tours/grandes/ballenas-3.jpg"
                           }
                         ],
                         "gallery": {
@@ -52,17 +52,17 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/23.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/grandes/ballenas-2.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/23.jpg"
+                            "src": "assets/images/tours/grandes/ballenas-2.jpg"
                           },
                           {
-                            "src": "assets/images/tours/24.jpg"
+                            "src": "assets/images/tours/grandes/ballenas-3.jpg"
                           }
                         ],
                         "gallery": {
@@ -75,37 +75,37 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/24.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/grandes/ballenas-3.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/24.jpg"
+                            "src": "assets/images/tours/grandes/ballenas-1.jpg"
                           },
+                          {
+                            "src": "assets/images/tours/grandes/ballenas-3.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div><!-- /.tour-listing-details__top-carousel-item item -->
+            <div hidden class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/grandes/ballenas-3.jpg" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
                           {
                             "src": "assets/images/tours/25.jpg"
-                          }
-                        ],
-                        "gallery": {
-                          "enabled": true
-                        },
-                        "type": "image"
-                    }'><span class="icon-plus"></span></a>
-                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
-                </div><!-- /.tour-listing-details__top-carousel-image -->
-            </div><!-- /.tour-listing-details__top-carousel-item item -->
-            <div class="tour-listing-details__top-carousel-item item">
-                <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/25.jpg" alt="listing-details-carousel">
-                    <div class="tour-listing-details__top-carousel-overlay">
-                        <a href="#"
-                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                            data-gallery-options='{
-                        "items": [
-                          {
-                            "src": "assets/images/tours/25.jpg"
                           },
                           {
                             "src": "assets/images/tours/22.jpg"
@@ -119,9 +119,9 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div><!-- /.tour-listing-details__top-carousel-item item -->
-            <div class="tour-listing-details__top-carousel-item item">
+            <div  class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/26.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/grandes/ballenas-2.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
@@ -299,7 +299,7 @@
                     </div>
                     <!-- /.google-map -->
                 </div><!-- /.tour-listing-details__location -->
-                <div class="tour-listing-details__similar container-fluid">
+                <div hidden class="tour-listing-details__similar container-fluid">
                     <h3 class="tour-listing-details__title tour-listing-details__similar-title">Tours Similares</h3>
                     <div class="row">
                         <div class="col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">

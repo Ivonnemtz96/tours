@@ -25,8 +25,8 @@
             </div>
         </div>
         <div class="item">
-            <div class="main-slider-one__image"
-                style="background-image: url(assets/images/backgrounds/09.jpg?=2);"></div>
+            <div class="main-slider-one__image" style="background-image: url(assets/images/backgrounds/09.jpg?=2);">
+            </div>
             <div class="container">
                 <div class="main-slider-one__content">
                     <h5 class="main-slider-one__sub-title">Los mejores tours <img
@@ -37,8 +37,8 @@
             </div>
         </div>
         <div class="item">
-            <div class="main-slider-one__image"
-                style="background-image: url(assets/images/backgrounds/12.jpg?=3);"></div>
+            <div class="main-slider-one__image" style="background-image: url(assets/images/backgrounds/12.jpg?=3);">
+            </div>
             <div class="container">
                 <div class="main-slider-one__content">
                     <h5 class="main-slider-one__sub-title">Los Cabos <img
@@ -50,8 +50,7 @@
         </div>
 
         <div class="item">
-            <div class="main-slider-one__image"
-                style="background-image: url(assets/images/backgrounds/06.jpg);"></div>
+            <div class="main-slider-one__image" style="background-image: url(assets/images/backgrounds/06.jpg);"></div>
             <div class="container">
                 <div class="main-slider-one__content">
                     <h5 class="main-slider-one__sub-title">Los destinos más visitados <img
@@ -63,8 +62,7 @@
         </div>
 
         <div class="item">
-            <div class="main-slider-one__image"
-                style="background-image: url(assets/images/backgrounds/08.jpg);"></div>
+            <div class="main-slider-one__image" style="background-image: url(assets/images/backgrounds/08.jpg);"></div>
             <div class="container">
                 <div class="main-slider-one__content">
                     <h5 class="main-slider-one__sub-title">Los Cabos <img
@@ -81,7 +79,8 @@
 <!-- main-slider-end -->
 
 <!-- Destination Start -->
-<section class="destination-one">
+<section class="destination-one"
+    style="background-image: url(assets/images/resources/07.png); background-repeat:no-repeat;background-position: center;">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-xl-3 col-md-8 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
@@ -96,39 +95,7 @@
             </div>
         </div>
         <div class="destination-page__row row">
-            <div class="col-xl-3 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
-                <div class="destination-one__card">
-                    <div class="destination-one__card-img-box destination-one__card-img-box--round">
-                        <img src="assets/images/destination/destination-1-2.jpg?=1" alt="Novo Tours"
-                            class="destination-one__card-img destination-one__card-img--round">
-                        <div class="destination-one__card-overlay destination-one__card-overlay--round">
-                            <div class="destination-one__card-content destination-one__card-content--round">
-                                <h4 class="destination-one__card-title"><a href="tour1.php">Bote
-                                        Transparente</a></h4>
-                            </div><!-- /.destination-one__card-content destination-one__card-content--round -->
-                        </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
-                    </div><!-- /.destination-one__card-img-box -->
-                </div><!-- /.destination-one__card -->
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
-                data-wow-duration="1500ms">
-                <div class="destination-one__card">
-                    <div class="destination-one__card-img-box destination-one__card-img-box--circle">
-                        <img src="assets/images/destination/06.jpg?=1" alt="Novo Tours"
-                            class="destination-one__card-img destination-one__card-img--circle">
-                        <div class="destination-one__card-overlay destination-one__card-overlay--circle">
-                            <div class="destination-one__card-content destination-one__card-content--circle">
-                                <h4 class="destination-one__card-title">
-                                    <a href="snorkel.php">
-                                        Snorkel
-                                    </a>
-                                </h4>
-                            </div><!-- /.destination-one__card-content destination-one__card-content--circle -->
-                        </div><!-- /.destination-one__card-overlay destination-one__card-overlay--circle -->
-                    </div><!-- /.destination-one__card-img-box -->
-                </div><!-- /.destination-one__card -->
-            </div>
-            <div class="col-xl-6 col-lg-4 col-lg-8 wow animated fadeInUp" data-wow-delay="0.5s"
+            <div class="col-xl-6 col-lg-3 col-lg-3 wow animated fadeInUp" data-wow-delay="0.5s"
                 data-wow-duration="1500ms">
                 <div class="destination-one__card">
                     <div class="destination-one__card-img-box destination-one__card-img-box--round">
@@ -143,81 +110,60 @@
                     </div><!-- /.destination-one__card-img-box -->
                 </div><!-- /.destination-one__card -->
             </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
-                data-wow-duration="1500ms">
-                <div class="destination-one__card">
-                    <div class="destination-one__card-img-box destination-one__card-img-box--circle">
-                        <img src="assets/images/destination/03.jpg?=1" alt="Novo Tours"
-                            class="destination-one__card-img destination-one__card-img--circle">
-                        <div class="destination-one__card-overlay destination-one__card-overlay--circle">
-                            <div class="destination-one__card-content destination-one__card-content--circle">
-                                <h4 class="destination-one__card-title">
-                                    <a href="artWalk.php">
-                                        San José del Cabo
-                                    </a>
-                                </h4>
-                            </div><!-- /.destination-one__card-content destination-one__card-content--circle -->
-                        </div><!-- /.destination-one__card-overlay destination-one__card-overlay--circle -->
-                    </div><!-- /.destination-one__card-img-box -->
-                </div><!-- /.destination-one__card -->
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s"
+            <div class="col-xl-6 col-lg-3 col-lg-3 wow animated fadeInUp" data-wow-delay="0.5s"
                 data-wow-duration="1500ms">
                 <div class="destination-one__card">
                     <div class="destination-one__card-img-box destination-one__card-img-box--round">
-                        <img src="assets/images/destination/07.jpg?=1" alt="Novo Tours"
+                        <img src="assets/images/destination/08.jpg?=1" alt="Novo Tours"
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
-                                <h4 class="destination-one__card-title"><a href="laPaz.php">La
-                                        Paz</a></h4>
-                            </div>
-                        </div>
-                    </div><!-- /.destination-one__card-img-box -->
-                </div><!-- /.destination-one__card -->
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.5s"
-                data-wow-duration="1500ms">
-                <div class="destination-one__card">
-                    <div class="destination-one__card-img-box destination-one__card-img-box--circle">
-                        <img src="assets/images/destination/04.jpg?=1" alt="Novo Tours"
-                            class="destination-one__card-img destination-one__card-img--circle">
-                        <div class="destination-one__card-overlay destination-one__card-overlay--circle">
-                            <div class="destination-one__card-content destination-one__card-content--circle">
-                                <h4 style="font-size: 1.7rem;" class="destination-one__card-title">
-                                    <a href="ballenas.php">
-                                        Avistamiento de Ballenas
-                                    </a>
-                                </h4>
-                            </div><!-- /.destination-one__card-content destination-one__card-content--circle -->
-                        </div><!-- /.destination-one__card-overlay destination-one__card-overlay--circle -->
-                    </div><!-- /.destination-one__card-img-box -->
-                </div><!-- /.destination-one__card -->
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s"
-                data-wow-duration="1500ms">
-                <div class="destination-one__card">
-                    <div class="destination-one__card-img-box destination-one__card-img-box--round">
-                        <img src="assets/images/destination/05.jpg?=1" alt="Novo Tours"
-                            class="destination-one__card-img destination-one__card-img--round">
-                        <div class="destination-one__card-overlay destination-one__card-overlay--round">
-                            <div class="destination-one__card-content destination-one__card-content--round">
-                                <h4 style="font-size: 1.7rem;" class="destination-one__card-title">
-                                    <a href="sunset.php">
-                                        Sunset & Tasting Plus
-                                    </a>
-                                </h4>
+                                <h4 class="destination-one__card-title"><a href="laPaz.php">
+                                        La Paz</a></h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--round -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
                     </div><!-- /.destination-one__card-img-box -->
                 </div><!-- /.destination-one__card -->
+            </div>
+            <div class="col-xl-6 col-lg-3 col-lg-3 wow animated fadeInUp" data-wow-delay="0.5s"
+                data-wow-duration="1500ms">
+                <div class="destination-one__card">
+                    <div class="destination-one__card-img-box destination-one__card-img-box--round">
+                        <img src="assets/images/destination/09.jpg?=1" alt="Novo Tours"
+                            class="destination-one__card-img destination-one__card-img--round">
+                        <div class="destination-one__card-overlay destination-one__card-overlay--round">
+                            <div class="destination-one__card-content destination-one__card-content--round">
+                                <h4 class="destination-one__card-title"><a href="ballenas.php">
+                                        Avistamiento de ballenas</a></h4>
+                            </div><!-- /.destination-one__card-content destination-one__card-content--round -->
+                        </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
+                    </div><!-- /.destination-one__card-img-box -->
+                </div><!-- /.destination-one__card -->
+            </div>
+            <div class="col-xl-6 col-lg-3 col-lg-3 wow animated fadeInUp" data-wow-delay="0.5s"
+                data-wow-duration="1500ms">
+                <div class="destination-one__card">
+                    <div class="destination-one__card-img-box destination-one__card-img-box--round">
+                        <img src="assets/images/destination/10.jpg?=1" alt="Novo Tours"
+                            class="destination-one__card-img destination-one__card-img--round">
+                        <div class="destination-one__card-overlay destination-one__card-overlay--round">
+                            <div class="destination-one__card-content destination-one__card-content--round">
+                                <h4 class="destination-one__card-title"><a href="sunset.php">
+                                        Sunset & Tasting Plus</a></h4>
+                            </div><!-- /.destination-one__card-content destination-one__card-content--round -->
+                        </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
+                    </div><!-- /.destination-one__card-img-box -->
+                </div><!-- /.destination-one__card -->
+            </div>
+            <div class="col-md-12 text-center wow animated fadeInUp" data-wow-delay="0.5s">
+                <a href="index.php#tours" class="trevlo-btn"><span>Ver todos los tours</span></a>
             </div>
         </div><!-- /.row -->
     </div>
 </section>
 <!-- Destination End -->
 <!-- About Start -->
-<section class="about-one" id="about">
+<section class="about-one" id="about" style="background-color: #ffacaa4a !important;">
     <div class="container">
         <div class="row">
             <div class="col-xl-6 col-lg-6 wow fadeInLeft" data-wow-delay="200ms" style="margin-top: 5rem;">
@@ -285,7 +231,7 @@
                         <p class="about-one__box__text ">Empresa del sur de California, fundada y operada por
                             profesionales mexicanos.</p>
                     </div><!-- /.about-box -->
-                    <a href="tours.php" class="trevlo-btn"><span>Ver Tours</span></a>
+                    <a href="index.php#tours" class="trevlo-btn"><span>Ver Tours</span></a>
                 </div><!-- /.about-four__content -->
             </div><!-- /.col-xl-6 col-lg-6 -->
         </div><!-- /.row -->
@@ -293,22 +239,22 @@
 </section>
 <!-- About End -->
 <!-- Tour Listing One Start -->
-<section class="tour-listing-one"
+<section class="tour-listing-one" id="tours"
     style="background-image: url(assets/images/resources/06.png); background-repeat:no-repeat;background-position: center;">
     <div class="container">
         <div class="sec-title text-center">
-            <p class="sec-title__tagline">Los Mejores Tours</p>
-            <h2 class="sec-title__title">Los Tours Más Populares</h2>
+            <p class="sec-title__tagline">Atrévete a disfrutar las mejores experiencias</p>
+            <h2 class="sec-title__title">Todos nuestros Tours</h2>
         </div>
         <div class="tour-listing-one__carousel trevlo-owl__carousel trevlo-owl__carousel--basic-nav trevlo-owl__carousel--with-shadow owl-theme owl-carousel"
             data-owl-options='{
             "items": 3,
             "margin": 30,
             "smartSpeed": 700,
-            "loop":false,
-            "autoplay": 6000,
-            "nav":false,
-            "dots":true,
+            "loop":true,
+            "autoplay": 4000,
+            "nav":true,
+            "dots":false,
             "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
             "responsive":{
                 "0":{
@@ -325,7 +271,7 @@
             <div class="item">
                 <div class="tour-listing__card">
                     <a href="tour1.php" class="tour-listing__card-image-box">
-                        <img src="assets/images/tours/39.jpg?=1" alt="Novo Tours" class="tour-listing__card-image">
+                        <img src="assets/images/tours/45.jpg?=1" alt="Novo Tours" class="tour-listing__card-image">
                         <!-- /.tour-listing__card-btn-group -->
                         <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
                     </a><!-- /.tour-listing__card-image-box -->
@@ -335,13 +281,16 @@
                                 data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/39.jpg?=1"
+                    "src": "assets/images/tours/grandes/arco-1.jpg?=1"
                   },
                   {
-                    "src": "assets/images/tours/40.jpg?=1"
+                    "src": "assets/images/tours/grandes/arco-2.jpg?=1"
                   },
                   {
-                    "src": "assets/images/tours/36.jpg?=1"
+                    "src": "assets/images/tours/grandes/arco-3.jpg?=1"
+                  },
+                  {
+                    "src": "assets/images/tours/grandes/arco-4.jpg?=1"
                   }
                 ],
                 "gallery": {
@@ -380,6 +329,7 @@
                     </div><!-- /.tour-listing__card-content -->
                 </div>
             </div>
+
             <div class="item">
                 <div class="tour-listing__card">
                     <a href="tour1.php" class="tour-listing__card-image-box">
@@ -392,7 +342,16 @@
                                 data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/34.jpg"
+                    "src": "assets/images/tours/grandes/todosSantos-1.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/grandes/todosSantos-2.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/grandes/todosSantos-3.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/grandes/todosSantos-4.jpg"
                   }
                 ],
                 "gallery": {
@@ -434,7 +393,8 @@
                         </div><!-- /.tour-listing__card-inner-content -->
                     </div><!-- /.tour-listing__card-content -->
                 </div><!-- /.tour-listing__card -->
-            </div><!-- /.item -->
+            </div>
+
             <div class="item">
                 <div class="tour-listing__card">
                     <a href="tour1.php" class="tour-listing__card-image-box">
@@ -449,13 +409,16 @@
                                 data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/04.jpg"
+                    "src": "assets/images/tours/grandes/cabos-1.jpg"
                   },
                   {
-                    "src": "assets/images/tours/05.jpg"
+                    "src": "assets/images/tours/grandes/cabos-2.jpg"
                   },
                   {
-                    "src": "assets/images/tours/06.jpg"
+                    "src": "assets/images/tours/grandes/cabos-3.jpeg"
+                  },
+                  {
+                    "src": "assets/images/tours/grandes/cabos-4.jpg"
                   }
                 ],
                 "gallery": {
@@ -495,7 +458,423 @@
                         </div><!-- /.tour-listing__card-inner-content -->
                     </div><!-- /.tour-listing__card-content -->
                 </div><!-- /.tour-listing__card -->
-            </div><!-- /.item -->
+            </div>
+
+            <div class="item">
+                <div class="tour-listing__card">
+                    <a href="ballenas.php" class="tour-listing__card-image-box">
+                        <img src="assets/images/tours/18.jpg" alt="Novo Tours" class="tour-listing__card-image">
+                        <div class="tour-listing__card-btn-group">
+                        </div><!-- /.tour-listing__card-btn-group -->
+                        <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
+                    </a><!-- /.tour-listing__card-image-box -->
+                    <div class="tour-listing__card-content">
+                        <div class="tour-listing__card-camera-group">
+                            <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup"
+                                data-gallery-options='{
+                "items": [
+                  {
+                    "src": "assets/images/tours/grandes/ballenas-1.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/grandes/ballenas-2.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/grandes/ballenas-3.jpg"
+                  }
+                ],
+                "gallery": {
+                  "enabled": true
+                },
+                "type": "image"
+            }'>
+                                <span class="icon-photo-camera-1"></span>
+                            </a>
+                        </div><!-- /.tour-listing__card-camera-group -->
+                        <h3 class="tour-listing__card-title"><a href="ballenas.php">
+                                Avistamiento de Ballenas
+                            </a></h3>
+                        <p class="tour-listing__card-text text-small">
+                            Embárcate en una aventura emocionante con nuestro tour de avistamiento de ballenas, donde la
+                            majestuosidad de estos gigantes del océano cobra vida. <br>
+                        </p>
+                        <div class="tour-listing__card-inner-content">
+                            <!-- /.tour-listing__card-review-box -->
+                            <div class="tour-listing__card-location-box">
+                                <span class="icon-location-1"></span>
+                                <p class="tour-listing__card-location-text text-small">Baja California Sur</p>
+                            </div><!-- /.tour-listing__card-location-box -->
+                            <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
+                            <div class="tour-listing__card-bottom">
+                                <div class="tour-listing__card-bottom-left">
+                                    <div class="tour-listing__card-day">
+                                        <span class="icon-clock-1"></span>
+                                        <p class="tour-listing__card-day-text text-small">6 horas</p>
+                                    </div><!-- /.tour-listing__card-day -->
+
+                                </div><!-- /.tour-listing__card-bottom-left -->
+                            </div><!-- /.tour-listing__card-bottom -->
+                        </div><!-- /.tour-listing__card-inner-content -->
+                    </div><!-- /.tour-listing__card-content -->
+                </div><!-- /.tour-listing__card -->
+            </div>
+
+
+            <div class="item">
+                <div class="tour-listing__card">
+                    <a href="laPaz.php" class="tour-listing__card-image-box">
+                        <img src="assets/images/tours/33.jpg" alt="Novo Tours" class="tour-listing__card-image">
+                        <div class="tour-listing__card-btn-group">
+                        </div><!-- /.tour-listing__card-btn-group -->
+                        <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
+                    </a><!-- /.tour-listing__card-image-box -->
+                    <div class="tour-listing__card-content">
+                        <div class="tour-listing__card-camera-group">
+                            <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup"
+                                data-gallery-options='{
+                "items": [
+                  {
+                    "src": "assets/images/tours/grandes/paz-1.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/grandes/paz-2.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/grandes/paz-3.jpg"
+                  }
+                ],
+                "gallery": {
+                  "enabled": true
+                },
+                "type": "image"
+            }'>
+                                <span class="icon-photo-camera-1"></span>
+                            </a>
+                        </div><!-- /.tour-listing__card-camera-group -->
+                        <h3 class="tour-listing__card-title"><a href="laPaz.php">
+                                La Paz, Balandra
+                            </a></h3>
+                        <p class="tour-listing__card-text text-small">
+                            Explora la belleza de La Paz con nuestro tour destacado en la icónica playa Balandra.
+                            Descubre aguas turquesas, arenas blancas y la serenidad de este paraíso costero.
+                        </p>
+                        <div class="tour-listing__card-inner-content">
+                            <!-- /.tour-listing__card-review-box -->
+                            <div class="tour-listing__card-location-box">
+                                <span class="icon-location-1"></span>
+                                <p class="tour-listing__card-location-text text-small">La Paz</p>
+                            </div><!-- /.tour-listing__card-location-box -->
+                            <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
+                            <div class="tour-listing__card-bottom">
+                                <div class="tour-listing__card-bottom-left">
+                                    <div class="tour-listing__card-day">
+                                        <span class="icon-clock-1"></span>
+                                        <p class="tour-listing__card-day-text text-small">10 horas</p>
+                                    </div>
+                                </div><!-- /.tour-listing__card-bottom-left -->
+                            </div><!-- /.tour-listing__card-bottom -->
+                        </div><!-- /.tour-listing__card-inner-content -->
+                    </div><!-- /.tour-listing__card-content -->
+                </div><!-- /.tour-listing__card -->
+            </div>
+
+
+            <div class="item">
+                <div class="tour-listing__card">
+                    <a href="sunset.php" class="tour-listing__card-image-box">
+                        <img src="assets/images/tours/44.jpg" alt="Novo Tours" class="tour-listing__card-image">
+                        <div class="tour-listing__card-btn-group">
+                        </div><!-- /.tour-listing__card-btn-group -->
+                        <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
+                    </a><!-- /.tour-listing__card-image-box -->
+                    <div class="tour-listing__card-content">
+                        <div class="tour-listing__card-camera-group">
+                            <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup"
+                                data-gallery-options='{
+                "items": [
+                  {
+                    "src": "assets/images/tours/grandes/sunset-1.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/grandes/sunset-2.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/grandes/sunset-3.jpeg"
+                  },
+                  {
+                    "src": "assets/images/tours/grandes/sunset-4.jpg"
+                  }
+                ],
+                "gallery": {
+                  "enabled": true
+                },
+                "type": "image"
+            }'>
+                                <span class="icon-photo-camera-1"></span>
+                            </a>
+                        </div><!-- /.tour-listing__card-camera-group -->
+                        <h3 class="tour-listing__card-title"><a href="sunset.php">
+                                Sunset & Tasting Plus
+                            </a></h3>
+                        <p class="tour-listing__card-text text-small">
+                            Embárcate en un tour único en Los Cabos, donde los atardeceres deslumbrantes se mezclan con
+                            exquisitas degustaciones. <br><br><br>
+                        </p>
+                        <div class="tour-listing__card-inner-content">
+                            <!-- /.tour-listing__card-review-box -->
+                            <div class="tour-listing__card-location-box">
+                                <span class="icon-location-1"></span>
+                                <p class="tour-listing__card-location-text text-small">Cabo San Lucas</p>
+                            </div><!-- /.tour-listing__card-location-box -->
+                            <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
+                            <div class="tour-listing__card-bottom">
+                                <div class="tour-listing__card-bottom-left">
+                                    <div class="tour-listing__card-day">
+                                        <span class="icon-clock-1"></span>
+                                        <p class="tour-listing__card-day-text text-small">4 horas</p>
+                                    </div><!-- /.tour-listing__card-day -->
+                                </div><!-- /.tour-listing__card-bottom-left -->
+                            </div><!-- /.tour-listing__card-bottom -->
+                        </div><!-- /.tour-listing__card-inner-content -->
+                    </div><!-- /.tour-listing__card-content -->
+                </div><!-- /.tour-listing__card -->
+            </div>
+
+            <div class="item">
+                <div class="tour-listing__card">
+                    <a href="clearBoat.php" class="tour-listing__card-image-box">
+                        <img src="assets/images/tours/08.jpg" alt="Novo Tours" class="tour-listing__card-image">
+                        <div class="tour-listing__card-btn-group">
+                        </div><!-- /.tour-listing__card-btn-group -->
+                        <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
+                    </a><!-- /.tour-listing__card-image-box -->
+                    <div class="tour-listing__card-content">
+                        <div class="tour-listing__card-camera-group">
+                            <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup"
+                                data-gallery-options='{
+                "items": [
+                  {
+                    "src": "assets/images/tours/grandes/boat-1.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/grandes/boat-2.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/grandes/boat-3.jpeg"
+                  }
+                ],
+                "gallery": {
+                  "enabled": true
+                },
+                "type": "image"
+            }'>
+                                <span class="icon-photo-camera-1"></span>
+                            </a>
+                        </div><!-- /.tour-listing__card-camera-group -->
+                        <h3 class="tour-listing__card-title"><a href="clearBoat.php">
+                                Bote Transparente
+                            </a></h3>
+                        <p class="tour-listing__card-text text-small">
+                            Embárcate en una experiencia única con nuestro emocionante tour en bote transparente. Este
+                            viaje te sumerge en las maravillas del mundo submarino mientras flotas sobre aguas
+                            cristalinas.
+                        </p>
+                        <div class="tour-listing__card-inner-content">
+                            <!-- /.tour-listing__card-review-box -->
+                            <div class="tour-listing__card-location-box">
+                                <span class="icon-location-1"></span>
+                                <p class="tour-listing__card-location-text text-small">Cabo San Lucas</p>
+                            </div><!-- /.tour-listing__card-location-box -->
+                            <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
+                            <div class="tour-listing__card-bottom">
+                                <div class="tour-listing__card-bottom-left">
+                                    <div class="tour-listing__card-day">
+                                        <span class="icon-clock-1"></span>
+                                        <p class="tour-listing__card-day-text text-small">4 horas</p>
+                                    </div><!-- /.tour-listing__card-day -->
+                                </div><!-- /.tour-listing__card-bottom-left -->
+                            </div><!-- /.tour-listing__card-bottom -->
+                        </div><!-- /.tour-listing__card-inner-content -->
+                    </div><!-- /.tour-listing__card-content -->
+                </div><!-- /.tour-listing__card -->
+            </div>
+
+            <div class="item">
+                <div class="tour-listing__card">
+                    <a href="snorkel.php" class="tour-listing__card-image-box">
+                        <img src="assets/images/tours/38.jpg" alt="Novo Tours" class="tour-listing__card-image">
+                        <div class="tour-listing__card-btn-group">
+                        </div><!-- /.tour-listing__card-btn-group -->
+                        <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
+                    </a><!-- /.tour-listing__card-image-box -->
+                    <div class="tour-listing__card-content">
+                        <div class="tour-listing__card-camera-group">
+                            <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup"
+                                data-gallery-options='{
+                "items": [
+                  {
+                    "src": "assets/images/tours/04.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/05.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/06.jpg"
+                  }
+                ],
+                "gallery": {
+                  "enabled": true
+                },
+                "type": "image"
+            }'>
+                                <span class="icon-photo-camera-1"></span>
+                            </a>
+                        </div><!-- /.tour-listing__card-camera-group -->
+                        <h3 class="tour-listing__card-title"><a href="snorkel.php">
+                                Snorkel & Tour San Lucas
+                            </a></h3>
+                        <p class="tour-listing__card-text text-small">
+                            Explora las cristalinas aguas marinas, descubre la asombrosa vida submarina y sumérgete en
+                            la belleza del océano. <br><br>
+                        </p>
+                        <div class="tour-listing__card-inner-content">
+                            <!-- /.tour-listing__card-review-box -->
+                            <div class="tour-listing__card-location-box">
+                                <span class="icon-location-1"></span>
+                                <p class="tour-listing__card-location-text text-small">Cabo San Lucas</p>
+                            </div><!-- /.tour-listing__card-location-box -->
+                            <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
+                            <div class="tour-listing__card-bottom">
+                                <div class="tour-listing__card-bottom-left">
+                                    <div class="tour-listing__card-day">
+                                        <span class="icon-clock-1"></span>
+                                        <p class="tour-listing__card-day-text text-small">5 horas</p>
+                                    </div><!-- /.tour-listing__card-day -->
+                                </div><!-- /.tour-listing__card-bottom-left -->
+                            </div><!-- /.tour-listing__card-bottom -->
+                        </div><!-- /.tour-listing__card-inner-content -->
+                    </div><!-- /.tour-listing__card-content -->
+                </div><!-- /.tour-listing__card -->
+            </div>
+
+            <div class="item">
+                <div class="tour-listing__card">
+                    <a href="artWalk.php" class="tour-listing__card-image-box">
+                        <img src="assets/images/tours/41.jpg" alt="Novo Tours" class="tour-listing__card-image">
+                        <div class="tour-listing__card-btn-group">
+                        </div><!-- /.tour-listing__card-btn-group -->
+                        <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
+                    </a><!-- /.tour-listing__card-image-box -->
+                    <div class="tour-listing__card-content">
+                        <div class="tour-listing__card-camera-group">
+                            <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup"
+                                data-gallery-options='{
+                "items": [
+                  {
+                    "src": "assets/images/tours/04.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/05.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/06.jpg"
+                  }
+                ],
+                "gallery": {
+                  "enabled": true
+                },
+                "type": "image"
+            }'>
+                                <span class="icon-photo-camera-1"></span>
+                            </a>
+                        </div><!-- /.tour-listing__card-camera-group -->
+                        <h3 class="tour-listing__card-title"><a href="artWalk.php">
+                                San Jose Art Walk
+                            </a></h3>
+                        <p class="tour-listing__card-text text-small">
+                            Descubre la rica escena artística local mientras paseas por encantadoras calles empedradas.
+                            <br><br><br>
+                        </p>
+                        <div class="tour-listing__card-inner-content">
+                            <!-- /.tour-listing__card-review-box -->
+                            <div class="tour-listing__card-location-box">
+                                <span class="icon-location-1"></span>
+                                <p class="tour-listing__card-location-text text-small">San Jose del Cabo</p>
+                            </div><!-- /.tour-listing__card-location-box -->
+                            <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
+                            <div class="tour-listing__card-bottom">
+                                <div class="tour-listing__card-bottom-left">
+                                    <div class="tour-listing__card-day">
+                                        <span class="icon-clock-1"></span>
+                                        <p class="tour-listing__card-day-text text-small">3 horas</p>
+                                    </div><!-- /.tour-listing__card-day -->
+
+                                </div><!-- /.tour-listing__card-bottom-left -->
+                            </div><!-- /.tour-listing__card-bottom -->
+                        </div><!-- /.tour-listing__card-inner-content -->
+                    </div><!-- /.tour-listing__card-content -->
+                </div><!-- /.tour-listing__card -->
+            </div>
+
+            <div class="item">
+                <div class="tour-listing__card">
+                    <a href="sanLucas.php" class="tour-listing__card-image-box">
+                        <img src="assets/images/tours/29.jpg" alt="Novo Tours" class="tour-listing__card-image">
+                        <div class="tour-listing__card-btn-group">
+                        </div><!-- /.tour-listing__card-btn-group -->
+                        <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
+                    </a><!-- /.tour-listing__card-image-box -->
+                    <div class="tour-listing__card-content">
+                        <div class="tour-listing__card-camera-group">
+                            <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup"
+                                data-gallery-options='{
+                "items": [
+                  {
+                    "src": "assets/images/tours/04.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/05.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/06.jpg"
+                  }
+                ],
+                "gallery": {
+                  "enabled": true
+                },
+                "type": "image"
+            }'>
+                                <span class="icon-photo-camera-1"></span>
+                            </a>
+                        </div><!-- /.tour-listing__card-camera-group -->
+                        <h3 class="tour-listing__card-title"><a href="sanLucas.php">
+                                Cabo San Lucas Tour
+                            </a></h3>
+                        <p class="tour-listing__card-text text-small">
+                            Cabo San Lucas también tiene tradiciones y arte que mostrarnos, después de descubir los
+                            mejores lugares de San Lucas, es el momento de degustar los mejores tequilas mexicanos. 
+                        </p>
+                        <div class="tour-listing__card-inner-content">
+                            <!-- /.tour-listing__card-review-box -->
+                            <div class="tour-listing__card-location-box">
+                                <span class="icon-location-1"></span>
+                                <p class="tour-listing__card-location-text text-small">Cabo San Lucas</p>
+                            </div><!-- /.tour-listing__card-location-box -->
+                            <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
+                            <div class="tour-listing__card-bottom">
+                                <div class="tour-listing__card-bottom-left">
+                                    <div class="tour-listing__card-day">
+                                        <span class="icon-clock-1"></span>
+                                        <p class="tour-listing__card-day-text text-small">4-5 horas</p>
+                                    </div><!-- /.tour-listing__card-day -->
+                                    
+                                </div><!-- /.tour-listing__card-bottom-left -->
+                            </div><!-- /.tour-listing__card-bottom -->
+                        </div><!-- /.tour-listing__card-inner-content -->
+                    </div><!-- /.tour-listing__card-content -->
+                </div><!-- /.tour-listing__card -->
+            </div>
+
         </div><!-- /.tour-listing-one__carousel -->
     </div><!-- /.container -->
 </section>
@@ -529,7 +908,7 @@
                             <h3 class="benefit-one__box__title">Reservaciones al instante</h3>
                         </div><!-- /.benefit-box -->
                     </div>
-                    <a href="tours.php" class="trevlo-btn"><span>Ver tours</span></a><!-- /.button -->
+                    <a href="index.php#tours" class="trevlo-btn"><span>Ver tours</span></a><!-- /.button -->
                 </div>
             </div>
             <div class="col-lg-7 wow fadeInRight" data-wow-delay="200ms">
@@ -682,7 +1061,7 @@
                     </p>
                     <div class="offer-one__btn-box wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        <a href="contact.php" class="offer-one__btn trevlo-btn trevlo-btn--primary"><span>¡Reserva
+                        <a href="index.php#tours" class="offer-one__btn trevlo-btn trevlo-btn--primary"><span>¡Reserva
                                 Ahora!</span></a>
                     </div><!-- /.offer-one__btn-box -->
                 </div><!-- /.offer-one__content -->

@@ -350,7 +350,7 @@
                     </div>
                     <!-- /.google-map -->
                 </div><!-- /.tour-listing-details__location -->
-                <div class="tour-listing-details__similar container-fluid">
+                <div hidden class="tour-listing-details__similar container-fluid">
                     <h3 class="tour-listing-details__title tour-listing-details__similar-title">Tours Similares</h3>
                     <div class="row">
                         <div class="col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">

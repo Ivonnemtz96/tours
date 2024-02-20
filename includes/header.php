@@ -50,7 +50,7 @@
                             <a href="index.php#about">Nosotros</a>
                         </li>
                         <li>
-                            <a href="tours.php">Tours</a>
+                            <a href="index.php#tours">Tours</a>
                         </li>
                         <li>
                             <a href="gallery.php">Galería</a>
