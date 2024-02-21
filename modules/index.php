@@ -302,7 +302,7 @@
                             </a>
                         </div>
                         <h3 class="tour-listing__card-title">
-                            <a href="sanLucas.php">
+                            <a href="arco.php">
                                 Tour al Arco
                             </a>
                         </h3>
@@ -430,11 +430,11 @@
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
                         <h3 class="tour-listing__card-title"><a href="cabos.php">
-                                Two Capes City
+                                Tour a Los Dos Cabos & Visita al Arco
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
-                            ¿Has visitado este mágico lugar? No te lo puedes perder y descubrir las maravillas que se
-                            realizan. <br><br>
+                            Te llevamos a conocer los dos Cabos: San Lucas y San José en un solo día, también vamos al
+                            Arco en las lanchas de cristal <br><br>
                         </p>
                         <div class="tour-listing__card-inner-content">
                             <!-- /.tour-listing__card-review-box -->
@@ -672,7 +672,7 @@
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
                         <h3 class="tour-listing__card-title"><a href="clearBoat.php">
-                                Bote Transparente
+                                Tour al Arco en Lancha Transparente de Cristal
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
                             Embárcate en una experiencia única con nuestro emocionante tour en bote transparente. Este
@@ -819,7 +819,7 @@
             <div class="item">
                 <div class="tour-listing__card">
                     <a href="sanLucas.php" class="tour-listing__card-image-box">
-                        <img src="assets/images/tours/29.jpg" alt="Novo Tours" class="tour-listing__card-image">
+                        <img src="assets/images/tours/46.jpg" alt="Novo Tours" class="tour-listing__card-image">
                         <div class="tour-listing__card-btn-group">
                         </div><!-- /.tour-listing__card-btn-group -->
                         <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
@@ -830,13 +830,28 @@
                                 data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/04.jpg"
+                    "src": "assets/images/tours/sanlucas/grandes/04.jpg"
                   },
                   {
-                    "src": "assets/images/tours/05.jpg"
+                    "src": "assets/images/tours/sanlucas/grandes/05.jpg"
                   },
                   {
-                    "src": "assets/images/tours/06.jpg"
+                    "src": "assets/images/tours/sanlucas/grandes/06.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/sanlucas/grandes/07.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/sanlucas/grandes/08.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/sanlucas/grandes/12.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/sanlucas/grandes/11.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/sanlucas/grandes/09.jpg"
                   }
                 ],
                 "gallery": {
@@ -848,11 +863,11 @@
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
                         <h3 class="tour-listing__card-title"><a href="sanLucas.php">
-                                Cabo San Lucas Tour
+                                Cabo San Lucas & Visita al Arco
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
-                            Cabo San Lucas también tiene tradiciones y arte que mostrarnos, después de descubir los
-                            mejores lugares de San Lucas, es el momento de degustar los mejores tequilas mexicanos. 
+                            Cabo San Lucas también tiene tradiciones y arte que mostrarnos, después de descubrir los
+                            mejores lugares de San Lucas, es momento de visitar el famoso Arco.
                         </p>
                         <div class="tour-listing__card-inner-content">
                             <!-- /.tour-listing__card-review-box -->
@@ -867,7 +882,7 @@
                                         <span class="icon-clock-1"></span>
                                         <p class="tour-listing__card-day-text text-small">4-5 horas</p>
                                     </div><!-- /.tour-listing__card-day -->
-                                    
+
                                 </div><!-- /.tour-listing__card-bottom-left -->
                             </div><!-- /.tour-listing__card-bottom -->
                         </div><!-- /.tour-listing__card-inner-content -->

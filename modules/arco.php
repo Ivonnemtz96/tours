@@ -149,7 +149,7 @@
             <div class="tour-listing-details__destination-row row">
                 <div class="col-xl-4 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
                     <div class="tour-listing-details__destination-left">
-                        <h3 class="tour-listing-details__dastination-title">Tour a Los Dos Cabos & Visita al Arco</h3>
+                        <h3 class="tour-listing-details__dastination-title">Tour al Arco</h3>
                     </div><!-- /.tour-listing-details__daetination-left -->
                 </div><!-- /.col-xl-4 -->
                 <div class="col-xl-8">
@@ -159,15 +159,16 @@
                             <span class="icon-clock-1"></span>
                             <div class="tour-listing-details__destination-info-title">
                                 <h4 class="tour-listing-details__destination-info-top">Duración</h4>
-                                <h4 class="tour-listing-details__destination-info-bottom">7 Horas</h4>
+                                <h4 class="tour-listing-details__destination-info-bottom">4 Horas</h4>
                             </div>
-                        </div>
+                        </div><!-- /.tour-listing-details__destination-info -->
+
                         <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
                             data-wow-duration="1500ms">
                             <span class="icon-location-1"></span>
                             <div class="tour-listing-details__destination-info-title">
                                 <h4 class="tour-listing-details__destination-info-top">Lugar</h4>
-                                <h4 class="tour-listing-details__destination-info-bottom">Los Cabos</h4>
+                                <h4 class="tour-listing-details__destination-info-bottom">Cabo San Lucas</h4>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
                     </div><!-- /.tour-listing-details__destination-right -->
@@ -185,18 +186,19 @@
                     </div>
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        Cabo San Lucas y San José del Cabo , un recorrido que nos muestra lo mejor de estas ciudades ,la
-                        historia y el significado actual que este increíble destino turístico tiene para México.
+                        Es un increíble paseo rumbo al famoso arco de Cabo San Lucas en una de las clásicas lanchas de
+                        fondo de cristal. En el trayecto se podrá ver la colonia de lobos marinos y las maravillosas
+                        formaciones rocosas.<br>
+
+                        Si así lo quieres, tendrás oportunidad de bajar a la playa enigmática Playa del Amor y cruzar a
+                        la Playa del Divorcio que da al Pacífico. Disfrutarás de la playa y de la naturaleza que enmarca
+                        nuestra bahía.
                         <br>
 
-                        No sólo el aspecto cultural es importante también la belleza natural, los paisajes, las hermosas
-                        playas, la vegetación y por supuesto las increíbles formaciones rocosas en el fin de la tierra,
-                        el famoso arco de unión o punto de separación de los dos mares Mar de Cortés o Mar Pacífico.
-                        <br>
+                        Te llevaremos al Hacienda Tequila, una reconocida tienda de marca degustarás y aprenderás un
+                        poco más acerca de los mejores tequilas y otros licores típicos de nuestro México
+                        Recorre la zona centro de CSL y sus mercados de artesanías.
 
-                        San José del Cabo nos transporta un poco al pasado antiguas construcciones de estilo colonial,
-                        la Iglesia de La Misión, el Palacio de Gobierno y muchas otras que quedaron en el tiempo y hoy
-                        podemos apreciarlas. Disfrutemos de San José del Cabo y Cabo San Lucas.
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -208,54 +210,59 @@
                                 Incluye
                             </h3>
                             <ul class="tour-listing-details__included-list-one">
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Paseo por la bahía a bordo de lanchas con fondo de cristal </p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Tiempo en la Playa del Amor (opcional)</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Tiempo de compras</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Degustación de tequila (opcional)</p>
+                                </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Guía certificado bilingüe</p>
+                                    <p>Transportación redonda desde el hotel</p>
                                 </li>
-                                <li>
+
+                                <!-- <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Transporte redondo</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Tequila tasting (opcional)</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Fábrica de vidrio soplado</p>
+                                    <p>Guía certificado en Cabo San Lucas</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Demostración de Perlas y joyas</p>
+                                    <p>Fábrica de soplado de vidrio</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hasta el arco a bordo del increíble Crystal Boat (Lands end, colonia de
+                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Fin de la Tierra, colonia
+                                        de
                                         leones marinos y formaciones rocosas)</p>
                                 </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Lunch en el restaurante El Coral</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Botella de agua de cortesía</p>
-                                </li>
-
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
                                     <p>Tiempo de compras</p>
                                 </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Tequila tasting (Opcional)</p>
+                                </li> -->
 
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-7 -->
                         <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                                Incluye
+                                No Incluye
                             </h3>
                             <ul class="tour-listing-details__included-list-two">
                                 <li>
@@ -264,14 +271,16 @@
                                 </li>
                                 <li>
                                     <i class="fas fa-times"></i>
-                                    <p>Impuesto de muelle 5 dólares</p>
+                                    <p>Comida</p>
                                 </li>
-
+                                <li>
+                                    <i class="fas fa-times"></i>
+                                    <p>Impuesto muelle: 1 dólar</p>
+                                </li>
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-5 -->
                     </div><!-- /.row -->
                 </div>
-
                 <div class="tour-listing-details__location">
                     <h3 class="tour-listing-details__title tour-listing-details__location-title">Location</h3>
                     <div class="google-map google-map__@@extraClassName">

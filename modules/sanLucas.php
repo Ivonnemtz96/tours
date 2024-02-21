@@ -6,10 +6,10 @@
         "items": 4,
         "margin": 20,
         "smartSpeed": 700,
-        "loop":false,
-        "autoplay": 6000,
+        "loop":true,
+        "autoplay": 4000,
         "nav":false,
-        "dots":false,
+        "dots":true,
         "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
         "responsive":{
             "0":{
@@ -23,23 +23,23 @@
             },
             "1300":{
                 "items": 4,
-                "dots": false
+                "dots": true
             }
         }
         }'>
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/22.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/sanlucas/01.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/22.jpg"
+                            "src": "assets/images/tours/sanlucas/grandes/01.jpeg"
                           },
                           {
-                            "src": "assets/images/tours/23.jpg"
+                            "src": "assets/images/tours/sanlucas/grandes/01.jpeg"
                           }
                         ],
                         "gallery": {
@@ -98,17 +98,17 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/25.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/sanlucas/02.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/25.jpg"
+                            "src": "assets/images/tours/sanlucas/grandes/02.jpeg"
                           },
                           {
-                            "src": "assets/images/tours/22.jpg"
+                            "src": "assets/images/tours/sanlucas/grandes/02.jpeg"
                           }
                         ],
                         "gallery": {
@@ -121,17 +121,17 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/26.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/sanlucas/03.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/26.jpg"
+                            "src": "assets/images/tours/sanlucas/grandes/03.jpg"
                           },
                           {
-                            "src": "assets/images/tours/22.jpg"
+                            "src": "assets/images/tours/sanlucas/grandes/03.jpg"
                           }
                         ],
                         "gallery": {
@@ -141,15 +141,234 @@
                     }'><span class="icon-plus"></span></a>
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
-            </div><!-- /.tour-listing-details__top-carousel-item item -->
-        </div><!-- /.tour-listing-details__top-carousel-wrapper -->
+            </div>
+            
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sanlucas/04.jpg" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/04.jpg"
+                          },
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/04.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sanlucas/05.jpg" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/05.jpg"
+                          },
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/05.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sanlucas/07.jpg" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/07.jpg"
+                          },
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/07.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sanlucas/08.jpg" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/08.jpg"
+                          },
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/08.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sanlucas/09.jpg" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/09.jpg"
+                          },
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/09.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sanlucas/10.jpg" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/10.jpg"
+                          },
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/10.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sanlucas/11.jpg" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/11.jpg"
+                          },
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/11.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sanlucas/12.jpg" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/12.jpg"
+                          },
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/12.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sanlucas/13.jpg" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/13.jpg"
+                          },
+                          {
+                            "src": "assets/images/tours/sanlucas/grandes/13.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+            
+            <!-- /.tour-listing-details__top-carousel-item item -->
+        </div>
     </div><!-- /.tour-listing-details__top-carousel -->
     <div class="tour-listing-details__destination">
         <div class="container">
             <div class="tour-listing-details__destination-row row">
                 <div class="col-xl-4 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
                     <div class="tour-listing-details__destination-left">
-                        <h3 class="tour-listing-details__dastination-title">Tour a Cabo San Lucas</h3>
+                        <h3 class="tour-listing-details__dastination-title">Cabo San Lucas & Visita al Arco</h3>
                     </div><!-- /.tour-listing-details__daetination-left -->
                 </div><!-- /.col-xl-4 -->
                 <div class="col-xl-8">
@@ -159,7 +378,7 @@
                             <span class="icon-clock-1"></span>
                             <div class="tour-listing-details__destination-info-title">
                                 <h4 class="tour-listing-details__destination-info-top">Duración</h4>
-                                <h4 class="tour-listing-details__destination-info-bottom">4-5 Horas</h4>
+                                <h4 class="tour-listing-details__destination-info-bottom">5 Horas</h4>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
 
@@ -186,18 +405,20 @@
                     </div>
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        Cabo San Lucas también tiene tradiciones y arte que mostrarnos, una de estas es la Fábrica de
-                        vidrio soplado aquí verás como un puñado de vidrio molido se transforma en una pieza de arte,
+                        Cabo San Lucas también tiene tradiciones y arte que mostrarnos, una de estas es la fábrica de
+                        vidrio soplado, aquí verás como un puñado de vidrio molido se transforma en una pieza de arte,
                         sorprendente talento y belleza.<br>
 
-                        Un asombroso paseo a bordo del barco con fondo de cristal es también parte de la aventura en el
-                        recorrido del Arco verás otras maravillas naturales como la colonia de lobos marinos,
-                        formaciones rocosas y el imponente Arco en medio de dos mares Mar de Cortés y Océano Pacífico.
+                        Un asombroso paseo a bordo de las famosas lanchas transparentes de cristal es también parte de
+                        la aventura en el recorrido a la bahía de San Lucas, donde verás otras maravillas naturales como
+                        la colonia de lobos marinos, formaciones rocosas y el imponente Arco en medio de dos mares Mar
+                        de Cortés y Océano Pacífico.
                         <br>
 
                         Después es hora de degustar los mejores tequilas mexicanos de marcas extraordinarias y antiguas,
                         llenos de sabor y tradición. Tiempo libre para ir de compras o pasear por la marina encontrarás
                         muchas marcas famosas y tiendas de artesanías con obras hechas por manos mexicanas.
+
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -211,7 +432,30 @@
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Área de artesanía</p>
+                                    <p>Guía certificado en Cabo San Lucas </p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Tequila tasting (Opcional)</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Fábrica de vidrio soplado</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Demostración de Perlas y joyas</p>
+                                </li>
+
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Transportación redonda desde el hotel</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Fin de la Tierra, colonia
+                                        de
+                                        leones marinos y formaciones rocosas)</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
@@ -219,19 +463,11 @@
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Nuevas camionetas modelo con micrófono integrado y equipo de sonido</p>
+                                    <p>Tiempo de compras</p>
                                 </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Transporte redondo</p>
-                                </li>
+                                
 
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Tequila tasting (opcional)</p>
-                                </li>
-
-                                <li>
+                                <!-- <li>
                                     <i class="fas fa-check-circle"></i>
                                     <p>Guía certificado en Cabo San Lucas</p>
                                 </li>
@@ -240,27 +476,20 @@
                                     <i class="fas fa-check-circle"></i>
                                     <p>Fábrica de soplado de vidrio</p>
                                 </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Fin de la Tierra, colonia de
-                                        leones marinos y formaciones rocosas)</p>
-                                </li>
+                                
 
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Tiempo de compras</p>
-                                </li>
+                               
                                 <li>
                                     <i class="fas fa-check-circle"></i>
                                     <p>Tequila tasting (Opcional)</p>
-                                </li>
+                                </li> -->
 
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-7 -->
                         <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                              No Incluye
+                                No Incluye
                             </h3>
                             <ul class="tour-listing-details__included-list-two">
                                 <li>
@@ -270,6 +499,10 @@
                                 <li>
                                     <i class="fas fa-times"></i>
                                     <p>Comida</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-times"></i>
+                                    <p>Impuesto muelle: 5 dólares</p>
                                 </li>
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-5 -->

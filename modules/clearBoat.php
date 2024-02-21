@@ -149,7 +149,8 @@
             <div class="tour-listing-details__destination-row row">
                 <div class="col-xl-4 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
                     <div class="tour-listing-details__destination-left">
-                        <h3 class="tour-listing-details__dastination-title">Barco Transparente</h3>
+                        <h3 class="tour-listing-details__dastination-title">Tour al Arco en Lancha Transparente de
+                            Cristal.</h3>
                     </div><!-- /.tour-listing-details__daetination-left -->
                 </div><!-- /.col-xl-4 -->
                 <div class="col-xl-8">
@@ -159,17 +160,9 @@
                             <span class="icon-clock-1"></span>
                             <div class="tour-listing-details__destination-info-title">
                                 <h4 class="tour-listing-details__destination-info-top">Duración</h4>
-                                <h4 class="tour-listing-details__destination-info-bottom">3 Horas</h4>
+                                <h4 class="tour-listing-details__destination-info-bottom">4 Horas</h4>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
-                        <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.3s"
-                            data-wow-duration="1500ms">
-                            <span class="icon-Duration"></span>
-                            <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Edad min</h4>
-                                <h4 class="tour-listing-details__destination-info-bottom">4+</h4>
-                            </div>
-                        </div>
                         <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
                             data-wow-duration="1500ms">
                             <span class="icon-location-1"></span>
@@ -193,18 +186,16 @@
                     </div>
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        El fin de la tierra, la asombrosa unión de dos mares, el Mar de Cortés y el Océano Pacífico, te
-                        lleva a un increíble paseo hasta el Arco de Cabo San Lucas. Podrás ver la colonia de leones
-                        marinos y las maravillosas formaciones rocosas, grandes atracciones de nuestro hermoso destino.
+                        Es un increíble paseo rumbo al famoso arco de Cabo San Lucas en una de las famosas lanchas
+                        transparentes de cristal. En el trayecto se podrás observar la vida marina a tus pies, ver la
+                        colonia de lobos marinos y las maravillosas formaciones rocosas.
                         <br>
 
-                        Nuestro recorrido también incluye tiempo para ir de compras en el centro de Cabo San Lucas,
-                        donde encontrarás numerosas artesanías y tiendas de marcas reconocidas. Una de ellas es Hacienda
-                        Tequila, donde degustaremos y aprenderemos más sobre los mejores tequilas y otras bebidas
-                        típicas de México. <br>
+                        Disfrutarás de las paradisiacas vistas que enmarca nuestra bahía. <br>
+                        Te llevaremos al Hacienda Tequila, una reconocida tienda de marca degustarás y aprenderás un
+                        poco más acerca de los mejores tequilas y otros licores típicos de nuestro México
+                        Recorre la zona centro de CSL y sus mercados de artesanías.
 
-                        Land's End es un tour que te muestra la vida en nuestro animado centro turístico, así como la
-                        flora y fauna de nuestra bahía.
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -216,40 +207,20 @@
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Tiempo en la Playa (opcional)</p>
+                                    <p>Paseo por la bahía a bordo de lanchas transparentes de cristal</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Botella de agua de cortesía</p>
+                                    <p>Te llevamos a la playa del Médano un rato para nadar (opcional).</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Nuevas camionetas modelo con micrófono integrado y equipo de sonido</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Transporte redondo</p>
+                                    <p>Transporte redondo desde el hotel</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Tequila tasting (opcional)</p>
-                                </li>
-
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Guía certificado bilingüe</p>
-                                </li>
-
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Flexibilidad en salidas a las 09:00, 11:00 y 13:00, regresos a las 13:00, 15:00 y
-                                        16:30</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Tierra's End, colonia de
-                                        leones marinos y formaciones rocosas)</p>
+                                    <p>Degustación de tequila (opcional)</p>
                                 </li>
 
                                 <li>
@@ -261,11 +232,20 @@
                         </div><!-- /.col-lg-6 col-md-7 -->
                         <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s"
                             data-wow-duration="1500ms">
-                            <h3 class="tour-listing-details__title tour-listing-details__included-title">No Incluye </h3>
+                            <h3 class="tour-listing-details__title tour-listing-details__included-title">No Incluye
+                            </h3>
                             <ul class="tour-listing-details__included-list-two">
                                 <li>
                                     <i class="fas fa-times"></i>
                                     <p>Propinas</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-times"></i>
+                                    <p>Comida</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-times"></i>
+                                    <p>Impuesto muelle: 5 dólar</p>
                                 </li>
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-5 -->
