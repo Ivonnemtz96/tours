@@ -398,7 +398,7 @@
             <div class="item">
                 <div class="tour-listing__card">
                     <a href="tour1.php" class="tour-listing__card-image-box">
-                        <img src="assets/images/tours/04.jpg" alt="Novo Tours" class="tour-listing__card-image">
+                        <img src="assets/images/tours/47.jpg" alt="Novo Tours" class="tour-listing__card-image">
                         <div class="tour-listing__card-btn-group">
                         </div><!-- /.tour-listing__card-btn-group -->
                         <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
@@ -409,16 +409,19 @@
                                 data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/grandes/cabos-1.jpg"
+                    "src": "assets/images/tours/twocapes/grandes/01.jpg"
                   },
                   {
-                    "src": "assets/images/tours/grandes/cabos-2.jpg"
+                    "src": "assets/images/tours/twocapes/grandes/02.jpg"
                   },
                   {
-                    "src": "assets/images/tours/grandes/cabos-3.jpeg"
+                    "src": "assets/images/tours/twocapes/grandes/03.jpeg"
                   },
                   {
-                    "src": "assets/images/tours/grandes/cabos-4.jpg"
+                    "src": "assets/images/tours/twocapes/grandes/04.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/twocapes/grandes/05.jpg"
                   }
                 ],
                 "gallery": {

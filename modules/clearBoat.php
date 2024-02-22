@@ -6,10 +6,10 @@
         "items": 4,
         "margin": 20,
         "smartSpeed": 700,
-        "loop":false,
+        "loop":true,
         "autoplay": 6000,
         "nav":false,
-        "dots":false,
+        "dots":true,
         "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
         "responsive":{
             "0":{
@@ -23,23 +23,23 @@
             },
             "1300":{
                 "items": 4,
-                "dots": false
+                "dots": true
             }
         }
         }'>
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/22.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/clearBoat/01.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/22.jpg"
+                            "src": "assets/images/tours/clearBoat/grandes/01.jpg"
                           },
                           {
-                            "src": "assets/images/tours/23.jpg"
+                            "src": "assets/images/tours/clearBoat/grandes/01.jpg"
                           }
                         ],
                         "gallery": {
@@ -52,17 +52,17 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/23.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/clearBoat/02.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/23.jpg"
+                            "src": "assets/images/tours/clearBoat/grandes/02.jpg"
                           },
                           {
-                            "src": "assets/images/tours/24.jpg"
+                            "src": "assets/images/tours/clearBoat/grandes/02.jpg"
                           }
                         ],
                         "gallery": {
@@ -75,17 +75,17 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/24.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/clearBoat/03.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/24.jpg"
+                            "src": "assets/images/tours/clearBoat/grandes/03.jpg"
                           },
                           {
-                            "src": "assets/images/tours/25.jpg"
+                            "src": "assets/images/tours/clearBoat/grandes/03.jpg"
                           }
                         ],
                         "gallery": {
@@ -98,17 +98,17 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/25.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/clearBoat/04.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/25.jpg"
+                            "src": "assets/images/tours/clearBoat/grandes/04.jpg"
                           },
                           {
-                            "src": "assets/images/tours/22.jpg"
+                            "src": "assets/images/tours/clearBoat/grandes/04.jpg"
                           }
                         ],
                         "gallery": {
@@ -121,17 +121,17 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/26.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/clearBoat/05.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/26.jpg"
+                            "src": "assets/images/tours/clearBoat/grandes/05.jpg"
                           },
                           {
-                            "src": "assets/images/tours/22.jpg"
+                            "src": "assets/images/tours/clearBoat/grandes/05.jpg"
                           }
                         ],
                         "gallery": {
@@ -141,7 +141,103 @@
                     }'><span class="icon-plus"></span></a>
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
-            </div><!-- /.tour-listing-details__top-carousel-item item -->
+            </div>
+            
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/clearBoat/06.jpg" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/clearBoat/grandes/06.jpg"
+                          },
+                          {
+                            "src": "assets/images/tours/clearBoat/grandes/06.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/clearBoat/07.jpg" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/clearBoat/grandes/07.jpg"
+                          },
+                          {
+                            "src": "assets/images/tours/clearBoat/grandes/07.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/clearBoat/08.jpg" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/clearBoat/grandes/08.jpg"
+                          },
+                          {
+                            "src": "assets/images/tours/clearBoat/grandes/08.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/clearBoat/09.jpg" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/clearBoat/grandes/09.jpg"
+                          },
+                          {
+                            "src": "assets/images/tours/clearBoat/grandes/09.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
         </div><!-- /.tour-listing-details__top-carousel-wrapper -->
     </div><!-- /.tour-listing-details__top-carousel -->
     <div class="tour-listing-details__destination">
@@ -252,33 +348,6 @@
                     </div><!-- /.row -->
                 </div>
 
-                <div class="tour-listing-details__included">
-                    <h3 class="tour-listing-details__title tour-listing-details__included-title">Complementarios</h3>
-                    <div class="row">
-                        <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
-                            data-wow-duration="1500ms">
-                            <ul class="tour-listing-details__included-list-one">
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Paseo del Arte</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Centro Histórico</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Misión de San José del Cabo</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Tierra's End, colonia de
-                                        leones marinos y formaciones rocosas)</p>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
                 <div class="tour-listing-details__location">
                     <h3 class="tour-listing-details__title tour-listing-details__location-title">Location</h3>
                     <div class="google-map google-map__@@extraClassName">
