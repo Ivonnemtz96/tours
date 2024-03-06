@@ -158,8 +158,8 @@
                             data-wow-duration="1500ms">
                             <span class="icon-clock-1"></span>
                             <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Duración</h4>
-                                <h4 class="tour-listing-details__destination-info-bottom">3 Horas</h4>
+                                <h4 class="tour-listing-details__destination-info-top">Duration</h4>
+                                <h4 class="tour-listing-details__destination-info-bottom">3 Hrs</h4>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
 
@@ -167,8 +167,17 @@
                             data-wow-duration="1500ms">
                             <span class="icon-location-1"></span>
                             <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Lugar</h4>
+                                <h4 class="tour-listing-details__destination-info-top">Location</h4>
                                 <h4 class="tour-listing-details__destination-info-bottom">San José del Cabo</h4>
+                            </div>
+                        </div>
+                        
+                        <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
+                            data-wow-duration="1500ms">
+                            <div class="tour-listing-details__destination-info-title">
+                                <a target="_blank"
+                                    href="https://fareharbor.com/embeds/book/novotours-mx/items/466174/?full-items=yes&flow=969771"
+                                    class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
                     </div><!-- /.tour-listing-details__destination-right -->
@@ -182,17 +191,20 @@
             <div class="col-xl-8">
                 <div class="tour-listing-details__overview">
                     <div class="wow animated fadeIn" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                        <h3 class="tour-listing-details__title tour-listing-details__overview-title">Descripción</h3>
+                        <h3 class="tour-listing-details__title tour-listing-details__overview-title">Description</h3>
                     </div>
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        San José del Cabo una ciudad muy cercana a Cabo San Lucas es un lugar muy histórico e
-                        interesante podrás ver y disfrutar de sus antiguas y coloridas calles y su arquitectura con gran
-                        influencia española. <br>
+                        San Jose del Cabo, a city very close to Cabo San Lucas, is a very historic and interesting place
+                        to see and enjoy its old and colorful streets
+                        interesting to see and enjoy its old and colorful streets and its architecture with great
+                        Spanish influence.<br>
 
-                        "El Paseo del Arte" un increíble evento artístico donde diversas expresiones artísticas conectan
-                        el talento de nuestra gente, los colores, la música los olores de las comidas típicas y lo más
-                        importante la amabilidad de su gente, realmente disfrútalo. <br>
+                        "El Paseo del Arte" an incredible artistic event where diverse artistic expressions connect the
+                        talent of our people, the colors, the music, the smells of the typical
+                        the talent of our people, the colors, the music, the smells of the typical foods and most
+                        importantly the kindness of its people.
+                        most important the kindness of its people, really enjoy it.<br>
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -200,39 +212,39 @@
                         <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                                Incluye
+                                Including
                             </h3>
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Área de artesanía</p>
+                                    <p>Crafts area</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Botella de agua de cortesía</p>
+                                    <p>Complimentary bottle of water</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Nuevas camionetas modelo con micrófono integrado y equipo de sonido</p>
+                                    <p>New model vans with built-in microphone and sound equipment</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Transporte redondo</p>
-                                </li>
-
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Fábrica de soplado de vidrio</p>
+                                    <p>Round trip transportation</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Guía certificado en Cabo San Lucas</p>
+                                    <p>Glass blowing factory</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Tiempo de compras</p>
+                                    <p>Certified guide in Cabo San Lucas</p>
+                                </li>
+
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Shoping Time</p>
                                 </li>
 
                             </ul><!-- /.tour-listing-details__included-list-one -->
@@ -240,17 +252,17 @@
                         <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                                No Incluye
+                            Not Included
                             </h3>
                             <ul class="tour-listing-details__included-list-two">
                                 <li>
                                     <i class="fas fa-times"></i>
-                                    <p>Propinas</p>
+                                    <p>Tips</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-times"></i>
-                                    <p>Comida</p>
+                                    <p>Lunch</p>
                                 </li>
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-5 -->
@@ -262,7 +274,7 @@
 
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7342.025914675444!2d-109.70147871217227!3d23.059986538181057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af509c4c04f9f3%3A0x4b6582bc1b709505!2sCentro%2C%20San%20Jos%C3%A9%20del%20Cabo%2C%20BCS!5e0!3m2!1sen!2smx!4v1704475675214!5m2!1sen!2smx"
-                           style="border:0;" allowfullscreen="" loading="lazy"
+                            style="border:0;" allowfullscreen="" loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                     <!-- /.google-map -->
@@ -412,7 +424,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--one">
                                 <span class="icon-credit-card"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Tarjetas débito/crédito</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Debit/credit cards</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
@@ -420,7 +432,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--two">
                                 <span class="icon-parking"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Transporte</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Transportation</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
@@ -428,7 +440,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--three">
                                 <span class="icon-discount"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Precios Accesibles</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Affordable Prices</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
@@ -436,8 +448,13 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--four">
                                 <span class="icon-reception-bell"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Reservaciones</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Reservations</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
+                        </div>
+                        <div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
+                            <a target="_blank"
+                                href="https://fareharbor.com/embeds/book/novotours-mx/items/466174/?full-items=yes&flow=969771"
+                                class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                     </div>
                 </div>

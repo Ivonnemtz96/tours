@@ -639,7 +639,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--one">
                                 <span class="icon-credit-card"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Tarjetas débito/crédito</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Debit/credit cards</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
@@ -647,7 +647,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--two">
                                 <span class="icon-parking"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Transporte</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Transportation</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
@@ -655,7 +655,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--three">
                                 <span class="icon-discount"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Precios Accesibles</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Affordable Prices</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
@@ -663,7 +663,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--four">
                                 <span class="icon-reception-bell"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Reservaciones</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Reservations</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div>
                         <div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
