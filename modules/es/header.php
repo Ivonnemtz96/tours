@@ -45,7 +45,7 @@
                 </div><!-- /.main-header__logo -->
                 <nav class="main-header__nav main-menu text-center">
                     <ul class="main-menu__list">
-                        <li class="dropdown megamenu">
+                        <li >
                             <a href="index.php">Inicio</a>
                         </li>
                         <li>

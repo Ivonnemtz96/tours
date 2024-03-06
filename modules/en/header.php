@@ -43,7 +43,7 @@
                 </div><!-- /.main-header__logo -->
                 <nav class="main-header__nav main-menu text-center">
                     <ul class="main-menu__list">
-                        <li class="dropdown megamenu">
+                        <li class="">
                             <a href="index.php">Home</a>
                         </li>
                         <li>
