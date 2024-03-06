@@ -142,7 +142,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/sanlucas/04.jpg" alt="listing-details-carousel">
@@ -359,7 +359,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <!-- /.tour-listing-details__top-carousel-item item -->
         </div>
     </div><!-- /.tour-listing-details__top-carousel -->
@@ -368,7 +368,7 @@
             <div class="tour-listing-details__destination-row row">
                 <div class="col-xl-4 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
                     <div class="tour-listing-details__destination-left">
-                        <h3 class="tour-listing-details__dastination-title">Cabo San Lucas & Visita al Arco</h3>
+                        <h3 class="tour-listing-details__dastination-title">Cabo San Lucas & Visit to the Arch</h3>
                     </div><!-- /.tour-listing-details__daetination-left -->
                 </div><!-- /.col-xl-4 -->
                 <div class="col-xl-8">
@@ -377,8 +377,8 @@
                             data-wow-duration="1500ms">
                             <span class="icon-clock-1"></span>
                             <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Duración</h4>
-                                <h4 class="tour-listing-details__destination-info-bottom">5 Horas</h4>
+                                <h4 class="tour-listing-details__destination-info-top">Duration</h4>
+                                <h4 class="tour-listing-details__destination-info-bottom">5 Hrs</h4>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
 
@@ -386,10 +386,20 @@
                             data-wow-duration="1500ms">
                             <span class="icon-location-1"></span>
                             <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Lugar</h4>
+                                <h4 class="tour-listing-details__destination-info-top">Location</h4>
                                 <h4 class="tour-listing-details__destination-info-bottom">Cabo San Lucas</h4>
                             </div>
-                        </div><!-- /.tour-listing-details__destination-info -->
+                        </div>
+
+                        <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
+                            data-wow-duration="1500ms">
+                            <div class="tour-listing-details__destination-info-title">
+                                <a target="_blank"
+                                    href="https://fareharbor.com/embeds/book/novotours-mx/items/466178/?full-items=yes&flow=969771"
+                                    class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
+                            </div>
+                        </div>
+
                     </div><!-- /.tour-listing-details__destination-right -->
                 </div><!-- /.col-xl-8 -->
             </div><!-- /.row -->
@@ -401,23 +411,23 @@
             <div class="col-xl-8">
                 <div class="tour-listing-details__overview">
                     <div class="wow animated fadeIn" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                        <h3 class="tour-listing-details__title tour-listing-details__overview-title">Descripción</h3>
+                        <h3 class="tour-listing-details__title tour-listing-details__overview-title">Description</h3>
                     </div>
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        Cabo San Lucas también tiene tradiciones y arte que mostrarnos, una de estas es la fábrica de
-                        vidrio soplado, aquí verás como un puñado de vidrio molido se transforma en una pieza de arte,
-                        sorprendente talento y belleza.<br>
+                        Cabo San Lucas also has traditions and art to show us, one of these is the glass blowing
+                        factory, here you will see how a handful of ground glass is transformed into a piece of art,
+                        amazing talent and beauty.<br>
 
-                        Un asombroso paseo a bordo de las famosas lanchas transparentes de cristal es también parte de
-                        la aventura en el recorrido a la bahía de San Lucas, donde verás otras maravillas naturales como
-                        la colonia de lobos marinos, formaciones rocosas y el imponente Arco en medio de dos mares Mar
-                        de Cortés y Océano Pacífico.
+                        An amazing ride aboard the famous transparent glass boats is also part of the adventure on the
+                        tour to San Lucas Bay, where you will see other natural wonders such as the sea lion colony,
+                        rock formations and the imposing Arch in the middle of two seas, the Sea of Cortez and the
+                        Pacific Ocean.
                         <br>
 
-                        Después es hora de degustar los mejores tequilas mexicanos de marcas extraordinarias y antiguas,
-                        llenos de sabor y tradición. Tiempo libre para ir de compras o pasear por la marina encontrarás
-                        muchas marcas famosas y tiendas de artesanías con obras hechas por manos mexicanas.
+                        Then it's time to taste the best Mexican tequilas of extraordinary and ancient brands, full of
+                        flavor and tradition. Free time for shopping or strolling along the marina you will find many
+                        famous brands and craft stores with works made by Mexican hands.
 
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
@@ -427,12 +437,12 @@
                         <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                                Incluye
+                                Including
                             </h3>
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Guía certificado en Cabo San Lucas </p>
+                                    <p>Certified guide in Cabo San Lucas </p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
@@ -440,32 +450,31 @@
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Fábrica de vidrio soplado</p>
+                                    <p>Blown glass factoryo</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Demostración de Perlas y joyas</p>
+                                    <p>Demonstration of pearls and jewelry</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Transportación redonda desde el hotel</p>
+                                    <p>Round transportation</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Fin de la Tierra, colonia
-                                        de
-                                        leones marinos y formaciones rocosas)</p>
+                                    <p>Ride to the arch aboard the incredible Crystal Boat (Lands end, sea lion colony
+                                        and rock formations).</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Botella de agua de cortesía</p>
+                                    <p>Complimentary bottle of water</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Tiempo de compras</p>
+                                    <p>Shoping Time</p>
                                 </li>
-                                
+
 
                                 <!-- <li>
                                     <i class="fas fa-check-circle"></i>
@@ -489,20 +498,20 @@
                         <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                                No Incluye
+                                No Included
                             </h3>
                             <ul class="tour-listing-details__included-list-two">
                                 <li>
                                     <i class="fas fa-times"></i>
-                                    <p>Propinas</p>
+                                    <p>Tips</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-times"></i>
-                                    <p>Comida</p>
+                                    <p>Lunch</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-times"></i>
-                                    <p>Impuesto muelle: 5 dólares</p>
+                                    <p>Dock tax 5 dollars</p>
                                 </li>
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-5 -->
@@ -663,7 +672,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--one">
                                 <span class="icon-credit-card"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Tarjetas débito/crédito</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Debit/credit cards</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
@@ -671,7 +680,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--two">
                                 <span class="icon-parking"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Transporte</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Transportation</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
@@ -679,7 +688,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--three">
                                 <span class="icon-discount"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Precios Accesibles</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Affordable Prices</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
@@ -687,8 +696,13 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--four">
                                 <span class="icon-reception-bell"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Reservaciones</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Reservations</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
+                        </div>
+                        <div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
+                            <a target="_blank"
+                                href="https://fareharbor.com/embeds/book/novotours-mx/items/466178/?full-items=yes&flow=969771"
+                                class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                     </div>
                 </div>
