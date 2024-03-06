@@ -149,7 +149,7 @@
             <div class="tour-listing-details__destination-row row">
                 <div class="col-xl-4 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
                     <div class="tour-listing-details__destination-left">
-                        <h3 class="tour-listing-details__dastination-title">Snorkel & tour a Cabo San Lucas</h3>
+                        <h3 class="tour-listing-details__dastination-title">Snorkel & Cabo San Lucas Tour</h3>
                     </div><!-- /.tour-listing-details__daetination-left -->
                 </div><!-- /.col-xl-4 -->
                 <div class="col-xl-8">
@@ -158,16 +158,25 @@
                             data-wow-duration="1500ms">
                             <span class="icon-clock-1"></span>
                             <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Duración</h4>
-                                <h4 class="tour-listing-details__destination-info-bottom">5 Horas</h4>
+                                <h4 class="tour-listing-details__destination-info-top">Duration</h4>
+                                <h4 class="tour-listing-details__destination-info-bottom">5 Hrs</h4>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
                         <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
                             data-wow-duration="1500ms">
                             <span class="icon-location-1"></span>
                             <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Lugar</h4>
+                                <h4 class="tour-listing-details__destination-info-top">Location</h4>
                                 <h4 class="tour-listing-details__destination-info-bottom">Cabo San Lucas</h4>
+                            </div>
+                        </div>
+
+                        <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
+                            data-wow-duration="1500ms">
+                            <div class="tour-listing-details__destination-info-title">
+                                <a target="_blank"
+                                    href="https://fareharbor.com/embeds/book/novotours-mx/?full-items=yes"
+                                    class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
                     </div><!-- /.tour-listing-details__destination-right -->
@@ -181,23 +190,24 @@
             <div class="col-xl-8">
                 <div class="tour-listing-details__overview">
                     <div class="wow animated fadeIn" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                        <h3 class="tour-listing-details__title tour-listing-details__overview-title">Descripción</h3>
+                        <h3 class="tour-listing-details__title tour-listing-details__overview-title">Description</h3>
                     </div>
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        "El acuario del mundo" bautizado así por el prestigioso biólogo marino Jacques Costeau, nuestro
-                        Mar de Cortés es un gigantesco acuario natural, de aguas cristalinas a través de las cuales
-                        podrás ver colores, formaciones rocosas de coral, especies marinas que nunca has visto.
+                        The aquarium of the world" named after the prestigious marine biologist Jacques Costeau, our
+                        "Sea of Cortez" is a gigantic natural aquarium.
+                        Sea of Cortez is a gigantic natural aquarium, with crystalline waters through which you can see
+                        colors, rocky coral formations, marine species you have never seen before.
                         <br>
 
-                        Nuestro tour muestra el antiguo oficio del vidrio soplado talentosos artesanos transforman este
-                        material en piezas de arte , colores, y formas que le sorprenderán. <br>
+                        Our tour shows the ancient craft of glass blowing. Talented artisans transform this material
+                        into pieces of art, colors, and shapes that will surprise you. <br>
 
-                        Este tour guiado te lleva a los puntos más céntricos de Cabo San Lucas para que disfrutes de
-                        tiempo libre para ir de compras o simplemente pasear por la marina y calles aledañas.
+                        This guided tour takes you to the most central points of Cabo San Lucas so you can enjoy free
+                        time for shopping or just strolling around the marina and surrounding streets.
                         <br>
 
-                        Un tour para disfrutar de nuestro mar, costas y la vida diurna en Cabo San Lucas.
+                        A tour to enjoy our sea, coasts and day life in Cabo San Lucas.
 
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
@@ -206,49 +216,46 @@
                         <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                                Incluye
+                                Including
                             </h3>
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Opción catamarán (Oceanus, cabo escape, cabo mar o piratas)</p>
+                                    <p>Catamaran option (Oceanus, Cabo Escape, Cabo Mar or Pirates)</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Botella de agua de cortesía</p>
+                                    <p>Complimentary bottle of water</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Nuevas camionetas modelo con micrófono integrado y equipo de sonido</p>
+                                    <p>New model vans with built-in microphone and sound equipment</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Transporte redondo</p>
-                                </li>
-
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Camionetas nuevo modelo con micrófono integrado y equipo de sonido.</p>
+                                    <p>Round transportation</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Guía certificado en Cabo San Lucas</p>
+                                    <p>Certified bilingual guide</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Fábrica de soplado de vidrio</p>
+                                    <p>Blown glass factory</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Tierra's End, colonia de
-                                        leones marinos y formaciones rocosas)</p>
+                                    <p>
+                                        Ride to the arch aboard the incredible Crystal Boat (Lands end, sea lion colony
+                                        and rock formations).
+                                    </p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Tiempo de compras</p>
+                                    <p>Shoping Time</p>
                                 </li>
 
                             </ul><!-- /.tour-listing-details__included-list-one -->
@@ -256,21 +263,21 @@
                         <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                                No Incluye
+                                No Included
                             </h3>
                             <ul class="tour-listing-details__included-list-two">
                                 <li>
                                     <i class="fas fa-times"></i>
-                                    <p>Propinas</p>
+                                    <p>Tips</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-times"></i>
-                                    <p>Barra libre a bordo (después del snorkel)</p>
+                                    <p>Open bar on board (after snorkeling)</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-times"></i>
-                                    <p>Snorkel en catamarán o similar en bahía Chileno o Santa María</p>
+                                    <p>Snorkeling on catamaran or similar in Chileno or Santa Maria bay.</p>
                                 </li>
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-5 -->
@@ -278,22 +285,23 @@
                 </div>
 
                 <div class="tour-listing-details__included">
-                    <h3 class="tour-listing-details__title tour-listing-details__included-title">Información Adicional</h3>
+                    <h3 class="tour-listing-details__title tour-listing-details__included-title">Additional Information
+                    </h3>
                     <div class="row">
                         <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
                             data-wow-duration="1500ms">
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Paseo del Arte</p>
+                                    <p>Art Walk</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Centro Histórico</p>
+                                    <p>Historic Center</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Misión de San José del Cabo</p>
+                                    <p>San Jose del Cabo Mission</p>
                                 </li>
                             </ul>
                         </div>
@@ -454,7 +462,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--one">
                                 <span class="icon-credit-card"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Tarjetas débito/crédito</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Debit/credit cards</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
@@ -462,7 +470,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--two">
                                 <span class="icon-parking"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Transporte</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Transportation</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
@@ -470,7 +478,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--three">
                                 <span class="icon-discount"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Precios Accesibles</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Affordable Prices</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
@@ -478,8 +486,13 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--four">
                                 <span class="icon-reception-bell"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Reservaciones</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Reservations</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
+                        </div>
+                        <div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
+                            <a target="_blank"
+                                href="https://fareharbor.com/embeds/book/novotours-mx/?full-items=yes"
+                                class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                     </div>
                 </div>
