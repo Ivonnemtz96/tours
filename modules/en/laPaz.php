@@ -158,16 +158,25 @@
                             data-wow-duration="1500ms">
                             <span class="icon-clock-1"></span>
                             <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Duración</h4>
-                                <h4 class="tour-listing-details__destination-info-bottom">10 Horas</h4>
+                                <h4 class="tour-listing-details__destination-info-top">Duration</h4>
+                                <h4 class="tour-listing-details__destination-info-bottom">10 Hrs</h4>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
                         <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
                             data-wow-duration="1500ms">
                             <span class="icon-location-1"></span>
                             <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Lugar</h4>
+                                <h4 class="tour-listing-details__destination-info-top">Location</h4>
                                 <h4 class="tour-listing-details__destination-info-bottom">La Paz</h4>
+                            </div>
+                        </div>
+
+                        <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
+                            data-wow-duration="1500ms">
+                            <div class="tour-listing-details__destination-info-title">
+                                <a target="_blank"
+                                    href="https://fareharbor.com/embeds/book/novotours-mx/items/466166/?full-items=yes&flow=969771"
+                                    class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
                     </div><!-- /.tour-listing-details__destination-right -->
@@ -185,20 +194,20 @@
                     </div>
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        La Paz, La Capital del Estado, una ciudad importante para conocer, una gran ciudad rodeada de
-                        hermosas playas y paisajes.
+                        La Paz, the state capital, an important city to know, a great city surrounded by beautiful
+                        beaches and landscapes.
                         <br>
 
-                        La Paz una ciudad histórica, centro político y económico del estado de Baja California Sur, una
-                        ciudad portuaria que la convierte en un punto interesante, aquí se encuentra una de las playas
-                        más hermosas de México, su nombre es Balandra y debes conocerla. <br>
+                        La Paz is a historic city, political and economic center of the state of Baja California Sur, a
+                        port city that makes it an interesting point, here you can find one of the most beautiful
+                        beaches in Mexico, its name is Balandra and you must visit it. <br>
 
-                        Visitaremos construcciones y edificios antiguos como la Catedral, otros y por supuesto el
-                        hermoso Malecón. De regreso y finalizando la experiencia la última parada será en un pueblo
-                        mágico en medio de cerros y vegetación.
+                        We will visit ancient constructions and buildings such as the Cathedral, others and of course
+                        the beautiful Malecon. On the way back and ending the experience the last stop will be in a
+                        magical town in the middle of hills and vegetation.
                         <br>
-                        Todos Santos aquí veremos algo de su historia en las calles antiguas y también conoceremos el
-                        emblemático Hotel California para capturar sus mitos y leyendas.
+                        Todos Santos here we will see some of its history in the old streets and we will also visit the
+                        emblematic Hotel California to capture its myths and legends.
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -207,72 +216,72 @@
                         <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                                Incluye
+                                Including
                             </h3>
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Llegada a Balandra para tiempo de playa (1:30 aprox)</p>
+                                    <p>Arrival at Balandra for beach time (1:30 approx).</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Botella de agua de cortesía</p>
+                                    <p>Complimentary bottle of water</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Nuevas camionetas modelo con micrófono integrado y equipo de sonido</p>
+                                    <p>New model vans with built-in microphone and sound equipment</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Transporte redondo</p>
-                                </li>
-
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Parada rápida en La Garita</p>
+                                    <p>Round transportation</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Guía certificado bilingüe</p>
+                                    <p>Quick stop at La Garita</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Visita a la Catedral</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Tierra's End, colonia de
-                                        leones marinos y formaciones rocosas)</p>
+                                    <p>Certified bilingual guide</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Paraguas incluidos</p>
+                                    <p>Visit to the Cathedral</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Walk to the arch aboard the amazing Crystal Boat (Tierra's End, sea lion colony
+                                        and rock formations).</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Tiempo de compras</p>
+                                    <p>Umbrellas included</p>
                                 </li>
-
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Breve parada en Todos Santos (foto en el Hotel California)</p>
+                                    <p>Shoping Time</p>
                                 </li>
 
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Comida mexicana en restaurante</p>
+                                    <p>Short stop in Todos Santos (photo at Hotel California)</p>
                                 </li>
 
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Visita al Malecón de La Paz y tiempo libre.</p>
+                                    <p>Mexican food in a restaurant</p>
+                                </li>
+
+
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Visit to the Malecon of La Paz and free time.</p>
                                 </li>
 
                             </ul><!-- /.tour-listing-details__included-list-one -->
@@ -280,12 +289,12 @@
                         <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                                No Incluye
+                                No Included
                             </h3>
                             <ul class="tour-listing-details__included-list-two">
                                 <li>
                                     <i class="fas fa-times"></i>
-                                    <p>Propinas</p>
+                                    <p>Tips</p>
                                 </li>
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-5 -->
@@ -446,7 +455,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--one">
                                 <span class="icon-credit-card"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Tarjetas débito/crédito</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Debit/credit cards</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
@@ -454,7 +463,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--two">
                                 <span class="icon-parking"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Transporte</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Transportation</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
@@ -462,7 +471,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--three">
                                 <span class="icon-discount"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Precios Accesibles</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Affordable Prices</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
@@ -470,8 +479,13 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--four">
                                 <span class="icon-reception-bell"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Reservaciones</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Reservations</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
+                        </div>
+                        <div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
+                            <a target="_blank"
+                                href="https://fareharbor.com/embeds/book/novotours-mx/items/466166/?full-items=yes&flow=969771"
+                                class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                     </div>
                 </div>
