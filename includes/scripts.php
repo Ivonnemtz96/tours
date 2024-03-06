@@ -5,7 +5,7 @@
         <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
         <div class="logo-box">
-            <a href="index.php" aria-label="logo image"><img src="assets/images/logo-dark.png" width="155"
+            <a href="index.php" aria-label="logo image"><img src="assets/images/logo.png" width="155"
                     alt="" /></a>
         </div>
         <!-- /.logo-box -->
@@ -15,27 +15,19 @@
         <ul class="mobile-nav__contact list-unstyled">
             <li>
                 <i class="fa fa-envelope"></i>
-                <a href="mailto:needhelp@trevlo.com">needhelp@trevlo.com</a>
+                <a href="mailto:info@novotoursbcs.com">info@novotoursbcs.com</a>
             </li>
-            <li>
+            <!-- <li>
                 <i class="fa fa-phone-alt"></i>
                 <a href="tel:(303)5550105">(303) 555-0105</a>
-            </li>
+            </li> -->
         </ul><!-- /.mobile-nav__contact -->
         <div class="mobile-nav__social">
-            <a href="https://twitter.com/">
-                <i class="fab fa-twitter" aria-hidden="true"></i>
-                <span class="sr-only">Twitter</span>
-            </a>
-            <a href="https://facebook.com/">
+            <a target="_blank" href="https://www.facebook.com/novotoursbc">
                 <i class="fab fa-facebook" aria-hidden="true"></i>
                 <span class="sr-only">Facebook</span>
             </a>
-            <a href="https://pinterest.com/">
-                <i class="fab fa-pinterest-p" aria-hidden="true"></i>
-                <span class="sr-only">Pinterest</span>
-            </a>
-            <a href="https://instagram.com/">
+            <a target="_blank" href="https://www.instagram.com/novotoursloscabos/?igshid=NGVhN2U2NjQ0Yg%3D%3D">
                 <i class="fab fa-instagram" aria-hidden="true"></i>
                 <span class="sr-only">Instagram</span>
             </a>

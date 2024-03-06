@@ -15,6 +15,7 @@
     </div>
     <?
         include('includes/scripts.php');
+        include('includes/fareHarbor.php');
     ?>
 </body>
 </html>
