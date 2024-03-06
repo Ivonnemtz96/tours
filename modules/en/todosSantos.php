@@ -149,7 +149,7 @@
             <div class="tour-listing-details__destination-row row">
                 <div class="col-xl-4 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
                     <div class="tour-listing-details__destination-left">
-                        <h3 class="tour-listing-details__dastination-title">El tour mágico</h3>
+                        <h3 class="tour-listing-details__dastination-title">Todos Santos Magic Town</h3>
                     </div><!-- /.tour-listing-details__daetination-left -->
                 </div><!-- /.col-xl-4 -->
                 <div class="col-xl-8">
@@ -158,18 +158,27 @@
                             data-wow-duration="1500ms">
                             <span class="icon-clock-1"></span>
                             <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Duración</h4>
-                                <h4 class="tour-listing-details__destination-info-bottom">6 Horas</h4>
+                                <h4 class="tour-listing-details__destination-info-top">Duration</h4>
+                                <h4 class="tour-listing-details__destination-info-bottom">6 Hrs|</h4>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
                         <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
                             data-wow-duration="1500ms">
                             <span class="icon-location-1"></span>
                             <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Lugar</h4>
+                                <h4 class="tour-listing-details__destination-info-top">Location</h4>
                                 <h4 class="tour-listing-details__destination-info-bottom">Todos Santos</h4>
                             </div>
-                        </div><!-- /.tour-listing-details__destination-info -->
+                        </div>
+
+                        <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
+                            data-wow-duration="1500ms">
+                            <div class="tour-listing-details__destination-info-title">
+                                <a target="_blank"
+                                    href="https://fareharbor.com/embeds/book/novotours-mx/items/465992/?full-items=yes&flow=969771"
+                                    class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
+                            </div>
+                        </div>
                     </div><!-- /.tour-listing-details__destination-right -->
                 </div><!-- /.col-xl-8 -->
             </div><!-- /.row -->
@@ -181,19 +190,19 @@
             <div class="col-xl-8">
                 <div class="tour-listing-details__overview">
                     <div class="wow animated fadeIn" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                        <h3 class="tour-listing-details__title tour-listing-details__overview-title">Descripción</h3>
+                        <h3 class="tour-listing-details__title tour-listing-details__overview-title">Description</h3>
                     </div>
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        Un viaje mágico a un pueblo mágico muy cerca de Cabo San Lucas. Todos Santos muestra al
-                        visitante la historia y cultura que ofrece esta parte de nuestro México, un pueblo ubicado entre
-                        los cerros y el oasis de palmeras, un pueblo lleno de antiguos secretos traídos por los antiguos
-                        religiosos que llegaron aquí hace cientos de años.
+                        A magical journey to a magical town very close to Cabo San Lucas. Todos Santos shows the visitor
+                        the history and culture that this part of our Mexico offers, a town located between the hills
+                        and the palm oasis, a town full of ancient secrets brought by the old religious individuals who
+                        arrived here hundreds of years ago.
                         <br>
 
-                        Típicas y coloridas artesanías adornan sus tranquilas calles y enmarcan el famoso, místico y
-                        emblemático "Hotel California" un lugar que todo visitante desea y debe conocer. Relaja tu
-                        espíritu Todos Santos es diferente, es especial.<br>
+                        Typical and colorful crafts decorate its tranquil streets and frame the famous, mystical, and
+                        emblematic "Hotel California," a place that every visitor desires and must know. Relax your
+                        spirit, Todos Santos is different, it's special.<br>
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -201,54 +210,54 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
                             data-wow-duration="1500ms">
-                            <h3 class="tour-listing-details__title tour-listing-details__included-title">Incluye</h3>
+                            <h3 class="tour-listing-details__title tour-listing-details__included-title">Included</h3>
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Fábrica de mantas</p>
+                                    <p>Blanket factory</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Centro cultural en Todos Santos</p>
+                                    <p>Cultural center in Todos Santos</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Hotel California, misión, centro histórico</p>
+                                    <p>Hotel California, Mission, historic center</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Transporte redondo</p>
-                                </li>
-
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Botella de agua de cortesía</p>
+                                    <p>Round-trip transportation</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Guía certificado bilingüe</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>vistas panorámicas de la zona del pacífico</p>
+                                    <p>Complimentary water bottle</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Tiempo de compras</p>
+                                    <p>Certified bilingual guide</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Panoramic views of the Pacific area</p>
+                                </li>
+
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Shopping time</p>
                                 </li>
 
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-7 -->
                         <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s"
                             data-wow-duration="1500ms">
-                            <h3 class="tour-listing-details__title tour-listing-details__included-title"> No Incluye
+                            <h3 class="tour-listing-details__title tour-listing-details__included-title"> No Included
                             </h3>
                             <ul class="tour-listing-details__included-list-two">
                                 <li>
                                     <i class="fas fa-times"></i>
-                                    <p>Propinas</p>
+                                    <p>Tips</p>
                                 </li>
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-5 -->
@@ -256,7 +265,7 @@
                 </div>
 
                 <div class="tour-listing-details__included">
-                    <h3 class="tour-listing-details__title tour-listing-details__included-title">Información Adcional
+                    <h3 class="tour-listing-details__title tour-listing-details__included-title">Additional information
                     </h3>
                     <div class="row">
                         <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
@@ -272,15 +281,15 @@
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Fábrica de tejidos</p>
+                                    <p>Blanket factory</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Misión regional de dulces</p>
+                                    <p>Regional candy mission</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Galería de Artes</p>
+                                    <p>Art gallery</p>
                                 </li>
                             </ul>
                         </div>
@@ -291,7 +300,7 @@
                     <div class="google-map google-map__@@extraClassName">
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29280.455543396467!2d-110.25232276631603!3d23.45841041158772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af03fe2b270ad7%3A0xf1a22fb71b5d13ea!2sTodos%20Santos%2C%20BCS!5e0!3m2!1sen!2smx!4v1704402670972!5m2!1sen!2smx"
-                           style="border:0;" allowfullscreen="" loading="lazy"
+                            style="border:0;" allowfullscreen="" loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                     <!-- /.google-map -->
@@ -432,7 +441,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--one">
                                 <span class="icon-credit-card"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Tarjetas débito/crédito</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Debit/credit cards</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
@@ -440,7 +449,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--two">
                                 <span class="icon-parking"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Transporte</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Transportation</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
@@ -448,7 +457,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--three">
                                 <span class="icon-discount"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Precios Accesibles</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Affordable Prices</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
@@ -456,8 +465,13 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--four">
                                 <span class="icon-reception-bell"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Reservaciones</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Reservations</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
+                        </div>
+                        <div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
+                            <a target="_blank"
+                                href="https://fareharbor.com/embeds/book/novotours-mx/items/465992/?full-items=yes&flow=969771"
+                                class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                     </div>
                 </div>
