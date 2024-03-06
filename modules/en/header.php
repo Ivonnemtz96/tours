@@ -11,7 +11,7 @@
                 <ul class="topbar-one__info topbar-one__info--right">
                     <li class="topbar-one__info-item">
                         <span class="topbar-one__info-icon icon-clock-1"></span>
-                        <span style="color: #fff;" class="topbar-one__info-text">Lun a Dom: 8:00 am - 6:00 pm</span>
+                        <span style="color: #fff;" class="topbar-one__info-text">Mon to Sun: 8:00 am - 6:00 pm</span>
                     </li>
                 </ul><!-- /.topbar-one__info -->
             </div><!-- /.topbar-one__left -->
@@ -44,19 +44,19 @@
                 <nav class="main-header__nav main-menu text-center">
                     <ul class="main-menu__list">
                         <li class="dropdown megamenu">
-                            <a href="index.php">Inicio</a>
+                            <a href="index.php">Home</a>
                         </li>
                         <li>
-                            <a href="index.php#about">Nosotros</a>
+                            <a href="index.php#about">About us</a>
                         </li>
                         <li>
                             <a href="index.php#tours">Tours</a>
                         </li>
                         <li>
-                            <a href="gallery.php">Galería</a>
+                            <a href="gallery.php">Gallery</a>
                         </li>
                         <li>
-                            <a href="contact.php">Contacto</a>
+                            <a href="contact.php">Contact</a>
                         </li>
                     </ul>
                 </nav><!-- /.main-header__nav -->
@@ -75,7 +75,7 @@
                             <span class="icon-phone-1"></span>
                         </div>
                         <div class="main-header__phone-text">
-                            <p class="main-header__phone-title">Márcanos</p>
+                            <p class="main-header__phone-title">Call Us</p>
                             <h4 class="main-header__phone-number"><a href="tel:6241436371">624-143-6371</a></h4>
                         </div>
                     </div>

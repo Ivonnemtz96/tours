@@ -2,12 +2,13 @@
     <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/02.jpg);"></div>
     <!-- /.page-header__bg -->
     <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Galería
+        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">
+            Gallery
         </h2>
         <div class="page-header__breadcrumb-box">
             <ul class="trevlo-breadcrumb">
-                <li><a href="index.php">Inicio</a></li>
-                <li>Galería</li>
+                <li><a href="index.php">Home</a></li>
+                <li>Gallery</li>
             </ul><!-- /.trevlo-breadcrumb -->
         </div><!-- /.page-header__breadcrumb-box -->
     </div><!-- /.container -->

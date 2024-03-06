@@ -3,7 +3,7 @@
         <div class="container">
             <div class="main-footer__bottom-inner">
                 <p class="main-footer__copyright">
-                    &copy; Copyright Novo Tours <span class="dynamic-year"></span>. Diseñado por <a href="https://www.bananagroup.mx/" target="_blank">Banana Group Marketing</a>.
+                    &copy; Copyright Novo Tours <span class="dynamic-year"></span>. Designed by <a href="https://www.bananagroup.mx/" target="_blank">Banana Group Marketing</a>.
                 </p>
             </div><!-- /.main-footer__inner -->
         </div><!-- /.container -->
