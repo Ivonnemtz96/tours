@@ -263,7 +263,7 @@
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Shoping Time</p>
+                                    <p>Shopping Time</p>
                                 </li>
 
 

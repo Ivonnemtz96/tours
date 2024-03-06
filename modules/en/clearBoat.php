@@ -329,7 +329,7 @@
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Shoping time</p>
+                                    <p>Shopping time</p>
                                 </li>
 
                             </ul><!-- /.tour-listing-details__included-list-one -->

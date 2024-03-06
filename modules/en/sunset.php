@@ -158,18 +158,27 @@
                             data-wow-duration="1500ms">
                             <span class="icon-clock-1"></span>
                             <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Duración</h4>
-                                <h4 class="tour-listing-details__destination-info-bottom">4 Horas</h4>
+                                <h4 class="tour-listing-details__destination-info-top">Duration</h4>
+                                <h4 class="tour-listing-details__destination-info-bottom">4 Hrs</h4>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
                         <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
                             data-wow-duration="1500ms">
                             <span class="icon-location-1"></span>
                             <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Lugar</h4>
+                                <h4 class="tour-listing-details__destination-info-top">Location</h4>
                                 <h4 class="tour-listing-details__destination-info-bottom">Cabo San Lucas</h4>
                             </div>
-                        </div><!-- /.tour-listing-details__destination-info -->
+                        </div>
+
+                        <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
+                            data-wow-duration="1500ms">
+                            <div class="tour-listing-details__destination-info-title">
+                                <a target="_blank"
+                                    href="https://fareharbor.com/embeds/book/novotours-mx/?full-items=yes"
+                                    class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
+                            </div>
+                        </div>
                     </div><!-- /.tour-listing-details__destination-right -->
                 </div><!-- /.col-xl-8 -->
             </div><!-- /.row -->
@@ -181,19 +190,18 @@
             <div class="col-xl-8">
                 <div class="tour-listing-details__overview">
                     <div class="wow animated fadeIn" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                        <h3 class="tour-listing-details__title tour-listing-details__overview-title">Descripción</h3>
+                        <h3 class="tour-listing-details__title tour-listing-details__overview-title">Description</h3>
                     </div>
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        Es hora de ver y disfrutar lo mejor del viejo y clásico sabor del verdadero tequila mexicano
-                        bienvenidos a después pasear y ver un Poco más de
-                        sus calles, su gente una ciudad con un turismo Cosmopolita una ciudad donde los idiomas , las
-                        costumbres y los visitantes comparten un pedazo de Paraíso.
+                        It's time to see and enjoy the best of the old and classic taste of the true Mexican tequila,
+                        welcome to then stroll and see a little more of its streets, its people, a city with a
+                        cosmopolitan tourism, a city where languages, customs and visitors share a piece of Paradise.
                         <br>
 
-                        Esta mágica aventura termina antes de que el sol se ponga nos embarcamos y navegamos hacia el
-                        fin de la tierra a través de las aguas que bañan la bahía es tiempo de ver y disfrutar de un
-                        increíble atardecer el atardecer que Los Cabos regala al mundo. <br>
+                        This magical adventure ends before the sun sets, we embark and sail to the end of the earth
+                        through the waters that bathe the bay, it is time to see and enjoy an incredible sunset, the
+                        sunset that Los Cabos gives to the world. <br>
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -201,61 +209,63 @@
                         <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                                Incluye
+                                Including
                             </h3>
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Opción catamarán (Oceanus, cabo escape, cabo mar o piratas)</p>
+                                    <p>Catamaran option (Oceanus, Cabo Escape, Cabo Mar or Pirates)</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Botella de agua de cortesía</p>
+                                    <p>Complimentary bottle of water</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Nuevas camionetas modelo con micrófono integrado y equipo de sonido</p>
+                                    <p>New model vans with built-in microphone and sound equipment.</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Transporte redondo</p>
-                                </li>
-
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Cena: Fajitas</p>
+                                    <p>Round transportation</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Guía certificado bilingüe</p>
+                                    <p>Dinner: Fajitas</p>
+                                </li>
+
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Certified bilingual guide</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
                                     <p>
-                                        Visita a Cabo San Lucas y tiempo libre en la ciudad
+                                        Visit to Cabo San Lucas and free time in the city.
                                     </p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Tierra's End, colonia de
-                                        leones marinos y formaciones rocosas)</p>
+                                    <p>Ride to the arch aboard the incredible Crystal Boat (Lands end, sea lion colony
+                                        and rock formations).</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Tiempo de compras</p>
+                                    <p>
+                                        Shopping time
+                                    </p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Música a bordo</p>
+                                    <p>Music on board</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Tequila tasting (Opcional)</p>
+                                    <p>Tequila tasting (Optional)</p>
                                 </li>
 
                             </ul><!-- /.tour-listing-details__included-list-one -->
@@ -263,12 +273,12 @@
                         <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                                No Incluye
+                                No Included
                             </h3>
                             <ul class="tour-listing-details__included-list-two">
                                 <li>
                                     <i class="fas fa-times"></i>
-                                    <p>Propinas</p>
+                                    <p>Tips</p>
                                 </li>
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-5 -->
@@ -279,20 +289,21 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
                             data-wow-duration="1500ms">
-                            <h3 class="tour-listing-details__title tour-listing-details__included-title">Información
-                                Adicional</h3>
+                            <h3 class="tour-listing-details__title tour-listing-details__included-title">
+                                Information Additional
+                            </h3>
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Cena estilo mexicana</p>
+                                    <p>Mexican style dinner</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Barra libre a bordo del catamara</p>
+                                    <p>Open bar on board the catamaran</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Actividad al atardecer</p>
+                                    <p>Sunset activity</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
@@ -305,7 +316,7 @@
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Tiempo de compras</p>
+                                    <p>Shopping time</p>
                                 </li>
                             </ul>
                         </div>
@@ -313,28 +324,28 @@
                         <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                                Recomendaciones
+                                Recommendations
                             </h3>
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Usar Ropa Comóda</p>
+                                    <p>Wearing Comfortable Clothing</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Toalla Para Actividades Acuáticas</p>
+                                    <p>Water Activities Towel</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Gorra o sombrero</p>
+                                    <p>Cap or hat</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Lentes de sol</p>
-                                </li>                            
+                                    <p>Sunglasses</p>
+                                </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Dinero extra para compras</p>
+                                    <p>Extra money for purchases</p>
                                 </li>
                             </ul>
                         </div>
@@ -495,7 +506,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--one">
                                 <span class="icon-credit-card"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Tarjetas débito/crédito</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Debit/credit cards</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
@@ -503,7 +514,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--two">
                                 <span class="icon-parking"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Transporte</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Transportation</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
@@ -511,7 +522,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--three">
                                 <span class="icon-discount"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Precios Accesibles</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Affordable Prices</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
@@ -519,8 +530,13 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--four">
                                 <span class="icon-reception-bell"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Reservaciones</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Reservations</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
+                        </div>
+                        <div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
+                            <a target="_blank"
+                                href="https://fareharbor.com/embeds/book/novotours-mx/?full-items=yes"
+                                class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                     </div>
                 </div>
