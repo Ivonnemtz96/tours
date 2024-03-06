@@ -8,7 +8,7 @@
         <?php
             include('includes/preloader.php');
             include('includes/header.php');
-            include('modules/arco.php');
+            include('modules/en/arco.php');
             include('includes/redes.php'); 
             include('includes/footer.php'); 
         ?>

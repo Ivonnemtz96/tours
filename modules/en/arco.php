@@ -142,7 +142,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/arco/06.jpg" alt="listing-details-carousel">
@@ -166,7 +166,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/arco/07.jpg" alt="listing-details-carousel">
@@ -190,7 +190,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/arco/08.jpg" alt="listing-details-carousel">
@@ -214,7 +214,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/arco/09.jpg" alt="listing-details-carousel">
@@ -238,7 +238,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/arco/10.jpg" alt="listing-details-carousel">
@@ -262,7 +262,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/arco/11.jpg" alt="listing-details-carousel">
@@ -286,7 +286,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/arco/12.jpg" alt="listing-details-carousel">
@@ -310,7 +310,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/arco/13.jpg" alt="listing-details-carousel">
@@ -341,7 +341,7 @@
             <div class="tour-listing-details__destination-row row">
                 <div class="col-xl-4 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
                     <div class="tour-listing-details__destination-left">
-                        <h3 class="tour-listing-details__dastination-title">Tour al Arco</h3>
+                        <h3 class="tour-listing-details__dastination-title">Lands End Clear Boat</h3>
                     </div><!-- /.tour-listing-details__daetination-left -->
                 </div><!-- /.col-xl-4 -->
                 <div class="col-xl-8">
@@ -350,8 +350,8 @@
                             data-wow-duration="1500ms">
                             <span class="icon-clock-1"></span>
                             <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Duración</h4>
-                                <h4 class="tour-listing-details__destination-info-bottom">4 Horas</h4>
+                                <h4 class="tour-listing-details__destination-info-top">Duration</h4>
+                                <h4 class="tour-listing-details__destination-info-bottom">4 Hrs</h4>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
 
@@ -359,8 +359,17 @@
                             data-wow-duration="1500ms">
                             <span class="icon-location-1"></span>
                             <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Lugar</h4>
+                                <h4 class="tour-listing-details__destination-info-top">Location</h4>
                                 <h4 class="tour-listing-details__destination-info-bottom">Cabo San Lucas</h4>
+                            </div>
+                        </div>
+
+                        <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
+                            data-wow-duration="1500ms">
+                            <div class="tour-listing-details__destination-info-title">
+                                <a target="_blank"
+                                    href="https://fareharbor.com/embeds/book/novotours-mx/items/466004/?full-items=yes&flow=969771"
+                                    class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
                     </div><!-- /.tour-listing-details__destination-right -->
@@ -378,19 +387,21 @@
                     </div>
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        Es un increíble paseo rumbo al famoso arco de Cabo San Lucas en una de las clásicas lanchas de
-                        fondo de cristal. En el trayecto se podrá ver la colonia de lobos marinos y las maravillosas
-                        formaciones rocosas.<br>
+                        This is an incredible ride to the famous Cabo San Lucas arch in one of the classic glass-bottom
+                        boats.
+                        glass bottom boats. On the way you will be able to see the sea lion colony and the marvelous
+                        rock formations.<br>
 
-                        Si así lo quieres, tendrás oportunidad de bajar a la playa enigmática Playa del Amor y cruzar a
-                        la Playa del Divorcio que da al Pacífico. Disfrutarás de la playa y de la naturaleza que enmarca
-                        nuestra bahía.
+                        If you wish, you will have the opportunity to go down to the enigmatic Playa del Amor beach and
+                        cross over to the Playa del Divorcio
+                        the Divorce Beach that overlooks the Pacific. You will enjoy the beach and the nature that
+                        frames our bay.
                         <br>
 
-                        Te llevaremos al Hacienda Tequila, una reconocida tienda de marca degustarás y aprenderás un
-                        poco más acerca de los mejores tequilas y otros licores típicos de nuestro México
-                        Recorre la zona centro de CSL y sus mercados de artesanías.
-
+                        We will take you to Hacienda Tequila, a well known brand name store where you will taste and
+                        learn a little more about the
+                        about the best tequilas and other typical liquors of our Mexico.
+                        Tour the downtown area of CSL and its handicraft markets.
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -399,29 +410,29 @@
                         <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                                Incluye
+                                Including
                             </h3>
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Paseo por la bahía a bordo de lanchas con fondo de cristal </p>
+                                    <p>Bay tour on board glass-bottom boats </p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Tiempo en la Playa del Amor (opcional)</p>
+                                    <p>Time at Playa del Amor (optional)</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Tiempo de compras</p>
+                                    <p>Shopping time</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Degustación de tequila (opcional)</p>
+                                    <p>Tequila tasting (optional)</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Transportación redonda desde el hotel</p>
+                                    <p>Round trip transportation from the hotel</p>
                                 </li>
 
                                 <!-- <li>
@@ -454,20 +465,20 @@
                         <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                                No Incluye
+                                Not Included
                             </h3>
                             <ul class="tour-listing-details__included-list-two">
                                 <li>
                                     <i class="fas fa-times"></i>
-                                    <p>Propinas</p>
+                                    <p>Tips</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-times"></i>
-                                    <p>Comida</p>
+                                    <p>Lunch</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-times"></i>
-                                    <p>Impuesto muelle: 1 dólar</p>
+                                    <p>Dock tax: 1 dollar</p>
                                 </li>
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-5 -->
@@ -654,7 +665,12 @@
                                 <span class="icon-reception-bell"></span>
                                 <h4 class="tour-listing-details__amenities-content-title">Reservaciones</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
-                        </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                        </div>
+                        <div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
+                            <a target="_blank"
+                                href="https://fareharbor.com/embeds/book/novotours-mx/items/466004/?full-items=yes&flow=969771"
+                                class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
+                        </div>
                     </div>
                 </div>
             </div><!-- /.col-xl-8 -->
