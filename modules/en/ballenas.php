@@ -119,7 +119,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div><!-- /.tour-listing-details__top-carousel-item item -->
-            <div  class="tour-listing-details__top-carousel-item item">
+            <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/grandes/ballenas-2.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
@@ -149,7 +149,7 @@
             <div class="tour-listing-details__destination-row row">
                 <div class="col-xl-4 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
                     <div class="tour-listing-details__destination-left">
-                        <h3 class="tour-listing-details__dastination-title">Avistamiento de ballenas</h3>
+                        <h3 class="tour-listing-details__dastination-title">Whale Watching</h3>
                     </div><!-- /.tour-listing-details__daetination-left -->
                 </div><!-- /.col-xl-4 -->
                 <div class="col-xl-8">
@@ -158,16 +158,25 @@
                             data-wow-duration="1500ms">
                             <span class="icon-clock-1"></span>
                             <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Duración</h4>
-                                <h4 class="tour-listing-details__destination-info-bottom">4 Horas</h4>
+                                <h4 class="tour-listing-details__destination-info-top">Duration</h4>
+                                <h4 class="tour-listing-details__destination-info-bottom">4 Hrs</h4>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
                         <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
                             data-wow-duration="1500ms">
                             <span class="icon-location-1"></span>
                             <div class="tour-listing-details__destination-info-title">
-                                <h4 class="tour-listing-details__destination-info-top">Lugar</h4>
+                                <h4 class="tour-listing-details__destination-info-top">Location</h4>
                                 <h4 class="tour-listing-details__destination-info-bottom">Cabo San Lucas</h4>
+                            </div>
+                        </div>
+
+                        <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
+                            data-wow-duration="1500ms">
+                            <div class="tour-listing-details__destination-info-title">
+                                <a target="_blank"
+                                    href="https://fareharbor.com/embeds/book/novotours-mx/items/465997/?full-items=yes&flow=969771"
+                                    class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
                     </div><!-- /.tour-listing-details__destination-right -->
@@ -185,17 +194,18 @@
                     </div>
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        Este fantástico tour estacional (Diciembre-Abril) es un increíble espectáculo natural en el que
-                        las ballenas jorobadas buscan aguas más cálidas que las árticas para su proceso reproductivo y
-                        se quedan en nuestras costas para que podamos disfrutarlas y admirarlas.<br>
+                        This fantastic seasonal tour (December-April) is an incredible natural spectacle in which
+                        humpback whales seek warmer waters than the arctic for their reproductive process and stay on
+                        our shores for us to
+                        and stay in our coasts so we can enjoy and admire them.<br>
 
-                        El tour es completamente "guiado" por las ballenas no hay un lugar especifico donde verlas y
-                        esto es lo emocionante ellas emergen en cualquier momento esto hace que esta actividad sea única
-                        y a la gente le encante.<br>
+                        The tour is completely "guided" by the whales, there is no specific place to see them and this
+                        is the exciting thing about it, they emerge at any time which makes this activity unique and
+                        people love it.<br>
 
 
-                        Para finalizar la experiencia tendremos tiempo libre para realizar compras en el centro de Cabo
-                        San Lucas y degustar las mejores marcas de tequila.
+                        At the end of the experience we will have free time to shop in downtown Cabo San Lucas and taste
+                        the best brands of tequila.
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -203,53 +213,52 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
                             data-wow-duration="1500ms">
-                            <h3 class="tour-listing-details__title tour-listing-details__included-title">Incluye</h3>
+                            <h3 class="tour-listing-details__title tour-listing-details__included-title">Including</h3>
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Cabo escape o piratas: Desayuno a bordo, café, waffles, huevos revueltosm
-                                        tostadas, chilaquies, frutas y jugos.</p>
+                                    <p>Cabo escape or pirates: Breakfast on board, coffee, waffles, scrambled eggs,
+                                        toast, chilaquies, fruits and juices.</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Barra libre a bordo del barco</p>
+                                    <p>Open bar on board the ship</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Nuevas camionetas modelo con micrófono integrado y equipo de sonido</p>
+                                    <p>New model vans with built-in microphone and sound equipment</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Transporte redondo</p>
-                                </li>
-
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hasta el Arco en Catamarán (Lands end, colonia de leones marinos y
-                                        formaciones rocosas)</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Avistamiento de ballenas en catamarán o similar</p>
+                                    <p>Round transportation</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Guía certificado bilingüe</p>
+                                    <p>Catamaran ride to the Arco (Lands end, sea lion colony and rock formations).</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Whale watching by catamaran or similar.</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Oceanus: Servicio de café y pan</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Pez Gato: burritos, fruit salad, open bar and coffee</p>
+                                    <p>Certified bilingual guide</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Tiempo de compras</p>
+                                    <p>Oceanus: Coffee and bread service</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Pez Gato: burritos, macedonia, barra libre y café</p>
+                                </li>
+
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Shoping Time</p>
                                 </li>
 
                             </ul><!-- /.tour-listing-details__included-list-one -->
@@ -259,7 +268,7 @@
                 </div>
 
                 <div class="tour-listing-details__included">
-                    <h3 class="tour-listing-details__title tour-listing-details__included-title">Información adicional
+                    <h3 class="tour-listing-details__title tour-listing-details__included-title">Additional information
                     </h3>
                     <div class="row">
                         <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
@@ -267,23 +276,23 @@
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Llevar ropa cómoda</p>
+                                    <p>Wear comfortable clothing</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Toalla en actividades acuáticas</p>
+                                    <p>Towel in aquatic activities</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Gorra o sombrero</p>
+                                    <p>Cap or hat</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Lentes de sol</p>
+                                    <p>Sunglasses</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Dinero - Extra (Para Compras)</p>
+                                    <p>Money - Extra (For Purchases)</p>
                                 </li>
                             </ul>
                         </div>
@@ -441,7 +450,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--one">
                                 <span class="icon-credit-card"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Tarjetas débito/crédito</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Debit/credit cards</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
@@ -449,7 +458,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--two">
                                 <span class="icon-parking"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Transporte</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Transportation</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
@@ -457,7 +466,7 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--three">
                                 <span class="icon-discount"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Precios Accesibles</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Affordable Prices</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
@@ -465,8 +474,13 @@
                             <div
                                 class="tour-listing-details__amenities-content tour-listing-details__amenities-content--four">
                                 <span class="icon-reception-bell"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Reservaciones</h4>
+                                <h4 class="tour-listing-details__amenities-content-title">Reservations</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
+                        </div>
+                        <div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
+                            <a target="_blank"
+                                href="https://fareharbor.com/embeds/book/novotours-mx/items/465997/?full-items=yes&flow=969771"
+                                class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                     </div>
                 </div>
