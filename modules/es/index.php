@@ -324,7 +324,11 @@
                                         <p class="tour-listing__card-day-text text-small">4 horas</p>
                                     </div><!-- /.tour-listing__card-day -->
                                 </div><!-- /.tour-listing__card-bottom-left -->
-                            </div><!-- /.tour-listing__card-bottom -->
+                            </div>
+                            <div class="tour-listing__card-divider"></div>
+                        </div>
+                        <div class="tour-listing__card-bottom mt-20 text-center">
+                            <a href="arco.php" class="trevlo-btn" style="padding: 12px 15px;"><span>Ir a tour</span></a>
                         </div><!-- /.tour-listing__card-inner-content -->
                     </div><!-- /.tour-listing__card-content -->
                 </div>
@@ -389,7 +393,12 @@
                                         <p class="tour-listing__card-people-text text-small">5+</p>
                                     </div><!-- /.tour-listing__card-people -->
                                 </div><!-- /.tour-listing__card-bottom-left -->
-                            </div><!-- /.tour-listing__card-bottom -->
+                            </div>
+                            <!-- /.tour-listing__card-bottom -->
+                        </div>
+                        <div class="tour-listing__card-bottom mt-20 text-center">
+                            <a href="todosSantos.php" class="trevlo-btn" style="padding: 12px 15px;"><span>Ir a
+                                    tour</span></a>
                         </div><!-- /.tour-listing__card-inner-content -->
                     </div><!-- /.tour-listing__card-content -->
                 </div><!-- /.tour-listing__card -->
@@ -397,7 +406,7 @@
 
             <div class="item">
                 <div class="tour-listing__card">
-                    <a href="tour1.php" class="tour-listing__card-image-box">
+                    <a href="cabos.php" class="tour-listing__card-image-box">
                         <img src="assets/images/tours/47.jpg" alt="Novo Tours" class="tour-listing__card-image">
                         <div class="tour-listing__card-btn-group">
                         </div><!-- /.tour-listing__card-btn-group -->
@@ -458,6 +467,10 @@
                                     </div><!-- /.tour-listing__card-people -->
                                 </div><!-- /.tour-listing__card-bottom-left -->
                             </div><!-- /.tour-listing__card-bottom -->
+                        </div>
+                        <div class="tour-listing__card-bottom mt-20 text-center">
+                            <a href="cabos.php" class="trevlo-btn" style="padding: 12px 15px;"><span>Ir a
+                                    tour</span></a>
                         </div><!-- /.tour-listing__card-inner-content -->
                     </div><!-- /.tour-listing__card-content -->
                 </div><!-- /.tour-listing__card -->
@@ -516,7 +529,12 @@
                                     </div><!-- /.tour-listing__card-day -->
 
                                 </div><!-- /.tour-listing__card-bottom-left -->
-                            </div><!-- /.tour-listing__card-bottom -->
+                            </div>
+                            <!-- /.tour-listing__card-bottom -->
+                        </div>
+                        <div class="tour-listing__card-bottom mt-20 text-center">
+                            <a href="ballenas.php" class="trevlo-btn" style="padding: 12px 15px;"><span>Ir a
+                                    tour</span></a>
                         </div><!-- /.tour-listing__card-inner-content -->
                     </div><!-- /.tour-listing__card-content -->
                 </div><!-- /.tour-listing__card -->
@@ -576,6 +594,10 @@
                                     </div>
                                 </div><!-- /.tour-listing__card-bottom-left -->
                             </div><!-- /.tour-listing__card-bottom -->
+                        </div>
+                        <div class="tour-listing__card-bottom mt-20 text-center">
+                            <a href="laPaz.php" class="trevlo-btn" style="padding: 12px 15px;"><span>Ir a
+                                    tour</span></a>
                         </div><!-- /.tour-listing__card-inner-content -->
                     </div><!-- /.tour-listing__card-content -->
                 </div><!-- /.tour-listing__card -->
@@ -638,6 +660,10 @@
                                     </div><!-- /.tour-listing__card-day -->
                                 </div><!-- /.tour-listing__card-bottom-left -->
                             </div><!-- /.tour-listing__card-bottom -->
+                        </div>
+                        <div class="tour-listing__card-bottom mt-20 text-center">
+                            <a href="sunset.php" class="trevlo-btn" style="padding: 12px 15px;"><span>Ir a
+                                    tour</span></a>
                         </div><!-- /.tour-listing__card-inner-content -->
                     </div><!-- /.tour-listing__card-content -->
                 </div><!-- /.tour-listing__card -->
@@ -697,6 +723,10 @@
                                     </div><!-- /.tour-listing__card-day -->
                                 </div><!-- /.tour-listing__card-bottom-left -->
                             </div><!-- /.tour-listing__card-bottom -->
+                        </div>
+                        <div class="tour-listing__card-bottom mt-20 text-center">
+                            <a href="clearBoat.php" class="trevlo-btn" style="padding: 12px 15px;"><span>Ir a
+                                    tour</span></a>
                         </div><!-- /.tour-listing__card-inner-content -->
                     </div><!-- /.tour-listing__card-content -->
                 </div><!-- /.tour-listing__card -->
@@ -755,6 +785,10 @@
                                     </div><!-- /.tour-listing__card-day -->
                                 </div><!-- /.tour-listing__card-bottom-left -->
                             </div><!-- /.tour-listing__card-bottom -->
+                        </div>
+                        <div class="tour-listing__card-bottom mt-20 text-center">
+                            <a href="snorkel.php" class="trevlo-btn" style="padding: 12px 15px;"><span>Ir a
+                                    tour</span></a>
                         </div><!-- /.tour-listing__card-inner-content -->
                     </div><!-- /.tour-listing__card-content -->
                 </div><!-- /.tour-listing__card -->
@@ -813,7 +847,12 @@
                                     </div><!-- /.tour-listing__card-day -->
 
                                 </div><!-- /.tour-listing__card-bottom-left -->
-                            </div><!-- /.tour-listing__card-bottom -->
+                            </div>
+                            <!-- /.tour-listing__card-bottom -->
+                        </div>
+                        <div class="tour-listing__card-bottom mt-20 text-center">
+                            <a href="artWalk.php" class="trevlo-btn" style="padding: 12px 15px;"><span>Ir a
+                                    tour</span></a>
                         </div><!-- /.tour-listing__card-inner-content -->
                     </div><!-- /.tour-listing__card-content -->
                 </div><!-- /.tour-listing__card -->
@@ -888,6 +927,10 @@
 
                                 </div><!-- /.tour-listing__card-bottom-left -->
                             </div><!-- /.tour-listing__card-bottom -->
+                        </div>
+                        <div class="tour-listing__card-bottom mt-20 text-center">
+                            <a href="sanLucas.php" class="trevlo-btn" style="padding: 12px 15px;"><span>Ir a
+                                    tour</span></a>
                         </div><!-- /.tour-listing__card-inner-content -->
                     </div><!-- /.tour-listing__card-content -->
                 </div><!-- /.tour-listing__card -->
@@ -926,7 +969,8 @@
                             <h3 class="benefit-one__box__title">Reservaciones al instante</h3>
                         </div><!-- /.benefit-box -->
                     </div>
-                    <a href="https://fareharbor.com/embeds/book/novotours-mx/?full-items=yes" class="trevlo-btn"><span>Reservar Tour</span></a>
+                    <a href="https://fareharbor.com/embeds/book/novotours-mx/?full-items=yes"
+                        class="trevlo-btn"><span>Reservar Tour</span></a>
                 </div>
             </div>
             <div class="col-lg-7 wow fadeInRight" data-wow-delay="200ms">
