@@ -5,7 +5,8 @@
                 <ul class="topbar-one__info">
                     <li class="topbar-one__info-item">
                         <span class="topbar-one__info-icon icon-envelope"></span>
-                        <a style="color: #fff;" href="mailto:info@novotoursbcs.com" class="topbar-one__info-text">info@novotoursbcs.com</a>
+                        <a style="color: #fff;" href="mailto:info@novotoursbcs.com"
+                            class="topbar-one__info-text">info@novotoursbcs.com</a>
                     </li>
                 </ul><!-- /.topbar-one__info -->
                 <ul class="topbar-one__info topbar-one__info--right">
@@ -18,12 +19,13 @@
             <div class="topbar-one__right">
                 <ul class="topbar-one__social">
                     <li class="topbar-one__social-item">
-                        <a target="_blank" href="https://www.facebook.com/novotoursbc" class="topbar-one__social-link"><i
-                                class="fab fa-facebook-f"></i></a>
+                        <a target="_blank" href="https://www.facebook.com/novotoursbc"
+                            class="topbar-one__social-link"><i class="fab fa-facebook-f"></i></a>
                     </li>
                     <li class="topbar-one__social-item">
-                        <a target="_blank" href="https://www.instagram.com/novotoursloscabos/?igshid=NGVhN2U2NjQ0Yg%3D%3D" class="topbar-one__social-link"><i
-                                class="fab fa-instagram"></i></a>
+                        <a target="_blank"
+                            href="https://www.instagram.com/novotoursloscabos/?igshid=NGVhN2U2NjQ0Yg%3D%3D"
+                            class="topbar-one__social-link"><i class="fab fa-instagram"></i></a>
                     </li>
                 </ul><!-- /.topbar-one__social -->
             </div><!-- /.topbar-one__right -->
@@ -58,9 +60,16 @@
                         <li>
                             <a href="contact.php">Contacto</a>
                         </li>
+
+                        <li>
+                        <a href="https://fareharbor.com/embeds/book/novotours-mx/?full-items=yes" class="trevlo-btn" style="padding: 12px 15px !important;"><span style="color: #fff;">Reservar Tour</span></a>
+                        </li>
+
                         <li>
                             <a href="?lang=en"><img style="width: 1.5rem;" src="assets/images/eng.png" alt=""></a>
-                        </li><li>
+                        </li>
+
+                        <li>
                             <a href="?lang=es"><img style="width: 1.5rem;" src="assets/images/esp.png" alt=""></a>
                         </li>
                     </ul>

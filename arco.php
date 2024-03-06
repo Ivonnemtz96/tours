@@ -17,6 +17,7 @@
         ?>
     </div>
     <?
+        include('modules/'.$lenguaje.'/extras.php'); 
         include('includes/scripts.php');
     ?>
 </body>

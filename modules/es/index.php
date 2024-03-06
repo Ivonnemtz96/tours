@@ -792,7 +792,7 @@
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
                         <h3 class="tour-listing__card-title"><a href="artWalk.php">
-                                San Jose Art Walk
+                                San José Art Walk
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
                             Descubre la rica escena artística local mientras paseas por encantadoras calles empedradas.
@@ -802,7 +802,7 @@
                             <!-- /.tour-listing__card-review-box -->
                             <div class="tour-listing__card-location-box">
                                 <span class="icon-location-1"></span>
-                                <p class="tour-listing__card-location-text text-small">San Jose del Cabo</p>
+                                <p class="tour-listing__card-location-text text-small">San José del Cabo</p>
                             </div><!-- /.tour-listing__card-location-box -->
                             <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                             <div class="tour-listing__card-bottom">
