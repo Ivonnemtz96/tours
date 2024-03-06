@@ -58,6 +58,11 @@
                         <li>
                             <a href="contact.php">Contacto</a>
                         </li>
+                        <li>
+                            <a href="?lang=en"><img style="width: 1.5rem;" src="assets/images/eng.png" alt=""></a>
+                        </li><li>
+                            <a href="?lang=es"><img style="width: 1.5rem;" src="assets/images/esp.png" alt=""></a>
+                        </li>
                     </ul>
                 </nav><!-- /.main-header__nav -->
             </div><!-- /.main-header__left -->

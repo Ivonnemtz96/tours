@@ -1,3 +1,6 @@
+<?
+    include('indexController.php');   
+?>
 <!DOCTYPE html>
 <html lang="en">
 <?php
@@ -7,10 +10,10 @@
     <div class="page-wrapper">
         <?php
             include('includes/preloader.php');
-            include('includes/header.php');
-            include('modules/artWalk.php');
+            include('modules/'.$lenguaje.'/header.php');
+            include('modules/'.$lenguaje.'/artWalk.php');
             include('includes/redes.php'); 
-            include('includes/footer.php'); 
+            include('modules/'.$lenguaje.'/footer.php'); 
         ?>
     </div>
     <?
