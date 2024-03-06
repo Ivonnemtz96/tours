@@ -17,7 +17,7 @@
             </div>
             <div class="container">
                 <div class="main-slider-one__content">
-                    <h5 class="main-slider-one__sub-title">Vive grandes aventuras<img
+                    <h5 class="main-slider-one__sub-title">Experience great adventures<img
                             src="assets/images/shapes/slider-1-shape-1.png" alt="Novo Tours"></h5>
                     <h3 class="main-slider-one__title">Novo Tours<img src="assets/images/shapes/slider-1-shape-2.png"
                             alt="Novo Tours"></h3>
@@ -29,9 +29,9 @@
             </div>
             <div class="container">
                 <div class="main-slider-one__content">
-                    <h5 class="main-slider-one__sub-title">Los mejores tours <img
+                    <h5 class="main-slider-one__sub-title">The best tours <img
                             src="assets/images/shapes/slider-1-shape-1.png" alt="Novo Tours"></h5>
-                    <h3 class="main-slider-one__title">No te los puedes perder <img
+                    <h3 class="main-slider-one__title">You can't miss them <img
                             src="assets/images/shapes/slider-1-shape-2.png" alt="Novo Tours"></h3>
                 </div>
             </div>
@@ -43,7 +43,7 @@
                 <div class="main-slider-one__content">
                     <h5 class="main-slider-one__sub-title">Los Cabos <img
                             src="assets/images/shapes/slider-1-shape-1.png" alt="Novo Tours"></h5>
-                    <h3 class="main-slider-one__title">Explora nuevas aventuras<img
+                    <h3 class="main-slider-one__title">Explore new adventures<img
                             src="assets/images/shapes/slider-1-shape-2.png" alt="Novo Tours"></h3>
                 </div>
             </div>
@@ -53,9 +53,9 @@
             <div class="main-slider-one__image" style="background-image: url(assets/images/backgrounds/06.jpg);"></div>
             <div class="container">
                 <div class="main-slider-one__content">
-                    <h5 class="main-slider-one__sub-title">Los destinos más visitados <img
+                    <h5 class="main-slider-one__sub-title">The most visited destinations <img
                             src="assets/images/shapes/slider-1-shape-1.png" alt="Novo Tours"></h5>
-                    <h3 class="main-slider-one__title">Conoce Baja California Sur<img
+                    <h3 class="main-slider-one__title">Get to know Baja California Sur<img
                             src="assets/images/shapes/slider-1-shape-2.png" alt="Novo Tours"></h3>
                 </div>
             </div>
@@ -67,7 +67,7 @@
                 <div class="main-slider-one__content">
                     <h5 class="main-slider-one__sub-title">Los Cabos <img
                             src="assets/images/shapes/slider-1-shape-1.png" alt="Novo Tours"></h5>
-                    <h3 class="main-slider-one__title">Explora nuevas aventuras<img
+                    <h3 class="main-slider-one__title">Explore new adventures<img
                             src="assets/images/shapes/slider-1-shape-2.png" alt="Novo Tours"></h3>
                 </div>
             </div>
@@ -86,7 +86,7 @@
             <div class="col-xl-3 col-md-8 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="sec-title text-left">
 
-                    <p class="sec-title__tagline">Disfruta de Los Cabos con</p>
+                    <p class="sec-title__tagline">Enjoy Los Cabos with</p>
 
                     <h2 class="sec-title__title texto-shadow">Novo Tours</h2>
                     <!-- /.sec-title__title -->
@@ -134,7 +134,7 @@
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
                                 <h4 class="destination-one__card-title"><a href="ballenas.php">
-                                        Avistamiento de ballenas</a></h4>
+                                        Whale watching</a></h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--round -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
                     </div><!-- /.destination-one__card-img-box -->
@@ -156,7 +156,7 @@
                 </div><!-- /.destination-one__card -->
             </div>
             <div class="col-md-12 text-center wow animated fadeInUp" data-wow-delay="0.5s">
-                <a href="index.php#tours" class="trevlo-btn"><span>Ver todos los tours</span></a>
+                <a href="index.php#tours" class="trevlo-btn"><span>View all tours</span></a>
             </div>
         </div><!-- /.row -->
     </div>
@@ -193,8 +193,8 @@
                                 <div class="about-one__counter"
                                     style="background-image: url(assets/images/shapes/about-1-shape-4.png);">
                                     <div class="about-one__counter__number count-box"><span
-                                            class="count-text"></span>¡Reserva</div>
-                                    <p class="about-one__counter__title">Ahora!</p>
+                                            class="count-text"></span>Book</div>
+                                    <p class="about-one__counter__title">Now!</p>
                                 </div>
                             </div>
                         </div>
@@ -207,31 +207,33 @@
 
                         <p class="sec-title__tagline">Novo Tours</p><!-- /.sec-title__tagline -->
 
-                        <h2 class="sec-title__title texto-shadow">Deja que el viaje sea tan emocionante como el destino
+                        <h2 class="sec-title__title texto-shadow">
+                            Let the journey be as exciting as the destination
                         </h2>
                         <!-- /.sec-title__title -->
                     </div><!-- /.sec-title -->
                     <!-- /.sec-title -->
                     <p class="about-one__content__text ">
-                        Contamos con guías altamente capacitados y conocedores, apasionados por compartir la riqueza
-                        cultural y natural de cada destino, también contamos con años de experiencia en la industria del
-                        turismo, brindando a nuestros clientes un conocimiento profundo de destinos excepcionales y la
-                        capacidad de crear experiencias únicas.
+                        We have highly trained and knowledgeable guides, passionate about sharing the, we also have
+                        years of experience in the
+                        tourism industry, providing our clients with a deep knowledge of exceptional destinations and
+                        the ability to create unique experiences.
                     </p>
                     <div class="about-one__box">
                         <div class="about-one__box__icon"><span class="icon-safety"></span></div>
-                        <h3 class="about-one__box__title ">Guías<br> Certificados</h3>
-                        <p class="about-one__box__text ">Contamos con un equipo de guías profesionales y
-                            certificados. La
-                            experiencia es su mejor credencial.</p>
+                        <h3 class="about-one__box__title ">Certified<br> Guides</h3>
+                        <p class="about-one__box__text ">
+                            We have a team of professional and certified guides. Experience
+                            is your best credential.
+                        </p>
                     </div><!-- /.about-box -->
                     <div class="about-one__box">
                         <div class="about-one__box__icon"><span class="icon-friendly-Guide"></span></div>
-                        <h3 class="about-one__box__title ">Compañía Mexicana</h3>
-                        <p class="about-one__box__text ">Empresa del sur de California, fundada y operada por
-                            profesionales mexicanos.</p>
+                        <h3 class="about-one__box__title ">Mexican Company</h3>
+                        <p class="about-one__box__text ">
+                            Southern California company, founded and operated by Mexican professionals.</p>
                     </div><!-- /.about-box -->
-                    <a href="index.php#tours" class="trevlo-btn"><span>Ver Tours</span></a>
+                    <a href="index.php#tours" class="trevlo-btn"><span>View Tours</span></a>
                 </div><!-- /.about-four__content -->
             </div><!-- /.col-xl-6 col-lg-6 -->
         </div><!-- /.row -->
@@ -243,8 +245,8 @@
     style="background-image: url(assets/images/resources/06.png); background-repeat:no-repeat;background-position: center;">
     <div class="container">
         <div class="sec-title text-center">
-            <p class="sec-title__tagline">Atrévete a disfrutar las mejores experiencias</p>
-            <h2 class="sec-title__title">Todos nuestros Tours</h2>
+            <p class="sec-title__tagline">Dare to enjoy the best experiences</p>
+            <h2 class="sec-title__title">All our Tours</h2>
         </div>
         <div class="tour-listing-one__carousel trevlo-owl__carousel trevlo-owl__carousel--basic-nav trevlo-owl__carousel--with-shadow owl-theme owl-carousel"
             data-owl-options='{
@@ -303,12 +305,12 @@
                         </div>
                         <h3 class="tour-listing__card-title">
                             <a href="arco.php">
-                                Tour al Arco
+                                Tour to the Arch
                             </a>
                         </h3>
                         <p class="tour-listing__card-text text-small">
-                            Conoce uno de los atractivos turísticos más visitados en Los Cabos, hermosas playas y
-                            deslumbrantes atardeceres.<br><br>
+                            Meet one of the most visited tourist attractions in Los Cabos, beautiful beaches and
+                            dazzling sunsets.<br><br>
                         </p>
                         <div class="tour-listing__card-inner-content">
                             <!-- /.tour-listing__card-review-box -->
@@ -321,7 +323,7 @@
                                 <div class="tour-listing__card-bottom-left">
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
-                                        <p class="tour-listing__card-day-text text-small">4 horas</p>
+                                        <p class="tour-listing__card-day-text text-small">4 Hrs</p>
                                     </div><!-- /.tour-listing__card-day -->
                                 </div><!-- /.tour-listing__card-bottom-left -->
                             </div><!-- /.tour-listing__card-bottom -->
@@ -368,8 +370,8 @@
                             </a>
                         </h3>
                         <p class="tour-listing__card-text text-small">
-                            No puedes irte de Baja California Sur, sin conocer el pueblo mágico de Todos Santos y
-                            conocer sobre su historia y cultura que tiene que ofrecer.
+                            You can't leave Baja California Sur without visiting the magical town of Todos Santos and
+                            learning about its history and culture.
                         </p>
                         <div class="tour-listing__card-inner-content">
                             <!-- /.tour-listing__card-review-box -->
@@ -382,7 +384,7 @@
                                 <div class="tour-listing__card-bottom-left">
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
-                                        <p class="tour-listing__card-day-text text-small">6 horas</p>
+                                        <p class="tour-listing__card-day-text text-small">6 Hrs</p>
                                     </div><!-- /.tour-listing__card-day -->
                                     <div class="tour-listing__card-people">
                                         <span class="icon-Duration"></span>
@@ -433,11 +435,11 @@
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
                         <h3 class="tour-listing__card-title"><a href="cabos.php">
-                                Tour a Los Dos Cabos & Visita al Arco
+                                Two Capes Tour & Arch Visit
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
-                            Te llevamos a conocer los dos Cabos: San Lucas y San José en un solo día, también vamos al
-                            Arco en las lanchas de cristal <br><br>
+                            We take you to know the two Cabos: San Lucas and San Jose in a single day, we also go to the
+                            Arch on the glass boats <br><br>
                         </p>
                         <div class="tour-listing__card-inner-content">
                             <!-- /.tour-listing__card-review-box -->
@@ -450,7 +452,7 @@
                                 <div class="tour-listing__card-bottom-left">
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
-                                        <p class="tour-listing__card-day-text text-small">6 horas</p>
+                                        <p class="tour-listing__card-day-text text-small">6 Hrs</p>
                                     </div><!-- /.tour-listing__card-day -->
                                     <div class="tour-listing__card-people">
                                         <span class="icon-Duration"></span>
@@ -495,11 +497,11 @@
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
                         <h3 class="tour-listing__card-title"><a href="ballenas.php">
-                                Avistamiento de Ballenas
+                                Whale Watching
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
-                            Embárcate en una aventura emocionante con nuestro tour de avistamiento de ballenas, donde la
-                            majestuosidad de estos gigantes del océano cobra vida. <br>
+                            Embark on an exciting adventure with our whale watching tour, where the giants comes to
+                            life. <br>
                         </p>
                         <div class="tour-listing__card-inner-content">
                             <!-- /.tour-listing__card-review-box -->
@@ -512,7 +514,7 @@
                                 <div class="tour-listing__card-bottom-left">
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
-                                        <p class="tour-listing__card-day-text text-small">6 horas</p>
+                                        <p class="tour-listing__card-day-text text-small">6 Hrs</p>
                                     </div><!-- /.tour-listing__card-day -->
 
                                 </div><!-- /.tour-listing__card-bottom-left -->
@@ -558,8 +560,8 @@
                                 La Paz, Balandra
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
-                            Explora la belleza de La Paz con nuestro tour destacado en la icónica playa Balandra.
-                            Descubre aguas turquesas, arenas blancas y la serenidad de este paraíso costero.
+                            Explore the beauty of La Paz with our featured tour of the iconic Balandra Beach.
+                            Discover turquoise waters, white sands and the serenity of this coastal paradise.
                         </p>
                         <div class="tour-listing__card-inner-content">
                             <!-- /.tour-listing__card-review-box -->
@@ -572,7 +574,7 @@
                                 <div class="tour-listing__card-bottom-left">
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
-                                        <p class="tour-listing__card-day-text text-small">10 horas</p>
+                                        <p class="tour-listing__card-day-text text-small">10 Hrs</p>
                                     </div>
                                 </div><!-- /.tour-listing__card-bottom-left -->
                             </div><!-- /.tour-listing__card-bottom -->
@@ -620,8 +622,8 @@
                                 Sunset & Tasting Plus
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
-                            Embárcate en un tour único en Los Cabos, donde los atardeceres deslumbrantes se mezclan con
-                            exquisitas degustaciones. <br><br><br>
+                            Embark on a unique tour in Los Cabos, where dazzling sunsets mingle with exquisite tastings.
+                            <br><br><br>
                         </p>
                         <div class="tour-listing__card-inner-content">
                             <!-- /.tour-listing__card-review-box -->
@@ -634,7 +636,7 @@
                                 <div class="tour-listing__card-bottom-left">
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
-                                        <p class="tour-listing__card-day-text text-small">4 horas</p>
+                                        <p class="tour-listing__card-day-text text-small">4 Hrs</p>
                                     </div><!-- /.tour-listing__card-day -->
                                 </div><!-- /.tour-listing__card-bottom-left -->
                             </div><!-- /.tour-listing__card-bottom -->
@@ -675,12 +677,11 @@
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
                         <h3 class="tour-listing__card-title"><a href="clearBoat.php">
-                                Tour al Arco en Lancha Transparente de Cristal
+                                Arch Tour in a Transparent Glass Boat
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
-                            Embárcate en una experiencia única con nuestro emocionante tour en bote transparente. Este
-                            viaje te sumerge en las maravillas del mundo submarino mientras flotas sobre aguas
-                            cristalinas.
+                            Embark on a unique experience with our exciting transparent boat tour. This
+                            immerses you in the wonders of the underwater world as you float over crystal clear waters.
                         </p>
                         <div class="tour-listing__card-inner-content">
                             <!-- /.tour-listing__card-review-box -->
@@ -693,7 +694,7 @@
                                 <div class="tour-listing__card-bottom-left">
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
-                                        <p class="tour-listing__card-day-text text-small">4 horas</p>
+                                        <p class="tour-listing__card-day-text text-small">4 Hrs</p>
                                     </div><!-- /.tour-listing__card-day -->
                                 </div><!-- /.tour-listing__card-bottom-left -->
                             </div><!-- /.tour-listing__card-bottom -->
@@ -734,11 +735,11 @@
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
                         <h3 class="tour-listing__card-title"><a href="snorkel.php">
-                                Snorkel & Tour San Lucas
+                                Snorkel & San Lucas Tour
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
-                            Explora las cristalinas aguas marinas, descubre la asombrosa vida submarina y sumérgete en
-                            la belleza del océano. <br><br>
+                            Explore the crystal clear marine waters, discover the amazing underwater life and immerse
+                            yourself in the beauty of the ocean. <br><br>
                         </p>
                         <div class="tour-listing__card-inner-content">
                             <!-- /.tour-listing__card-review-box -->
@@ -751,7 +752,7 @@
                                 <div class="tour-listing__card-bottom-left">
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
-                                        <p class="tour-listing__card-day-text text-small">5 horas</p>
+                                        <p class="tour-listing__card-day-text text-small">5 Hrs</p>
                                     </div><!-- /.tour-listing__card-day -->
                                 </div><!-- /.tour-listing__card-bottom-left -->
                             </div><!-- /.tour-listing__card-bottom -->
@@ -795,7 +796,7 @@
                                 San Jose Art Walk
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
-                            Descubre la rica escena artística local mientras paseas por encantadoras calles empedradas.
+                            Discover the rich local art scene as you stroll through charming cobblestone streets.
                             <br><br><br>
                         </p>
                         <div class="tour-listing__card-inner-content">
@@ -809,7 +810,7 @@
                                 <div class="tour-listing__card-bottom-left">
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
-                                        <p class="tour-listing__card-day-text text-small">3 horas</p>
+                                        <p class="tour-listing__card-day-text text-small">3 Hrs</p>
                                     </div><!-- /.tour-listing__card-day -->
 
                                 </div><!-- /.tour-listing__card-bottom-left -->
@@ -866,11 +867,11 @@
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
                         <h3 class="tour-listing__card-title"><a href="sanLucas.php">
-                                Cabo San Lucas & Visita al Arco
+                                Cabo San Lucas & Visit to the Arch
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
-                            Cabo San Lucas también tiene tradiciones y arte que mostrarnos, después de descubrir los
-                            mejores lugares de San Lucas, es momento de visitar el famoso Arco.
+                            Cabo San Lucas also has traditions and art to show us, after discovering
+                            best places in San Lucas, it's time to visit the famous Arco.
                         </p>
                         <div class="tour-listing__card-inner-content">
                             <!-- /.tour-listing__card-review-box -->
@@ -883,7 +884,7 @@
                                 <div class="tour-listing__card-bottom-left">
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
-                                        <p class="tour-listing__card-day-text text-small">4-5 horas</p>
+                                        <p class="tour-listing__card-day-text text-small">4-5 Hrs</p>
                                     </div><!-- /.tour-listing__card-day -->
 
                                 </div><!-- /.tour-listing__card-bottom-left -->
@@ -906,27 +907,28 @@
                 <div class="benefit-one__content">
                     <div class="sec-title text-left">
 
-                        <p class="sec-title__tagline">¿Por qué elegirnos?</p>
+                        <p class="sec-title__tagline">Why choose us?</p>
 
                         <h2 class="sec-title__title">Novo Tours</h2>
                     </div><!-- /.sec-title -->
                     <!-- /.sec-title -->
-                    <h5 class="benefit-one__content__heading">Contamos con los mejores tours de BCS.</h5>
+                    <h5 class="benefit-one__content__heading">We have the best tours in BCS.</h5>
                     <p class="benefit-one__content__text">
-                        ¿Conoces la historia entre las dos ciudades de Los Cabos? Embárcate en nuestro tour en donde te
-                        mostraremos parte de San José y San Lucas.
+                        Do you know the history between the two cities of Los Cabos? Embark on our tour where we will
+                        show you part of San Jose and San Lucas.
                     </p>
                     <div class="benefit-one__box-wrapper">
                         <div class="benefit-one__box">
                             <div class="benefit-one__box__icon"><span class="icon-airplane-1"></span></div>
-                            <h3 class="benefit-one__box__title">Guías certificados</h3>
+                            <h3 class="benefit-one__box__title">Certified guides</h3>
                         </div><!-- /.benefit-box -->
                         <div class="benefit-one__box">
                             <div class="benefit-one__box__icon"><span class="icon-ticket-1"></span></div>
-                            <h3 class="benefit-one__box__title">Reservaciones al instante</h3>
+                            <h3 class="benefit-one__box__title">Instant reservations</h3>
                         </div><!-- /.benefit-box -->
                     </div>
-                    <a href="https://fareharbor.com/embeds/book/novotours-mx/?full-items=yes" class="trevlo-btn"><span>Reservar Tour</span></a>
+                    <a href="https://fareharbor.com/embeds/book/novotours-mx/?full-items=yes"
+                        class="trevlo-btn"><span>Book Now</span></a>
                 </div>
             </div>
             <div class="col-lg-7 wow fadeInRight" data-wow-delay="200ms">
@@ -936,7 +938,7 @@
                     <!-- /.counter__icon -->
                     <div class="benefit-one__counter__number count-box"><span class="count-text" data-stop="3800"
                             data-speed="1500"></span> </div><!-- /.counter__number -->
-                    <p class="benefit-one__counter__title">clientes satisfechos</p>
+                    <p class="benefit-one__counter__title">satisfied customers</p>
                 </div>
             </div>
         </div>
@@ -948,9 +950,9 @@
     <div class="container">
         <div class="sec-title text-center">
 
-            <p class="sec-title__tagline">Opiniones</p><!-- /.sec-title__tagline -->
+            <p class="sec-title__tagline">Opinions</p><!-- /.sec-title__tagline -->
 
-            <h2 class="sec-title__title">¿Qué dicen nuestros<br> clientes?</h2><!-- /.sec-title__title -->
+            <h2 class="sec-title__title">what do our <br> customers say?</h2><!-- /.sec-title__title -->
         </div><!-- /.sec-title -->
         <!-- /.sec-title -->
     </div><!-- /.container -->
@@ -984,7 +986,7 @@
                         <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="Jacob Jones">
                     </div>
                     <div class="testimonials-card__meta">
-                        <h5 class="testimonials-card__meta__name">Cliente 1</h5>
+                        <h5 class="testimonials-card__meta__name">Fernanda Varela</h5>
                     </div><!-- /.testimonials-card__meta -->
                     <div class="testimonials-card__ratings">
                         <span class="icon-star"></span>
@@ -994,8 +996,19 @@
                         <span class="icon-star"></span>
                     </div><!-- /.testimonials-card__ratings -->
                     <div class="testimonials-card__quote">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus id praesentium placeat odit
-                        fugiat, vitae enim repellat. Reiciendis, architecto doloremque?
+                        BALANDRA TOUR – LA PAZ – ALL SANTOS
+                        José Pinzón was our guide and he was really friendly at all times. If the tour includes a stop
+                        at “la Garita” it is where you can have a quick breakfast on your own, because they recommend
+                        you bring your breakfast, but because of the early hour in the that they have to pick you up,
+                        you should have a lunch and not carry breakfast.
+                        While you are on the road, your guide gives you information about the places where you are
+                        going.
+                        I recommend that you bring comfortable, light clothes that are easy to change into, so that you
+                        don't waste time and can take advantage of the places, since a time is agreed upon and everyone
+                        meets again at the same point.
+                        In my opinion the time to visit Todos Santos is very very short for the beauty of the place it
+                        is.
+                        But, in general, very good attention.
                     </div><!-- /.testimonials-card__quote -->
                 </div><!-- /.testimonials-card -->
             </div><!-- /.owl-slide-item-->
@@ -1005,7 +1018,7 @@
                         <img src="assets/images/testimonial/testimonial-1-2.jpg" alt="Robert Fox">
                     </div>
                     <div class="testimonials-card__meta">
-                        <h5 class="testimonials-card__meta__name">Cliente 2</h5>
+                        <h5 class="testimonials-card__meta__name">Jennifer Garcia</h5>
                     </div><!-- /.testimonials-card__meta -->
                     <div class="testimonials-card__ratings">
                         <span class="icon-star"></span>
@@ -1015,8 +1028,9 @@
                         <span class="icon-star"></span>
                     </div><!-- /.testimonials-card__ratings -->
                     <div class="testimonials-card__quote">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, accusamus! Beatae veritatis velit
-                        repudiandae, perspiciatis provident assumenda veniam corrupti illo?
+                        I had a great and memorable experience with Josè as my guide this past week. He was very nice
+                        and very knowledgeable. He ensured we were safe, we knew what was next to come and that we
+                        enjoyed our experience! I recommend NOVO tours to other tourist!
                     </div><!-- /.testimonials-card__quote -->
                 </div><!-- /.testimonials-card -->
             </div><!-- /.owl-slide-item-->
@@ -1026,7 +1040,7 @@
                         <img src="assets/images/testimonial/testimonial-1-3.jpg" alt="Guy Hawkins">
                     </div>
                     <div class="testimonials-card__meta">
-                        <h5 class="testimonials-card__meta__name">Cliente 3</h5>
+                        <h5 class="testimonials-card__meta__name">Val D</h5>
                     </div><!-- /.testimonials-card__meta -->
                     <div class="testimonials-card__ratings">
                         <span class="icon-star"></span>
@@ -1036,8 +1050,12 @@
                         <span class="icon-star"></span>
                     </div><!-- /.testimonials-card__ratings -->
                     <div class="testimonials-card__quote">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit veritatis sint ullam repellat
-                        voluptatum esse amet aliquam officia excepturi odit.
+                        We were there in December. This was an amazing experience! We went on this your for snorkeling
+                        and to see "The Rock". However, we we're able to experience much more on our Excursion!
+                        Apparently it's whale mating and migration season.... and we saw more whales on this trip than I
+                        have on whale watching excursion! And THIS catamaran crew went way out of their way to please
+                        the guests! They were spotting and following some of the whales for our viewing pleasure!
+                        Fantastic day!
                     </div>
                 </div><!-- /.testimonials-card -->
             </div><!-- /.owl-slide-item-->
@@ -1047,7 +1065,7 @@
                         <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="Jacob Jones">
                     </div>
                     <div class="testimonials-card__meta">
-                        <h5 class="testimonials-card__meta__name">Cliente 4</h5>
+                        <h5 class="testimonials-card__meta__name">Christine Peral</h5>
                     </div><!-- /.testimonials-card__meta -->
                     <div class="testimonials-card__ratings">
                         <span class="icon-star"></span>
@@ -1057,8 +1075,11 @@
                         <span class="icon-star"></span>
                     </div><!-- /.testimonials-card__ratings -->
                     <div class="testimonials-card__quote">
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore error similique rerum eum
-                        consequatur ab quam libero vitae tempora vel.
+                        Had a really fun time. Cost $50 USD a person which includes travel time from the resort and back
+                        home. Pay the extra $5 a person to stop by at playa de amantes y del divorcio. Spend a couple of
+                        hours at that beach. It’s a beautiful beach 😍That’s what really made the tour worthwhile. We
+                        saw a dolphin and some sea lions and fish in through the clear plastic boat bottom. Great
+                        adventure!
                     </div>
                 </div><!-- /.testimonials-card -->
             </div>
@@ -1071,15 +1092,16 @@
         <div class="row">
             <div class="col-xl-5 col-lg-6">
                 <div class="offer-one__content sec-title">
-                    <p class="offer-one__top-title">Ofertas especiales</p>
-                    <h2 class="offer-one__heading sec-title__heading">Estás a un paso de reservar con Novo Tours</h2>
+                    <p class="offer-one__top-title">Special offers</p>
+                    <h2 class="offer-one__heading sec-title__heading">You are one step away from booking with Novo
+                        Tours.</h2>
                     <p class="offer-one__text">
-                        No dejes pasar los días para poder descubir lugares mágicos y las mejores historias que Baja
-                        California Sur tiene para contar.
+                        Don't let the days go by to discover magical places and the best stories that Baja California
+                        Sur has to tell.
                     </p>
                     <div class="offer-one__btn-box wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        <a href="index.php#tours" class="offer-one__btn trevlo-btn trevlo-btn--primary"><span>¡Reserva
+                        <a href="https://fareharbor.com/embeds/book/novotours-mx/?full-items=yes" class="offer-one__btn trevlo-btn trevlo-btn--primary"><span>¡Reserva
                                 Ahora!</span></a>
                     </div><!-- /.offer-one__btn-box -->
                 </div><!-- /.offer-one__content -->
