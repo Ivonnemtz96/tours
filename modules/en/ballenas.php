@@ -96,29 +96,6 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div><!-- /.tour-listing-details__top-carousel-item item -->
-            <div hidden class="tour-listing-details__top-carousel-item item">
-                <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/grandes/ballenas-3.jpg" alt="listing-details-carousel">
-                    <div class="tour-listing-details__top-carousel-overlay">
-                        <a href="#"
-                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                            data-gallery-options='{
-                        "items": [
-                          {
-                            "src": "assets/images/tours/25.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/22.jpg"
-                          }
-                        ],
-                        "gallery": {
-                          "enabled": true
-                        },
-                        "type": "image"
-                    }'><span class="icon-plus"></span></a>
-                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
-                </div><!-- /.tour-listing-details__top-carousel-image -->
-            </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/grandes/ballenas-2.jpg" alt="listing-details-carousel">
