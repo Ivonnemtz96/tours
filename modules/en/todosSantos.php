@@ -159,7 +159,7 @@
                             <span class="icon-clock-1"></span>
                             <div class="tour-listing-details__destination-info-title">
                                 <h4 class="tour-listing-details__destination-info-top">Duration</h4>
-                                <h4 class="tour-listing-details__destination-info-bottom">6 Hrs|</h4>
+                                <h4 class="tour-listing-details__destination-info-bottom">6 Hrs</h4>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
                         <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"

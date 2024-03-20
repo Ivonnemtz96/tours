@@ -507,11 +507,11 @@ path {
   display: inline-block;
   vertical-align: middle;
   -webkit-appearance: none;
-  border: none;
+  /* border: none;
   outline: none !important;
   background-color: var(--trevlo-base, #5cd3bd);
   color: var(--trevlo-white, #ffffff);
-  font-size: var(--trevlo-size-2xl, 16px);
+  font-size: var(--trevlo-size-2xl, 16px); */
   font-family: var(--trevlo-font, "DM Sans", sans-serif);
   font-weight: 700;
   padding: 20px 40px;
@@ -542,7 +542,7 @@ path {
   background-color: var(--trevlo-primary, #c32883);
   transition: 700ms cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
-.trevlo-btn::after {
+/* .trevlo-btn::after {
   content: "";
   position: absolute;
   bottom: 100%;
@@ -555,16 +555,16 @@ path {
   background-color: var(--trevlo-base, #5cd3bd);
   transition-duration: 700ms;
   transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
-}
+} */
 .trevlo-btn:hover {
   color: var(--trevlo-primary, #c32883);
 }
-.trevlo-btn:hover::before {
+/* .trevlo-btn:hover::before {
   top: 100%;
 }
 .trevlo-btn:hover::after {
   bottom: -50%;
-}
+} */
 .trevlo-btn--primary:hover {
   color: var(--trevlo-primary, #c32883);
 }
