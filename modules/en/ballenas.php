@@ -196,8 +196,7 @@
                         data-wow-duration="1500ms">
                         This fantastic seasonal tour (December-April) is an incredible natural spectacle in which
                         humpback whales seek warmer waters than the arctic for their reproductive process and stay on
-                        our shores for us to
-                        and stay in our coasts so we can enjoy and admire them.<br>
+                        our shores so we can enjoy and admire them.<br>
 
                         The tour is completely "guided" by the whales, there is no specific place to see them and this
                         is the exciting thing about it, they emerge at any time which makes this activity unique and
@@ -205,7 +204,7 @@
 
 
                         At the end of the experience we will have free time to shop in downtown Cabo San Lucas and taste
-                        the best brands of tequila.
+                        the best tequila brands.
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -218,7 +217,7 @@
                                 <li>
                                     <i class="fas fa-check-circle"></i>
                                     <p>Cabo escape or pirates: Breakfast on board, coffee, waffles, scrambled eggs,
-                                        toast, chilaquies, fruits and juices.</p>
+                                        toast, chilaquiles, fruits and juices.</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>

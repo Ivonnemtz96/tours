@@ -214,10 +214,10 @@
                     </div><!-- /.sec-title -->
                     <!-- /.sec-title -->
                     <p class="about-one__content__text ">
-                        We have highly trained and knowledgeable guides, passionate about sharing the, we also have
-                        years of experience in the
-                        tourism industry, providing our clients with a deep knowledge of exceptional destinations and
-                        the ability to create unique experiences.
+                        We have highly trained and knowledgeable guides, passionate about sharing the cultural and
+                        natural richness of each destination, we also have years of experience in the tourism industry,
+                        providing our clients with a deep knowledge of exceptional destinations and the ability to
+                        create unique experiences.
                     </p>
                     <div class="about-one__box">
                         <div class="about-one__box__icon"><span class="icon-safety"></span></div>

@@ -171,7 +171,7 @@
                                 <h4 class="tour-listing-details__destination-info-bottom">San José del Cabo</h4>
                             </div>
                         </div>
-                        
+
                         <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
                             data-wow-duration="1500ms">
                             <div class="tour-listing-details__destination-info-title">
@@ -195,16 +195,13 @@
                     </div>
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        San Jose del Cabo, a city very close to Cabo San Lucas, is a very historic and interesting place
-                        to see and enjoy its old and colorful streets
-                        interesting to see and enjoy its old and colorful streets and its architecture with great
-                        Spanish influence.<br>
+                        San Jose del Cabo, a city very close to Cabo San Lucas, is an historical and interesting place
+                        to see and enjoy. Its old and colorful streets and its architecture with great Spanish
+                        influence.<br>
 
-                        "El Paseo del Arte" an incredible artistic event where diverse artistic expressions connect the
-                        talent of our people, the colors, the music, the smells of the typical
+                        "El Paseo del Arte" is an incredible artistic event where diverse artistic expressions connect
                         the talent of our people, the colors, the music, the smells of the typical foods and most
-                        importantly the kindness of its people.
-                        most important the kindness of its people, really enjoy it.<br>
+                        importantly the kindness of its people.<br>
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -252,7 +249,7 @@
                         <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                            Not Included
+                                Not Included
                             </h3>
                             <ul class="tour-listing-details__included-list-two">
                                 <li>

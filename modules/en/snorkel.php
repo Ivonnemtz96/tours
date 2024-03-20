@@ -194,17 +194,16 @@
                     </div>
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        The aquarium of the world" named after the prestigious marine biologist Jacques Costeau, our
-                        "Sea of Cortez" is a gigantic natural aquarium.
-                        Sea of Cortez is a gigantic natural aquarium, with crystalline waters through which you can see
-                        colors, rocky coral formations, marine species you have never seen before.
+                        “The aquarium of the world" named after the prestigious marine biologist Jacques Costeau. Sea of
+                        Cortez is a gigantic natural aquarium, with crystalline waters through which you can see colors,
+                        rocky coral formations, marine species you have never seen before.
                         <br>
 
                         Our tour shows the ancient craft of glass blowing. Talented artisans transform this material
-                        into pieces of art, colors, and shapes that will surprise you. <br>
-
+                        into pieces of art, colors, and shapes that will surprise you.
                         This guided tour takes you to the most central points of Cabo San Lucas so you can enjoy free
                         time for shopping or just strolling around the marina and surrounding streets.
+
                         <br>
 
                         A tour to enjoy our sea, coasts and day life in Cabo San Lucas.
@@ -490,8 +489,7 @@
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div>
                         <div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
-                            <a target="_blank"
-                                href="https://fareharbor.com/embeds/book/novotours-mx/?full-items=yes"
+                            <a target="_blank" href="https://fareharbor.com/embeds/book/novotours-mx/?full-items=yes"
                                 class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                     </div>

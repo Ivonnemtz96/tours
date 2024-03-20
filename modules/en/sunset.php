@@ -194,14 +194,15 @@
                     </div>
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        It's time to see and enjoy the best of the old and classic taste of the true Mexican tequila,
-                        welcome to then stroll and see a little more of its streets, its people, a city with a
-                        cosmopolitan tourism, a city where languages, customs and visitors share a piece of Paradise.
+                        It's time to experience and savor the rich, classic flavors of authentic Mexican tequila. Take a
+                        leisurely stroll and discover more of its streets, its people, in a city that embraces
+                        cosmopolitan tourism. Here, languages, customs, and visitors converge, sharing a slice of
+                        paradise.
                         <br>
 
-                        This magical adventure ends before the sun sets, we embark and sail to the end of the earth
-                        through the waters that bathe the bay, it is time to see and enjoy an incredible sunset, the
-                        sunset that Los Cabos gives to the world. <br>
+                        As this magical adventure draws to an end, just before the sun sets, we set sail to explore the
+                        furthest reaches of the earth, guided by the waters that caress the bay. It's time to witness
+                        and relish in an unforgettable sunset, one that Los Cabos graciously offers to the world. <br>
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -290,7 +291,7 @@
                         <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                                Information Additional
+                                Additional Information
                             </h3>
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
@@ -534,8 +535,7 @@
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div>
                         <div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
-                            <a target="_blank"
-                                href="https://fareharbor.com/embeds/book/novotours-mx/?full-items=yes"
+                            <a target="_blank" href="https://fareharbor.com/embeds/book/novotours-mx/?full-items=yes"
                                 class="trevlo-btn"><span style="font-size: 17px;color:white;">Book Now!</span></a>
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                     </div>

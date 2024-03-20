@@ -490,14 +490,12 @@
                         <br>
 
                         Not only the cultural aspect is important, but also the natural beauty, the landscapes, the
-                        beautiful beaches, the vegetation and of course the
-                        vegetation and of course the incredible rock formations at the end of the earth,
-                        the famous arc of union or point of separation of the two seas Sea of Cortez or Pacific Sea.
+                        beautiful beaches, the vegetation and of course, the incredible rock formations at the end of
+                        the earth, the famous arc of union or point of separation of the two seas Sea of Cortez or
+                        Pacific Sea.
                         <br>
 
-                        San José del Cabo takes us back in time to the old colonial style buildings,
-                        the Church of La Misión, the Government Palace and many others that were left in time and today
-                        . Let's enjoy San Jose del Cabo and Cabo San Lucas.
+                        San José del Cabo takes us back in time to the old colonial style buildings, the Church of La Misión, the Government Palace and many others that were left in time and today . Let's enjoy San Jose del Cabo and Cabo San Lucas.
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -533,7 +531,8 @@
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Ride to the arch aboard the incredible Crystal Boat (Lands end, sea lion colony and rock formations).</p>
+                                    <p>Ride to the arch aboard the incredible Crystal Boat (Lands end, sea lion colony
+                                        and rock formations).</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
