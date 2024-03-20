@@ -38,5 +38,5 @@
     <link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.theme.default.min.css" />
 
     <!-- template styles -->
-    <link rel="stylesheet" href="assets/css/trevlo2.css" />
+    <link rel="stylesheet" href="assets/css/trevlo.css" />
 </head>

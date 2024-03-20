@@ -170,7 +170,16 @@
                                 <h4 class="tour-listing-details__destination-info-top">Lugar</h4>
                                 <h4 class="tour-listing-details__destination-info-bottom">San José del Cabo</h4>
                             </div>
-                        </div><!-- /.tour-listing-details__destination-info -->
+                        </div>
+
+                        <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
+                            data-wow-duration="1500ms">
+                            <div class="tour-listing-details__destination-info-title">
+                                <a target="_blank"
+                                    href="https://fareharbor.com/embeds/book/novotours-mx/items/466174/?full-items=yes&flow=969771"
+                                    class="trevlo-btn"><span style="font-size: 17px;color:white;">¡Reservar!</span></a>
+                            </div>
+                        </div>
                     </div><!-- /.tour-listing-details__destination-right -->
                 </div><!-- /.col-xl-8 -->
             </div><!-- /.row -->
@@ -262,7 +271,7 @@
 
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7342.025914675444!2d-109.70147871217227!3d23.059986538181057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af509c4c04f9f3%3A0x4b6582bc1b709505!2sCentro%2C%20San%20Jos%C3%A9%20del%20Cabo%2C%20BCS!5e0!3m2!1sen!2smx!4v1704475675214!5m2!1sen!2smx"
-                           style="border:0;" allowfullscreen="" loading="lazy"
+                            style="border:0;" allowfullscreen="" loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                     <!-- /.google-map -->
@@ -438,6 +447,12 @@
                                 <span class="icon-reception-bell"></span>
                                 <h4 class="tour-listing-details__amenities-content-title">Reservaciones</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
+                        </div>
+
+                        <div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
+                            <a target="_blank"
+                                href="https://fareharbor.com/embeds/book/novotours-mx/items/466174/?full-items=yes&flow=969771"
+                                class="trevlo-btn"><span style="font-size: 17px;color:white;">¡Reservar!</span></a>
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                     </div>
                 </div>
