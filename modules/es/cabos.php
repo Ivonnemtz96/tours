@@ -144,7 +144,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/twocapes/06.jpg" alt="listing-details-carousel">
@@ -168,7 +168,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/twocapes/07.jpg" alt="listing-details-carousel">
@@ -192,7 +192,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/twocapes/08.jpg" alt="listing-details-carousel">
@@ -216,7 +216,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/twocapes/09.jpg" alt="listing-details-carousel">
@@ -240,7 +240,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/twocapes/10.jpg" alt="listing-details-carousel">
@@ -264,7 +264,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/twocapes/11.jpg" alt="listing-details-carousel">
@@ -288,7 +288,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/twocapes/12.jpg" alt="listing-details-carousel">
@@ -312,7 +312,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/twocapes/13.jpg" alt="listing-details-carousel">
@@ -336,7 +336,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/twocapes/14.jpg" alt="listing-details-carousel">
@@ -360,7 +360,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/twocapes/15.jpg" alt="listing-details-carousel">
@@ -384,7 +384,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/twocapes/16.jpg" alt="listing-details-carousel">
@@ -408,7 +408,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/twocapes/17.jpg" alt="listing-details-carousel">
@@ -459,7 +459,16 @@
                                 <h4 class="tour-listing-details__destination-info-top">Lugar</h4>
                                 <h4 class="tour-listing-details__destination-info-bottom">Los Cabos</h4>
                             </div>
-                        </div><!-- /.tour-listing-details__destination-info -->
+                        </div>
+
+                        <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
+                            data-wow-duration="1500ms">
+                            <div class="tour-listing-details__destination-info-title">
+                                <a target="_blank"
+                                    href="https://fareharbor.com/embeds/book/novotours-mx/items/466002/?full-items=yes&flow=969771"
+                                    class="trevlo-btn"><span style="font-size: 17px;color:white;">¡Reservar!</span></a>
+                            </div>
+                        </div>
                     </div><!-- /.tour-listing-details__destination-right -->
                 </div><!-- /.col-xl-8 -->
             </div><!-- /.row -->
@@ -563,7 +572,7 @@
                 </div>
 
                 <div class="tour-listing-details__location">
-                    <h3 class="tour-listing-details__title tour-listing-details__location-title">Location</h3>
+                    <h3 class="tour-listing-details__title tour-listing-details__location-title">Lugar</h3>
                     <div class="google-map google-map__@@extraClassName">
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4598.0676433972185!2d-109.90888134959089!3d22.87888040210823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4ae3f76c8f63%3A0x5d2e4e93538413b8!2sMarina%2C%20Cabo%20San%20Lucas%2C%20B.C.S.!5e0!3m2!1ses-419!2smx!4v1701893288477!5m2!1ses-419!2smx"
@@ -710,7 +719,7 @@
                     </div><!-- /.row -->
                 </div>
                 <div class="tour-listing-details__amenities">
-                    <h3 class="tour-listing-details__title tour-listing-details__amenities-title">Tour Amenities</h3>
+                    <h3 class="tour-listing-details__title tour-listing-details__amenities-title">Servicios turísticos</h3>
                     <div class="tour-listing-details__amenities-row row">
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
                             data-wow-duration="1500ms">
@@ -743,6 +752,11 @@
                                 <span class="icon-reception-bell"></span>
                                 <h4 class="tour-listing-details__amenities-content-title">Reservaciones</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
+                        </div>
+                        <div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
+                            <a target="_blank"
+                                href="https://fareharbor.com/embeds/book/novotours-mx/items/466002/?full-items=yes&flow=969771"
+                                class="trevlo-btn"><span style="font-size: 17px;color:white;">¡Reservar!</span></a>
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                     </div>
                 </div>
