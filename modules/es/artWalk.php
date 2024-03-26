@@ -29,17 +29,17 @@
         }'>
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/22.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/artWalk/01.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/22.jpg"
+                            "src": "assets/images/tours/artWalk/grandes/01.jpg"
                           },
                           {
-                            "src": "assets/images/tours/23.jpg"
+                            "src": "assets/images/tours/artWalk/grandes/02.jpg"
                           }
                         ],
                         "gallery": {
@@ -52,17 +52,17 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/23.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/artWalk/02.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/23.jpg"
+                            "src": "assets/images/tours/artWalk/grandes/02.jpg"
                           },
                           {
-                            "src": "assets/images/tours/24.jpg"
+                            "src": "assets/images/tours/artWalk/grandes/05.jpg"
                           }
                         ],
                         "gallery": {
@@ -75,17 +75,17 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/24.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/artWalk/03.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/24.jpg"
+                            "src": "assets/images/tours/artWalk/grandes/03.jpg"
                           },
                           {
-                            "src": "assets/images/tours/25.jpg"
+                            "src": "assets/images/tours/artWalk/grandes/04.jpg"
                           }
                         ],
                         "gallery": {
@@ -98,17 +98,17 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/25.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/artWalk/05.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/25.jpg"
+                            "src": "assets/images/tours/artWalk/grandes/05.jpg"
                           },
                           {
-                            "src": "assets/images/tours/22.jpg"
+                            "src": "assets/images/tours/artWalk/grandes/06.jpg"
                           }
                         ],
                         "gallery": {
@@ -119,29 +119,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div><!-- /.tour-listing-details__top-carousel-item item -->
-            <div class="tour-listing-details__top-carousel-item item">
-                <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/26.jpg" alt="listing-details-carousel">
-                    <div class="tour-listing-details__top-carousel-overlay">
-                        <a href="#"
-                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                            data-gallery-options='{
-                        "items": [
-                          {
-                            "src": "assets/images/tours/26.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/22.jpg"
-                          }
-                        ],
-                        "gallery": {
-                          "enabled": true
-                        },
-                        "type": "image"
-                    }'><span class="icon-plus"></span></a>
-                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
-                </div><!-- /.tour-listing-details__top-carousel-image -->
-            </div><!-- /.tour-listing-details__top-carousel-item item -->
+            
         </div><!-- /.tour-listing-details__top-carousel-wrapper -->
     </div><!-- /.tour-listing-details__top-carousel -->
     <div class="tour-listing-details__destination">
@@ -231,7 +209,7 @@
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Fábrica de soplado de vidrio</p>
+                                    <p>Fábrica de vidrio soplado</p>
                                 </li>
 
                                 <li>

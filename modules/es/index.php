@@ -1024,11 +1024,11 @@
             }'>
             <div class="item">
                 <div class="testimonials-card">
-                    <div class="testimonials-card__image">
+                    <!-- <div class="testimonials-card__image">
                         <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="Jacob Jones">
-                    </div>
+                    </div> -->
                     <div class="testimonials-card__meta">
-                        <h5 class="testimonials-card__meta__name">Cliente 1</h5>
+                        <h5 class="testimonials-card__meta__name">Fernanda Varela</h5>
                     </div><!-- /.testimonials-card__meta -->
                     <div class="testimonials-card__ratings">
                         <span class="icon-star"></span>
@@ -1038,18 +1038,29 @@
                         <span class="icon-star"></span>
                     </div><!-- /.testimonials-card__ratings -->
                     <div class="testimonials-card__quote">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus id praesentium placeat odit
-                        fugiat, vitae enim repellat. Reiciendis, architecto doloremque?
+                        BALANDRA TOUR – LA PAZ – ALL SANTOS
+                        José Pinzón was our guide and he was really friendly at all times. If the tour includes a stop
+                        at “la Garita” it is where you can have a quick breakfast on your own, because they recommend
+                        you bring your breakfast, but because of the early hour in the that they have to pick you up,
+                        you should have a lunch and not carry breakfast.
+                        While you are on the road, your guide gives you information about the places where you are
+                        going.
+                        I recommend that you bring comfortable, light clothes that are easy to change into, so that you
+                        don't waste time and can take advantage of the places, since a time is agreed upon and everyone
+                        meets again at the same point.
+                        In my opinion the time to visit Todos Santos is very very short for the beauty of the place it
+                        is.
+                        But, in general, very good attention.
                     </div><!-- /.testimonials-card__quote -->
                 </div><!-- /.testimonials-card -->
             </div><!-- /.owl-slide-item-->
             <div class="item">
                 <div class="testimonials-card">
-                    <div class="testimonials-card__image">
+                    <!-- <div class="testimonials-card__image">
                         <img src="assets/images/testimonial/testimonial-1-2.jpg" alt="Robert Fox">
-                    </div>
+                    </div> -->
                     <div class="testimonials-card__meta">
-                        <h5 class="testimonials-card__meta__name">Cliente 2</h5>
+                        <h5 class="testimonials-card__meta__name">Nick Wong</h5>
                     </div><!-- /.testimonials-card__meta -->
                     <div class="testimonials-card__ratings">
                         <span class="icon-star"></span>
@@ -1059,18 +1070,18 @@
                         <span class="icon-star"></span>
                     </div><!-- /.testimonials-card__ratings -->
                     <div class="testimonials-card__quote">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, accusamus! Beatae veritatis velit
-                        repudiandae, perspiciatis provident assumenda veniam corrupti illo?
+                        Jose Pinzon took us to Todos Santos for a day trip. We thoroughly enjoyed our day. Jose was very
+                        informative and pleasant and took us to unexpected places to explore the town. Would recommend.
                     </div><!-- /.testimonials-card__quote -->
                 </div><!-- /.testimonials-card -->
             </div><!-- /.owl-slide-item-->
             <div class="item">
                 <div class="testimonials-card">
-                    <div class="testimonials-card__image">
+                    <!-- <div class="testimonials-card__image">
                         <img src="assets/images/testimonial/testimonial-1-3.jpg" alt="Guy Hawkins">
-                    </div>
+                    </div> -->
                     <div class="testimonials-card__meta">
-                        <h5 class="testimonials-card__meta__name">Cliente 3</h5>
+                        <h5 class="testimonials-card__meta__name">Juan Ortega</h5>
                     </div><!-- /.testimonials-card__meta -->
                     <div class="testimonials-card__ratings">
                         <span class="icon-star"></span>
@@ -1080,18 +1091,20 @@
                         <span class="icon-star"></span>
                     </div><!-- /.testimonials-card__ratings -->
                     <div class="testimonials-card__quote">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit veritatis sint ullam repellat
-                        voluptatum esse amet aliquam officia excepturi odit.
+                        Quiero expresar mi agradecimiento a Nova Tours y en especial al Guia Turístico Daniel Maceda por
+                        hacer de este día uno muy especial. En el día de mi cumpleaños .Una gran experiencia .
+                        Disfrutamos mucho de este tour. Altamente recomendable . Mucho respeto y honestidad hacia los
+                        turistas. Muchas gracias.
                     </div>
                 </div><!-- /.testimonials-card -->
             </div><!-- /.owl-slide-item-->
             <div class="item">
                 <div class="testimonials-card">
-                    <div class="testimonials-card__image">
+                    <!-- <div class="testimonials-card__image">
                         <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="Jacob Jones">
-                    </div>
+                    </div> -->
                     <div class="testimonials-card__meta">
-                        <h5 class="testimonials-card__meta__name">Cliente 4</h5>
+                        <h5 class="testimonials-card__meta__name">Jennifer Garcia</h5>
                     </div><!-- /.testimonials-card__meta -->
                     <div class="testimonials-card__ratings">
                         <span class="icon-star"></span>
@@ -1101,8 +1114,9 @@
                         <span class="icon-star"></span>
                     </div><!-- /.testimonials-card__ratings -->
                     <div class="testimonials-card__quote">
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore error similique rerum eum
-                        consequatur ab quam libero vitae tempora vel.
+                        I had a great and memorable experience with Josè as my guide this past week. He was very nice
+                        and very knowledgeable. He ensured we were safe, we knew what was next to come and that we
+                        enjoyed our experience! I recommend NOVO tours to other tourist!
                     </div>
                 </div><!-- /.testimonials-card -->
             </div>

@@ -1015,9 +1015,9 @@
             }'>
             <div class="item">
                 <div class="testimonials-card">
-                    <div class="testimonials-card__image">
+                    <!-- <div class="testimonials-card__image">
                         <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="Jacob Jones">
-                    </div>
+                    </div> -->
                     <div class="testimonials-card__meta">
                         <h5 class="testimonials-card__meta__name">Fernanda Varela</h5>
                     </div><!-- /.testimonials-card__meta -->
@@ -1047,9 +1047,9 @@
             </div><!-- /.owl-slide-item-->
             <div class="item">
                 <div class="testimonials-card">
-                    <div class="testimonials-card__image">
+                    <!-- <div class="testimonials-card__image">
                         <img src="assets/images/testimonial/testimonial-1-2.jpg" alt="Robert Fox">
-                    </div>
+                    </div> -->
                     <div class="testimonials-card__meta">
                         <h5 class="testimonials-card__meta__name">Jennifer Garcia</h5>
                     </div><!-- /.testimonials-card__meta -->
@@ -1069,9 +1069,9 @@
             </div><!-- /.owl-slide-item-->
             <div class="item">
                 <div class="testimonials-card">
-                    <div class="testimonials-card__image">
+                    <!-- <div class="testimonials-card__image">
                         <img src="assets/images/testimonial/testimonial-1-3.jpg" alt="Guy Hawkins">
-                    </div>
+                    </div> -->
                     <div class="testimonials-card__meta">
                         <h5 class="testimonials-card__meta__name">Val D</h5>
                     </div><!-- /.testimonials-card__meta -->
@@ -1094,9 +1094,9 @@
             </div><!-- /.owl-slide-item-->
             <div class="item">
                 <div class="testimonials-card">
-                    <div class="testimonials-card__image">
+                    <!-- <div class="testimonials-card__image">
                         <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="Jacob Jones">
-                    </div>
+                    </div> -->
                     <div class="testimonials-card__meta">
                         <h5 class="testimonials-card__meta__name">Christine Peral</h5>
                     </div><!-- /.testimonials-card__meta -->

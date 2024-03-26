@@ -142,7 +142,7 @@
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
             </div>
-            
+
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
                     <img src="assets/images/tours/clearBoat/06.jpg" alt="listing-details-carousel">
@@ -266,7 +266,15 @@
                                 <h4 class="tour-listing-details__destination-info-top">Lugar</h4>
                                 <h4 class="tour-listing-details__destination-info-bottom">Cabo San Lucas</h4>
                             </div>
-                        </div><!-- /.tour-listing-details__destination-info -->
+                        </div>
+                        <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
+                            data-wow-duration="1500ms">
+                            <div class="tour-listing-details__destination-info-title">
+                                <a target="_blank"
+                                    href="https://fareharbor.com/embeds/book/novotours-mx/items/466004/?full-items=yes&flow=969771"
+                                    class="trevlo-btn"><span style="font-size: 17px;color:white;">¡Reservar!</span></a>
+                            </div>
+                        </div>
                     </div><!-- /.tour-listing-details__destination-right -->
                 </div><!-- /.col-xl-8 -->
             </div><!-- /.row -->

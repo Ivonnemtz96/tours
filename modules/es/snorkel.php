@@ -169,6 +169,16 @@
                                 <h4 class="tour-listing-details__destination-info-top">Lugar</h4>
                                 <h4 class="tour-listing-details__destination-info-bottom">Cabo San Lucas</h4>
                             </div>
+                        </div>
+
+                        <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
+                            data-wow-duration="1500ms">
+                            <div class="tour-listing-details__destination-info-title">
+                                <a target="_blank"
+                                    href="https://fareharbor.com/embeds/book/novotours-mx/?full-items=yes"
+                                    class="trevlo-btn"><span style="font-size: 17px;color:white;">¡Reserva
+                                        ahora!</span></a>
+                            </div>
                         </div><!-- /.tour-listing-details__destination-info -->
                     </div><!-- /.tour-listing-details__destination-right -->
                 </div><!-- /.col-xl-8 -->
@@ -278,7 +288,8 @@
                 </div>
 
                 <div class="tour-listing-details__included">
-                    <h3 class="tour-listing-details__title tour-listing-details__included-title">Información Adicional</h3>
+                    <h3 class="tour-listing-details__title tour-listing-details__included-title">Información Adicional
+                    </h3>
                     <div class="row">
                         <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
                             data-wow-duration="1500ms">
@@ -300,7 +311,7 @@
                     </div>
                 </div>
                 <div class="tour-listing-details__location">
-                    <h3 class="tour-listing-details__title tour-listing-details__location-title">Location</h3>
+                    <h3 class="tour-listing-details__title tour-listing-details__location-title">Lugar</h3>
                     <div class="google-map google-map__@@extraClassName">
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4598.0676433972185!2d-109.90888134959089!3d22.87888040210823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4ae3f76c8f63%3A0x5d2e4e93538413b8!2sMarina%2C%20Cabo%20San%20Lucas%2C%20B.C.S.!5e0!3m2!1ses-419!2smx!4v1701893288477!5m2!1ses-419!2smx"
@@ -447,7 +458,7 @@
                     </div><!-- /.row -->
                 </div>
                 <div class="tour-listing-details__amenities">
-                    <h3 class="tour-listing-details__title tour-listing-details__amenities-title">Tour Amenities</h3>
+                    <h3 class="tour-listing-details__title tour-listing-details__amenities-title">Servicios</h3>
                     <div class="tour-listing-details__amenities-row row">
                         <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
                             data-wow-duration="1500ms">
@@ -480,6 +491,10 @@
                                 <span class="icon-reception-bell"></span>
                                 <h4 class="tour-listing-details__amenities-content-title">Reservaciones</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
+                        </div>
+                        <div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
+                            <a target="_blank" href="https://fareharbor.com/embeds/book/novotours-mx/?full-items=yes"
+                                class="trevlo-btn"><span style="font-size: 17px;color:white;">¡Reserva ahora!</span></a>
                         </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                     </div>
                 </div>
