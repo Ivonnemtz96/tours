@@ -252,7 +252,7 @@
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Tierra's End, colonia de
+                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Fin del mundo, colonia de
                                         leones marinos y formaciones rocosas)</p>
                                 </li>
 

@@ -531,7 +531,7 @@
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hasta el arco a bordo del increíble Crystal Boat (Lands end, colonia de
+                                    <p>Paseo hasta el arco a bordo del increíble Crystal Boat (Fin del mundo, colonia de
                                         leones marinos y formaciones rocosas)</p>
                                 </li>
                                 <li>

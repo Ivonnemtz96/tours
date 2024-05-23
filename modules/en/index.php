@@ -272,7 +272,7 @@
             }'>
             <div class="item">
                 <div class="tour-listing__card">
-                    <a href="tour1.php" class="tour-listing__card-image-box">
+                    <a href="arco.php" class="tour-listing__card-image-box">
                         <img src="assets/images/tours/45.jpg?=1" alt="Novo Tours" class="tour-listing__card-image">
                         <!-- /.tour-listing__card-btn-group -->
                         <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
@@ -338,7 +338,7 @@
 
             <div class="item">
                 <div class="tour-listing__card">
-                    <a href="tour1.php" class="tour-listing__card-image-box">
+                    <a href="todosSantos.php" class="tour-listing__card-image-box">
                         <img src="assets/images/tours/34.jpg" alt="Novo tours" class="tour-listing__card-image">
                         <div class="tour-listing__card-image-overlay"></div>
                     </a><!-- /.tour-listing__card-image-box --></a>
@@ -404,7 +404,7 @@
 
             <div class="item">
                 <div class="tour-listing__card">
-                    <a href="tour1.php" class="tour-listing__card-image-box">
+                    <a href="cabos.php" class="tour-listing__card-image-box">
                         <img src="assets/images/tours/47.jpg" alt="Novo Tours" class="tour-listing__card-image">
                         <div class="tour-listing__card-btn-group">
                         </div><!-- /.tour-listing__card-btn-group -->

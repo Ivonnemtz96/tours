@@ -221,7 +221,7 @@
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Opción catamarán (Oceanus, cabo escape, cabo mar o piratas)</p>
+                                    <p>Opción catamarán (Oceanus, Cabo Escape, Cabo mar o Piratas)</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
@@ -238,21 +238,16 @@
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Camionetas nuevo modelo con micrófono integrado y equipo de sonido.</p>
-                                </li>
-
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
                                     <p>Guía certificado en Cabo San Lucas</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Fábrica de soplado de vidrio</p>
+                                    <p>Fábrica de vidrio soplado</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Tierra's End, colonia de
+                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Fin del mundo, colonia de
                                         leones marinos y formaciones rocosas)</p>
                                 </li>
 

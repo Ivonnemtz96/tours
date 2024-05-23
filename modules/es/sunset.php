@@ -248,7 +248,7 @@
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Tierra's End, colonia de
+                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Fin del mundo, colonia de
                                         leones marinos y formaciones rocosas)</p>
                                 </li>
 
@@ -327,7 +327,7 @@
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Usar Ropa Comóda</p>
+                                    <p>Usar Ropa Cómoda</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>

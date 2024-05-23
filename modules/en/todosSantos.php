@@ -1,6 +1,6 @@
 <!-- Tour Listing Details One Start -->
 <section class="tour-listing-details">
-    <div class="tour-listing-details__top-carousel">
+<div class="tour-listing-details__top-carousel">
         <div class="tour-listing-details__top-carousel-wrapper trevlo-owl__carousel owl-theme owl-carousel"
             data-owl-options='{
         "items": 4,
@@ -29,17 +29,14 @@
         }'>
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/22.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/santos/01.webp" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/22.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/23.jpg"
+                            "src": "assets/images/tours/santos/grandes/01.jpeg"
                           }
                         ],
                         "gallery": {
@@ -52,17 +49,14 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/23.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/santos/02.webp" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/23.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/24.jpg"
+                            "src": "assets/images/tours/santos/grandes/02.jpeg"
                           }
                         ],
                         "gallery": {
@@ -75,17 +69,14 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/24.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/santos/03.webp" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/24.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/25.jpg"
+                            "src": "assets/images/tours/santos/grandes/03.jpeg"
                           }
                         ],
                         "gallery": {
@@ -98,17 +89,14 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/25.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/santos/04.webp" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/25.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/22.jpg"
+                            "src": "assets/images/tours/santos/grandes/04.jpeg"
                           }
                         ],
                         "gallery": {
@@ -121,17 +109,14 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/26.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/santos/05.webp" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/26.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/22.jpg"
+                            "src": "assets/images/tours/santos/grandes/05.jpeg"
                           }
                         ],
                         "gallery": {
@@ -141,9 +126,261 @@
                     }'><span class="icon-plus"></span></a>
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
-            </div><!-- /.tour-listing-details__top-carousel-item item -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/santos/06.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/santos/grandes/06.jpeg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/santos/07.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/santos/grandes/07.jpeg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/santos/08.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/santos/grandes/08.jpeg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/santos/09.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/santos/grandes/09.jpeg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/santos/10.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/santos/grandes/10.jpeg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/santos/11.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/santos/grandes/11.jpeg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/santos/12.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/santos/grandes/12.jpeg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/santos/13.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/santos/grandes/13.jpeg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/santos/14.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/santos/grandes/14.jpeg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/santos/15.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/santos/grandes/15.jpeg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/santos/16.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/santos/grandes/16.jpeg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/santos/17.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/santos/grandes/17.jpeg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
         </div><!-- /.tour-listing-details__top-carousel-wrapper -->
-    </div><!-- /.tour-listing-details__top-carousel -->
+    </div><P></P>
     <div class="tour-listing-details__destination">
         <div class="container">
             <div class="tour-listing-details__destination-row row">
@@ -194,15 +431,15 @@
                     </div>
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        A magical journey to a magical town very close to Cabo San Lucas. Todos Santos shows the visitor
-                        the history and culture that this part of our Mexico offers, a town located between the hills
-                        and the palm oasis, a town full of ancient secrets brought by the old religious individuals who
-                        arrived here hundreds of years ago.
+                        A magical trip to a magical town very close to Cabo San Lucas. Todos Santos shows visitors the
+                        history and culture that this part of our Mexico offers, a town located between hills and the
+                        palm oasis, a town full of ancient secrets brought by the old religious settlers who arrived
+                        here hundreds of years ago.
                         <br>
-
-                        Typical and colorful crafts decorate its tranquil streets and frame the famous, mystical, and
-                        emblematic "Hotel California," a place that every visitor desires and must know. Relax your
-                        spirit, Todos Santos is different, it's special.<br>
+                        Typical and colorful handicrafts adorn its quiet streets and frame the famous, mystical, and
+                        emblematic "Hotel California," a place that every visitor wishes and must see. Relax your
+                        spirit. Todos Santos is different; it is special.
+                        <br>
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -214,40 +451,48 @@
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Blanket factory</p>
+                                    <p>Historic Center of Todos Santos</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Cultural center in Todos Santos</p>
+                                    <p>Sculpture Park</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Hotel California, Mission, historic center</p>
+                                    <p>Hotel California, Jesuit Mission</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Round-trip transportation</p>
-                                </li>
-
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Complimentary water bottle</p>
-                                </li>
-
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Certified bilingual guide</p>
+                                    <p>Blanket Factory</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Panoramic views of the Pacific area</p>
+                                    <p>Handicraft Market</p>
                                 </li>
-
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Shopping time</p>
+                                    <p>Round-trip Transportation</p>
                                 </li>
-
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Complimentary Bottle of Water</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Certified Bilingual Guide</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Panoramic Views</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Shopping Time</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Free Time for Eating</p>
+                                </li>
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-7 -->
                         <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s"
@@ -258,6 +503,10 @@
                                 <li>
                                     <i class="fas fa-times"></i>
                                     <p>Tips</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-times"></i>
+                                    <p>Lunch</p>
                                 </li>
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-5 -->

@@ -193,8 +193,8 @@
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Cabo escape o piratas: Desayuno a bordo, café, waffles, huevos revueltosm
-                                        tostadas, chilaquies, frutas y jugos.</p>
+                                    <p>Cabo escape o piratas: Desayuno a bordo, café, waffles, huevos revueltos,
+                                        tostadas, chilaquiles, frutas y jugos.</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
@@ -211,7 +211,7 @@
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hasta el Arco en Catamarán (Lands end, colonia de leones marinos y
+                                    <p>Paseo hasta el Arco en Catamarán (Fin del mundo, colonia de leones marinos y
                                         formaciones rocosas)</p>
                                 </li>
                                 <li>
@@ -230,7 +230,7 @@
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Pez Gato: burritos, fruit salad, open bar and coffee</p>
+                                    <p>Pez Gato: burritos, ensalada de fruta, barra libre y café</p>
                                 </li>
 
                                 <li>
