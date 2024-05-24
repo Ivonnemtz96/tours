@@ -183,6 +183,10 @@
                         Para finalizar la experiencia tendremos tiempo libre para realizar compras en el centro de Cabo
                         San Lucas y degustar las mejores marcas de tequila.
                     </p>
+                    <br><br>
+                    <p>
+                        <strong>Temporada del 15 de diciembre 2024 al 15 de abril 2025</strong>
+                    </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
 
@@ -239,69 +243,84 @@
                                 </li>
 
                             </ul><!-- /.tour-listing-details__included-list-one -->
-                        </div><!-- /.col-lg-6 col-md-7 -->
-                        <!-- /.col-lg-6 col-md-5 -->
-                    </div><!-- /.row -->
-                </div>
-
-                <div class="tour-listing-details__included">
-                    <h3 class="tour-listing-details__title tour-listing-details__included-title">Información adicional
-                    </h3>
-                    <div class="row">
-                        <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
+                        </div>
+                        <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s"
                             data-wow-duration="1500ms">
-                            <ul class="tour-listing-details__included-list-one">
+                            <h3 class="tour-listing-details__title tour-listing-details__included-title">
+                                No Incluye
+                            </h3>
+                            <ul class="tour-listing-details__included-list-two">
                                 <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Llevar ropa cómoda</p>
+                                    <i class="fas fa-times"></i>
+                                    <p>Impuesto muelle: $100 MXN por persona</p>
                                 </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Toalla en actividades acuáticas</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Gorra o sombrero</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Lentes de sol</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Dinero - Extra (Para Compras)</p>
-                                </li>
-                            </ul>
+
+                            </ul><!-- /.tour-listing-details__included-list-one -->
+                        </div>
+                        <! </div>
+                            <!-- /.row -->
+                    </div>
+
+                    <div class="tour-listing-details__included">
+                        <h3 class="tour-listing-details__title tour-listing-details__included-title">Información
+                            adicional
+                        </h3>
+                        <div class="row">
+                            <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s"
+                                data-wow-duration="1500ms">
+                                <ul class="tour-listing-details__included-list-one">
+                                    <li>
+                                        <i class="fas fa-check-circle"></i>
+                                        <p>Llevar ropa cómoda</p>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-check-circle"></i>
+                                        <p>Toalla en actividades acuáticas</p>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-check-circle"></i>
+                                        <p>Gorra o sombrero</p>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-check-circle"></i>
+                                        <p>Lentes de sol</p>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-check-circle"></i>
+                                        <p>Dinero - Extra (Para Compras)</p>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="tour-listing-details__location">
-                    <h3 class="tour-listing-details__title tour-listing-details__location-title">Location</h3>
-                    <div class="google-map google-map__@@extraClassName">
-                        <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4598.0676433972185!2d-109.90888134959089!3d22.87888040210823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4ae3f76c8f63%3A0x5d2e4e93538413b8!2sMarina%2C%20Cabo%20San%20Lucas%2C%20B.C.S.!5e0!3m2!1ses-419!2smx!4v1701893288477!5m2!1ses-419!2smx"
-                            style="border:0;" allowfullscreen="" loading="lazy"
-                            referrerpolicy="no-referrer-when-downgrade"></iframe>
-                    </div>
-                    <!-- /.google-map -->
-                </div><!-- /.tour-listing-details__location -->
-                <div hidden class="tour-listing-details__similar container-fluid">
-                    <h3 class="tour-listing-details__title tour-listing-details__similar-title">Tours Similares</h3>
-                    <div class="row">
-                        <div class="col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                            <div class="tour-listing__card">
-                                <a href="tour1.php" class="tour-listing__card-image-box">
-                                    <img src="assets/images/tours/tour-3-3.jpg" alt="Novo Tours"
-                                        class="tour-listing__card-image">
-                                    <div class="tour-listing__card-image-overlay"></div>
-                                </a>
-                                <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
-                                        class="icon-heart"></span></a>
-                                <div class="tour-listing__card-content">
-                                    <div class="tour-listing__card-camera-group">
-                                        <a href="javascript:void(0);"
-                                            class="tour-listing__card-camera-btn trevlo-image-popup"
-                                            data-gallery-options='{
+                    <div class="tour-listing-details__location">
+                        <h3 class="tour-listing-details__title tour-listing-details__location-title">Location</h3>
+                        <div class="google-map google-map__@@extraClassName">
+                            <iframe
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4598.0676433972185!2d-109.90888134959089!3d22.87888040210823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4ae3f76c8f63%3A0x5d2e4e93538413b8!2sMarina%2C%20Cabo%20San%20Lucas%2C%20B.C.S.!5e0!3m2!1ses-419!2smx!4v1701893288477!5m2!1ses-419!2smx"
+                                style="border:0;" allowfullscreen="" loading="lazy"
+                                referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+                        <!-- /.google-map -->
+                    </div><!-- /.tour-listing-details__location -->
+                    <div hidden class="tour-listing-details__similar container-fluid">
+                        <h3 class="tour-listing-details__title tour-listing-details__similar-title">Tours Similares</h3>
+                        <div class="row">
+                            <div class="col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                                data-wow-duration="1500ms">
+                                <div class="tour-listing__card">
+                                    <a href="tour1.php" class="tour-listing__card-image-box">
+                                        <img src="assets/images/tours/tour-3-3.jpg" alt="Novo Tours"
+                                            class="tour-listing__card-image">
+                                        <div class="tour-listing__card-image-overlay"></div>
+                                    </a>
+                                    <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                            class="icon-heart"></span></a>
+                                    <div class="tour-listing__card-content">
+                                        <div class="tour-listing__card-camera-group">
+                                            <a href="javascript:void(0);"
+                                                class="tour-listing__card-camera-btn trevlo-image-popup"
+                                                data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-3.jpg"
@@ -318,51 +337,54 @@
                 },
                 "type": "image"
             }'>
-                                            <span class="icon-photo-camera-1"></span>
-                                        </a>
-                                    </div>
-                                    <h3 class="tour-listing__card-title"><a href="tour1.php">Two Capes City Tours</a>
-                                    </h3>
-                                    <p class="tour-listing__card-text text-small">
-                                        Cabo San Lucas y San José del Cabo, un recorrido que nos muestra lo mejor de
-                                        estas ciudades, la historia y el significado actual que este increíble destino
-                                        turístico tiene para México. <br>
-                                    </p>
-                                    <div class="tour-listing__card-inner-content">
-                                        <!-- /.tour-listing__card-review-box -->
-                                        <div class="tour-listing__card-location-box">
-                                            <span class="icon-location-1"></span>
-                                            <p class="tour-listing__card-location-text text-small">Los Cabos</p>
-                                        </div><!-- /.tour-listing__card-location-box -->
-                                        <div class="tour-listing__card-divider"></div>
-                                        <!-- /.tour-listing__card-divider -->
-                                        <div class="tour-listing__card-bottom">
-                                            <div class="tour-listing__card-bottom-left">
-                                                <div class="tour-listing__card-day">
-                                                    <span class="icon-clock-1"></span>
-                                                    <p class="tour-listing__card-day-text text-small">6 horas</p>
-                                                </div><!-- /.tour-listing__card-day -->
-                                            </div><!-- /.tour-listing__card-bottom-left -->
-                                        </div><!-- /.tour-listing__card-bottom -->
-                                    </div><!-- /.tour-listing__card-inner-content -->
-                                </div><!-- /.tour-listing__card-content -->
-                            </div><!-- /.tour-listing__card -->
-                        </div><!-- /.col-md-6 -->
-                        <div class="col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
-                            <div class="tour-listing__card">
-                                <a href="tour1.php" class="tour-listing__card-image-box">
-                                    <img src="assets/images/tours/20.jpg" alt="Novo Tours"
-                                        class="tour-listing__card-image">
-                                    <div class="tour-listing__card-image-overlay"></div>
-                                    <!-- /.tour-listing__card-image-overlay -->
-                                </a><!-- /.tour-listing__card-image-box -->
-                                <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
-                                        class="icon-heart"></span></a>
-                                <div class="tour-listing__card-content">
-                                    <div class="tour-listing__card-camera-group">
-                                        <a href="javascript:void(0);"
-                                            class="tour-listing__card-camera-btn trevlo-image-popup"
-                                            data-gallery-options='{
+                                                <span class="icon-photo-camera-1"></span>
+                                            </a>
+                                        </div>
+                                        <h3 class="tour-listing__card-title"><a href="tour1.php">Two Capes City
+                                                Tours</a>
+                                        </h3>
+                                        <p class="tour-listing__card-text text-small">
+                                            Cabo San Lucas y San José del Cabo, un recorrido que nos muestra lo mejor de
+                                            estas ciudades, la historia y el significado actual que este increíble
+                                            destino
+                                            turístico tiene para México. <br>
+                                        </p>
+                                        <div class="tour-listing__card-inner-content">
+                                            <!-- /.tour-listing__card-review-box -->
+                                            <div class="tour-listing__card-location-box">
+                                                <span class="icon-location-1"></span>
+                                                <p class="tour-listing__card-location-text text-small">Los Cabos</p>
+                                            </div><!-- /.tour-listing__card-location-box -->
+                                            <div class="tour-listing__card-divider"></div>
+                                            <!-- /.tour-listing__card-divider -->
+                                            <div class="tour-listing__card-bottom">
+                                                <div class="tour-listing__card-bottom-left">
+                                                    <div class="tour-listing__card-day">
+                                                        <span class="icon-clock-1"></span>
+                                                        <p class="tour-listing__card-day-text text-small">6 horas</p>
+                                                    </div><!-- /.tour-listing__card-day -->
+                                                </div><!-- /.tour-listing__card-bottom-left -->
+                                            </div><!-- /.tour-listing__card-bottom -->
+                                        </div><!-- /.tour-listing__card-inner-content -->
+                                    </div><!-- /.tour-listing__card-content -->
+                                </div><!-- /.tour-listing__card -->
+                            </div><!-- /.col-md-6 -->
+                            <div class="col-md-6 wow animated fadeInUp" data-wow-delay="0.3s"
+                                data-wow-duration="1500ms">
+                                <div class="tour-listing__card">
+                                    <a href="tour1.php" class="tour-listing__card-image-box">
+                                        <img src="assets/images/tours/20.jpg" alt="Novo Tours"
+                                            class="tour-listing__card-image">
+                                        <div class="tour-listing__card-image-overlay"></div>
+                                        <!-- /.tour-listing__card-image-overlay -->
+                                    </a><!-- /.tour-listing__card-image-box -->
+                                    <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                            class="icon-heart"></span></a>
+                                    <div class="tour-listing__card-content">
+                                        <div class="tour-listing__card-camera-group">
+                                            <a href="javascript:void(0);"
+                                                class="tour-listing__card-camera-btn trevlo-image-popup"
+                                                data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/19.jpg1"
@@ -379,90 +401,93 @@
                 },
                 "type": "image"
             }'>
-                                            <span class="icon-photo-camera-1"></span>
-                                        </a>
-                                        <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
-                                            class="tour-listing__card-camera-btn video-popup">
-                                            <span class="icon-video-camera-1-1"></span>
-                                        </a>
-                                    </div><!-- /.tour-listing__card-camera-group -->
-                                    <h3 class="tour-listing__card-title"><a href="tour1.php">Avistamiento de
-                                            ballenas</a></h3>
-                                    <p class="tour-listing__card-text text-small">
-                                        Embárcate en una aventura emocionante con nuestro tour de avistamiento de
-                                        ballenas, donde la majestuosidad de estos gigantes del océano cobra vida.
-                                    </p>
-                                    <div class="tour-listing__card-inner-content">
-                                        <!-- /.tour-listing__card-review-box -->
-                                        <div class="tour-listing__card-location-box">
-                                            <span class="icon-location-1"></span>
-                                            <p class="tour-listing__card-location-text text-small">Baja California Sur
-                                            </p>
-                                        </div><!-- /.tour-listing__card-location-box -->
-                                        <div class="tour-listing__card-divider"></div>
-                                        <!-- /.tour-listing__card-divider -->
-                                        <div class="tour-listing__card-bottom">
-                                            <div class="tour-listing__card-bottom-left">
-                                                <div class="tour-listing__card-day">
-                                                    <span class="icon-clock-1"></span>
-                                                    <p class="tour-listing__card-day-text text-small">6 horas</p>
-                                                </div><!-- /.tour-listing__card-day -->
-                                                <div class="tour-listing__card-people">
-                                                    <span class="icon-Duration"></span>
-                                                    <p class="tour-listing__card-people-text text-small">8+</p>
-                                                </div><!-- /.tour-listing__card-people -->
-                                            </div><!-- /.tour-listing__card-bottom-left -->
-                                        </div><!-- /.tour-listing__card-bottom -->
-                                    </div><!-- /.tour-listing__card-inner-content -->
-                                </div><!-- /.tour-listing__card-content -->
-                            </div><!-- /.tour-listing__card -->
-                        </div><!-- /.col-md-6 -->
-                    </div><!-- /.row -->
-                </div>
-                <div class="tour-listing-details__amenities">
-                    <h3 class="tour-listing-details__title tour-listing-details__amenities-title">Tour Amenities</h3>
-                    <div class="tour-listing-details__amenities-row row">
-                        <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
-                            data-wow-duration="1500ms">
-                            <div
-                                class="tour-listing-details__amenities-content tour-listing-details__amenities-content--one">
-                                <span class="icon-credit-card"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Tarjetas débito/crédito</h4>
-                            </div><!-- /.tour-listing-details__amenities-content -->
-                        </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                        <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
-                            data-wow-duration="1500ms">
-                            <div
-                                class="tour-listing-details__amenities-content tour-listing-details__amenities-content--two">
-                                <span class="icon-parking"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Transporte</h4>
-                            </div><!-- /.tour-listing-details__amenities-content -->
-                        </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                        <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
-                            data-wow-duration="1500ms">
-                            <div
-                                class="tour-listing-details__amenities-content tour-listing-details__amenities-content--three">
-                                <span class="icon-discount"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Precios Accesibles</h4>
-                            </div><!-- /.tour-listing-details__amenities-content -->
-                        </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                        <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
-                            data-wow-duration="1500ms">
-                            <div
-                                class="tour-listing-details__amenities-content tour-listing-details__amenities-content--four">
-                                <span class="icon-reception-bell"></span>
-                                <h4 class="tour-listing-details__amenities-content-title">Reservaciones</h4>
-                            </div><!-- /.tour-listing-details__amenities-content -->
-                        </div>
-                        <div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
-                            <a target="_blank"
-                                href="https://fareharbor.com/embeds/book/novotours-mx/items/465997/?full-items=yes&flow=969771"
-                                class="trevlo-btn"><span style="font-size: 17px;color:white;">¡Reservar!</span></a>
-                        </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                                                <span class="icon-photo-camera-1"></span>
+                                            </a>
+                                            <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                                class="tour-listing__card-camera-btn video-popup">
+                                                <span class="icon-video-camera-1-1"></span>
+                                            </a>
+                                        </div><!-- /.tour-listing__card-camera-group -->
+                                        <h3 class="tour-listing__card-title"><a href="tour1.php">Avistamiento de
+                                                ballenas</a></h3>
+                                        <p class="tour-listing__card-text text-small">
+                                            Embárcate en una aventura emocionante con nuestro tour de avistamiento de
+                                            ballenas, donde la majestuosidad de estos gigantes del océano cobra vida.
+                                        </p>
+                                        <div class="tour-listing__card-inner-content">
+                                            <!-- /.tour-listing__card-review-box -->
+                                            <div class="tour-listing__card-location-box">
+                                                <span class="icon-location-1"></span>
+                                                <p class="tour-listing__card-location-text text-small">Baja California
+                                                    Sur
+                                                </p>
+                                            </div><!-- /.tour-listing__card-location-box -->
+                                            <div class="tour-listing__card-divider"></div>
+                                            <!-- /.tour-listing__card-divider -->
+                                            <div class="tour-listing__card-bottom">
+                                                <div class="tour-listing__card-bottom-left">
+                                                    <div class="tour-listing__card-day">
+                                                        <span class="icon-clock-1"></span>
+                                                        <p class="tour-listing__card-day-text text-small">6 horas</p>
+                                                    </div><!-- /.tour-listing__card-day -->
+                                                    <div class="tour-listing__card-people">
+                                                        <span class="icon-Duration"></span>
+                                                        <p class="tour-listing__card-people-text text-small">8+</p>
+                                                    </div><!-- /.tour-listing__card-people -->
+                                                </div><!-- /.tour-listing__card-bottom-left -->
+                                            </div><!-- /.tour-listing__card-bottom -->
+                                        </div><!-- /.tour-listing__card-inner-content -->
+                                    </div><!-- /.tour-listing__card-content -->
+                                </div><!-- /.tour-listing__card -->
+                            </div><!-- /.col-md-6 -->
+                        </div><!-- /.row -->
                     </div>
-                </div>
-            </div><!-- /.col-xl-8 -->
-        </div><!-- /.row -->
-    </div><!-- /.container -->
+                    <div class="tour-listing-details__amenities">
+                        <h3 class="tour-listing-details__title tour-listing-details__amenities-title">Tour Amenities
+                        </h3>
+                        <div class="tour-listing-details__amenities-row row">
+                            <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                                data-wow-duration="1500ms">
+                                <div
+                                    class="tour-listing-details__amenities-content tour-listing-details__amenities-content--one">
+                                    <span class="icon-credit-card"></span>
+                                    <h4 class="tour-listing-details__amenities-content-title">Tarjetas débito/crédito
+                                    </h4>
+                                </div><!-- /.tour-listing-details__amenities-content -->
+                            </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                            <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
+                                data-wow-duration="1500ms">
+                                <div
+                                    class="tour-listing-details__amenities-content tour-listing-details__amenities-content--two">
+                                    <span class="icon-parking"></span>
+                                    <h4 class="tour-listing-details__amenities-content-title">Transporte</h4>
+                                </div><!-- /.tour-listing-details__amenities-content -->
+                            </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                            <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                                data-wow-duration="1500ms">
+                                <div
+                                    class="tour-listing-details__amenities-content tour-listing-details__amenities-content--three">
+                                    <span class="icon-discount"></span>
+                                    <h4 class="tour-listing-details__amenities-content-title">Precios Accesibles</h4>
+                                </div><!-- /.tour-listing-details__amenities-content -->
+                            </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                            <div class="col-xl-4 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                                data-wow-duration="1500ms">
+                                <div
+                                    class="tour-listing-details__amenities-content tour-listing-details__amenities-content--four">
+                                    <span class="icon-reception-bell"></span>
+                                    <h4 class="tour-listing-details__amenities-content-title">Reservaciones</h4>
+                                </div><!-- /.tour-listing-details__amenities-content -->
+                            </div>
+                            <div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
+                                <a target="_blank"
+                                    href="https://fareharbor.com/embeds/book/novotours-mx/items/465997/?full-items=yes&flow=969771"
+                                    class="trevlo-btn"><span style="font-size: 17px;color:white;">¡Reservar!</span></a>
+                            </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                        </div>
+                    </div>
+                </div><!-- /.col-xl-8 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
 </section>
 <!-- Tour Listing Details One End -->

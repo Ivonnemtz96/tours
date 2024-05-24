@@ -281,6 +281,10 @@
                                     <i class="fas fa-times"></i>
                                     <p>Tips</p>
                                 </li>
+                                <li>
+                                    <i class="fas fa-times"></i>
+                                    <p>Dock tax: $5 USD</p>
+                                </li>
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-5 -->
                     </div><!-- /.row -->

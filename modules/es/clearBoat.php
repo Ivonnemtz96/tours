@@ -349,7 +349,7 @@
                                 </li>
                                 <li>
                                     <i class="fas fa-times"></i>
-                                    <p>Impuesto muelle: 5 dólar</p>
+                                    <p>Impuesto muelle: $100 MXN por persona</p>
                                 </li>
                             </ul><!-- /.tour-listing-details__included-list-one -->
                         </div><!-- /.col-lg-6 col-md-5 -->

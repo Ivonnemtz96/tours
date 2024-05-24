@@ -29,17 +29,14 @@
         }'>
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/22.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/paz/01.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/22.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/23.jpg"
+                            "src": "assets/images/tours/paz/grandes/01.jpg"
                           }
                         ],
                         "gallery": {
@@ -52,17 +49,14 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/23.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/paz/02.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/23.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/24.jpg"
+                            "src": "assets/images/tours/paz/grandes/02.jpg"
                           }
                         ],
                         "gallery": {
@@ -75,17 +69,14 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/24.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/paz/03.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/24.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/25.jpg"
+                            "src": "assets/images/tours/paz/grandes/03.jpg"
                           }
                         ],
                         "gallery": {
@@ -98,17 +89,14 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/25.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/paz/04.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/25.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/22.jpg"
+                            "src": "assets/images/tours/paz/grandes/04.jpg"
                           }
                         ],
                         "gallery": {
@@ -121,17 +109,14 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/26.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/paz/05.jpg" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/26.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/22.jpg"
+                            "src": "assets/images/tours/paz/grandes/05.jpg"
                           }
                         ],
                         "gallery": {
@@ -141,7 +126,238 @@
                     }'><span class="icon-plus"></span></a>
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
-            </div><!-- /.tour-listing-details__top-carousel-item item -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/paz/06.jpg" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/paz/grandes/06.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/paz/07.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/paz/grandes/07.webp"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/paz/08.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/paz/grandes/08.webp"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/paz/09.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/paz/grandes/09.webp"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/paz/10.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/paz/grandes/10.webp"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/paz/11.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/paz/grandes/11.webp"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/paz/12.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/paz/grandes/12.webp"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/paz/13.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/paz/grandes/13.webp"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/paz/14.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/paz/grandes/14.webp"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/paz/15.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/paz/grandes/15.webp"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/paz/16.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/paz/grandes/16.webp"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
         </div><!-- /.tour-listing-details__top-carousel-wrapper -->
     </div><!-- /.tour-listing-details__top-carousel -->
     <div class="tour-listing-details__destination">
@@ -170,13 +386,14 @@
                                 <h4 class="tour-listing-details__destination-info-bottom">La Paz</h4>
                             </div>
                         </div>
-                        
+
                         <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
                             data-wow-duration="1500ms">
                             <div class="tour-listing-details__destination-info-title">
                                 <a target="_blank"
                                     href="https://fareharbor.com/embeds/book/novotours-mx/items/466166/?full-items=yes&flow=969771"
-                                    class="trevlo-btn"><span style="font-size: 17px;color:white;">¡Reserva ahora!</span></a>
+                                    class="trevlo-btn"><span style="font-size: 17px;color:white;">¡Reserva
+                                        ahora!</span></a>
                             </div>
                         </div><!-- /.tour-listing-details__destination-info -->
                     </div><!-- /.tour-listing-details__destination-right -->
@@ -198,16 +415,17 @@
                         hermosas playas y paisajes.
                         <br>
 
-                        La Paz una ciudad histórica, centro político y económico del estado de Baja California Sur, una
-                        ciudad portuaria que la convierte en un punto interesante, aquí se encuentra una de las playas
-                        más hermosas de México, su nombre es Balandra y debes conocerla. <br>
+                        La Paz es una ciudad histórica, centro político y económico del estado de Baja California Sur,
+                        una ciudad portuaria que la convierte en un punto interesante, aquí se encuentra una de las
+                        playas más hermosas de México, su nombre es Balandra y debes conocerla.
 
+                        <br>
                         Visitaremos construcciones y edificios antiguos como la Catedral, otros y por supuesto el
                         hermoso Malecón. De regreso y finalizando la experiencia la última parada será en un pueblo
-                        mágico en medio de cerros y vegetación.
-                        <br>
+                        mágico en medio de cerros y vegetación. <br>
                         Todos Santos aquí veremos algo de su historia en las calles antiguas y también conoceremos el
                         emblemático Hotel California para capturar sus mitos y leyendas.
+
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -225,22 +443,31 @@
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Botella de agua de cortesía</p>
+                                    <p>Visita al Malecón de La Paz</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Nuevas camionetas modelo con micrófono integrado y equipo de sonido</p>
+                                    <p>Mercado de artesanías y Joyerías de Perlas</p>
                                 </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Recorrido guiado con historia y cultura de la zona.</p>
+                                </li>
+
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Tiempo libre para compras.</p>
+                                </li>
+
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Botella de agua de cortesía</p>
+                                </li>
+
                                 <li>
                                     <i class="fas fa-check-circle"></i>
                                     <p>Transporte redondo</p>
                                 </li>
-
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Parada rápida en La Garita</p>
-                                </li>
-
                                 <li>
                                     <i class="fas fa-check-circle"></i>
                                     <p>Guía certificado bilingüe</p>
@@ -248,56 +475,27 @@
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Visita a la Catedral</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Fin del mundo, colonia de
-                                        leones marinos y formaciones rocosas)</p>
+                                    <p>Sombrillas para la playa</p>
                                 </li>
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Paraguas incluidos</p>
-                                </li>
-
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Tiempo de compras</p>
+                                    <p>Breve parada en Todos Santos Pueblo Mágico</p>
                                 </li>
 
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Breve parada en Todos Santos (foto en el Hotel California)</p>
+                                    <p>Lunch en restaurante mexicano</p>
                                 </li>
 
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Comida mexicana en restaurante</p>
-                                </li>
-
-
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Visita al Malecón de La Paz y tiempo libre.</p>
-                                </li>
-
-                            </ul><!-- /.tour-listing-details__included-list-one -->
-                        </div><!-- /.col-lg-6 col-md-7 -->
-                        <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s"
-                            data-wow-duration="1500ms">
-                            <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                                No Incluye
-                            </h3>
-                            <ul class="tour-listing-details__included-list-two">
-                                <li>
-                                    <i class="fas fa-times"></i>
-                                    <p>Propinas</p>
+                                    <p>Brazalete de Semarnat para entrada a la zona natural</p>
                                 </li>
                             </ul><!-- /.tour-listing-details__included-list-one -->
-                        </div><!-- /.col-lg-6 col-md-5 -->
+                        </div>
                     </div><!-- /.row -->
                 </div>
                 <div class="tour-listing-details__location">
@@ -482,7 +680,7 @@
                                 <h4 class="tour-listing-details__amenities-content-title">Reservaciones</h4>
                             </div><!-- /.tour-listing-details__amenities-content -->
                         </div>
-                        
+
                         <div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
                             <a target="_blank"
                                 href="https://fareharbor.com/embeds/book/novotours-mx/items/466166/?full-items=yes&flow=969771"

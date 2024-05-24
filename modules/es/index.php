@@ -583,7 +583,7 @@
                             <!-- /.tour-listing__card-review-box -->
                             <div class="tour-listing__card-location-box">
                                 <span class="icon-location-1"></span>
-                                <p class="tour-listing__card-location-text text-small">La Paz</p>
+                                <p class="tour-listing__card-location-text text-small">La Paz - Playa Balandra</p>
                             </div><!-- /.tour-listing__card-location-box -->
                             <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                             <div class="tour-listing__card-bottom">

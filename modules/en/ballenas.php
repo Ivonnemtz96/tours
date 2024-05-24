@@ -182,6 +182,10 @@
 
                         At the end of the experience we will have free time to shop in downtown Cabo San Lucas and taste
                         the best tequila brands.
+                    </p> 
+                    <br><br>
+                    <p>
+                        <strong>Season from December 15, 2024, to April 15, 2025</strong>
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -269,6 +273,10 @@
                                 <li>
                                     <i class="fas fa-check-circle"></i>
                                     <p>Money - Extra (For Purchases)</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-times"></i>
+                                    <p>Dock tax: $5 USD</p>
                                 </li>
                             </ul>
                         </div>

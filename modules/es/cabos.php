@@ -554,7 +554,7 @@
                         <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s"
                             data-wow-duration="1500ms">
                             <h3 class="tour-listing-details__title tour-listing-details__included-title">
-                                Incluye
+                              No  Incluye
                             </h3>
                             <ul class="tour-listing-details__included-list-two">
                                 <li>
@@ -563,7 +563,7 @@
                                 </li>
                                 <li>
                                     <i class="fas fa-times"></i>
-                                    <p>Impuesto de muelle 5 dólares</p>
+                                    <p>Impuesto muelle: $100 MXN por persona</p>
                                 </li>
 
                             </ul><!-- /.tour-listing-details__included-list-one -->
