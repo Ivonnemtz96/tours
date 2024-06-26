@@ -29,17 +29,14 @@
         }'>
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/22.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/sunset/01.webp" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/22.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/23.jpg"
+                            "src": "assets/images/tours/sunset/grandes/01.webp"
                           }
                         ],
                         "gallery": {
@@ -52,17 +49,14 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/23.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/sunset/02.webp" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/23.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/24.jpg"
+                            "src": "assets/images/tours/sunset/grandes/02.jpeg"
                           }
                         ],
                         "gallery": {
@@ -75,17 +69,14 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/24.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/sunset/03.webp" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/24.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/25.jpg"
+                            "src": "assets/images/tours/sunset/garndes/03.jpeg"
                           }
                         ],
                         "gallery": {
@@ -98,17 +89,14 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/25.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/sunset/04.webp" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/25.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/22.jpg"
+                            "src": "assets/images/tours/sunset/01.webp04.jpeg"
                           }
                         ],
                         "gallery": {
@@ -121,17 +109,14 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/26.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/sunset/05.webp" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/26.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/22.jpg"
+                            "src": "assets/images/tours/sunset/grandes/05.jpeg"
                           }
                         ],
                         "gallery": {
@@ -141,7 +126,113 @@
                     }'><span class="icon-plus"></span></a>
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
-            </div><!-- /.tour-listing-details__top-carousel-item item -->
+            </div>
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sunset/06.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sunset/grandes/06.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sunset/07.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sunset/grandes/07.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sunset/08.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sunset/grandes/08.webp"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sunset/09.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sunset/grandes/09.webp"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sunset/10.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sunset/grandes/10.webp"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+
         </div><!-- /.tour-listing-details__top-carousel-wrapper -->
     </div><!-- /.tour-listing-details__top-carousel -->
     <div class="tour-listing-details__destination">
@@ -195,14 +286,14 @@
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         Es hora de ver y disfrutar lo mejor del viejo y clásico sabor del verdadero tequila mexicano
-                        bienvenidos a después pasear y ver un Poco más de
-                        sus calles, su gente una ciudad con un turismo Cosmopolita una ciudad donde los idiomas , las
-                        costumbres y los visitantes comparten un pedazo de Paraíso.
+                        bienvenidos a después pasear y ver un poco más de sus calles, su gente una ciudad con un turismo
+                        Cosmopolita una ciudad donde los idiomas , las costumbres y los visitantes comparten un pedazo
+                        de Paraíso.
                         <br>
 
                         Esta mágica aventura termina antes de que el sol se ponga nos embarcamos y navegamos hacia el
                         fin de la tierra a través de las aguas que bañan la bahía es tiempo de ver y disfrutar de un
-                        increíble atardecer el atardecer que Los Cabos regala al mundo. <br>
+                        increíble atardecer el atardecer que Los Cabos regala al mundo.<br>
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -215,15 +306,15 @@
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Opción catamarán (Oceanus, cabo escape, cabo mar o piratas)</p>
+                                    <p>Navegar por el pacífico en un barco: duración 2 horas</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Cena y baile</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
                                     <p>Botella de agua de cortesía</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Nuevas camionetas modelo con micrófono integrado y equipo de sonido</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
@@ -232,7 +323,7 @@
 
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Cena: Fajitas</p>
+                                    <p>Visita a Cabo San Lucas y tiempo libre en la zona de la Marina</p>
                                 </li>
 
                                 <li>
@@ -243,25 +334,13 @@
                                 <li>
                                     <i class="fas fa-check-circle"></i>
                                     <p>
-                                        Visita a Cabo San Lucas y tiempo libre en la ciudad
+                                        Tiempo de compras
                                     </p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Paseo hacia el arco a bordo del asombroso Crystal Boat (Fin del mundo, colonia de
-                                        leones marinos y formaciones rocosas)</p>
-                                </li>
-
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Tiempo de compras</p>
-                                </li>
-
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
                                     <p>Música a bordo</p>
                                 </li>
-
                                 <li>
                                     <i class="fas fa-check-circle"></i>
                                     <p>Tequila tasting (Opcional)</p>

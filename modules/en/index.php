@@ -149,7 +149,7 @@
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
                                 <h4 class="destination-one__card-title"><a href="sunset.php">
-                                        Sunset & Tasting Plus</a></h4>
+                                Sunset & Tasting plus</a></h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--round -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
                     </div><!-- /.destination-one__card-img-box -->

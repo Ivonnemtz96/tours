@@ -1,6 +1,6 @@
 <!-- Tour Listing Details One Start -->
 <section class="tour-listing-details">
-    <div class="tour-listing-details__top-carousel">
+<div class="tour-listing-details__top-carousel">
         <div class="tour-listing-details__top-carousel-wrapper trevlo-owl__carousel owl-theme owl-carousel"
             data-owl-options='{
         "items": 4,
@@ -29,17 +29,14 @@
         }'>
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/22.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/sunset/01.webp" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/22.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/23.jpg"
+                            "src": "assets/images/tours/sunset/grandes/01.webp"
                           }
                         ],
                         "gallery": {
@@ -52,17 +49,14 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/23.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/sunset/02.webp" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/23.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/24.jpg"
+                            "src": "assets/images/tours/sunset/grandes/02.jpeg"
                           }
                         ],
                         "gallery": {
@@ -75,17 +69,14 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/24.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/sunset/03.webp" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/24.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/25.jpg"
+                            "src": "assets/images/tours/sunset/garndes/03.jpeg"
                           }
                         ],
                         "gallery": {
@@ -98,17 +89,14 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/25.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/sunset/04.webp" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/25.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/22.jpg"
+                            "src": "assets/images/tours/sunset/01.webp04.jpeg"
                           }
                         ],
                         "gallery": {
@@ -121,17 +109,14 @@
             </div><!-- /.tour-listing-details__top-carousel-item item -->
             <div class="tour-listing-details__top-carousel-item item">
                 <div class="tour-listing-details__top-carousel-image">
-                    <img src="assets/images/tours/26.jpg" alt="listing-details-carousel">
+                    <img src="assets/images/tours/sunset/05.webp" alt="listing-details-carousel">
                     <div class="tour-listing-details__top-carousel-overlay">
                         <a href="#"
                             class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/26.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/22.jpg"
+                            "src": "assets/images/tours/sunset/grandes/05.jpeg"
                           }
                         ],
                         "gallery": {
@@ -141,7 +126,113 @@
                     }'><span class="icon-plus"></span></a>
                     </div><!-- /.tour-listing-details__top-carousel-overlay -->
                 </div><!-- /.tour-listing-details__top-carousel-image -->
-            </div><!-- /.tour-listing-details__top-carousel-item item -->
+            </div>
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sunset/06.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sunset/grandes/06.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sunset/07.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sunset/grandes/07.jpg"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sunset/08.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sunset/grandes/08.webp"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sunset/09.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sunset/grandes/09.webp"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+            <div class="tour-listing-details__top-carousel-item item">
+                <div class="tour-listing-details__top-carousel-image">
+                    <img src="assets/images/tours/sunset/10.webp" alt="listing-details-carousel">
+                    <div class="tour-listing-details__top-carousel-overlay">
+                        <a href="#"
+                            class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
+                            data-gallery-options='{
+                        "items": [
+                          {
+                            "src": "assets/images/tours/sunset/grandes/10.webp"
+                          }
+                        ],
+                        "gallery": {
+                          "enabled": true
+                        },
+                        "type": "image"
+                    }'><span class="icon-plus"></span></a>
+                    </div><!-- /.tour-listing-details__top-carousel-overlay -->
+                </div><!-- /.tour-listing-details__top-carousel-image -->
+            </div>
+
+
         </div><!-- /.tour-listing-details__top-carousel-wrapper -->
     </div><!-- /.tour-listing-details__top-carousel -->
     <div class="tour-listing-details__destination">
@@ -149,7 +240,7 @@
             <div class="tour-listing-details__destination-row row">
                 <div class="col-xl-4 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
                     <div class="tour-listing-details__destination-left">
-                        <h3 class="tour-listing-details__dastination-title">Sunset & Tasting Plus</h3>
+                        <h3 class="tour-listing-details__dastination-title">Sunsets on boat</h3>
                     </div><!-- /.tour-listing-details__daetination-left -->
                 </div><!-- /.col-xl-4 -->
                 <div class="col-xl-8">
@@ -194,15 +285,14 @@
                     </div>
                     <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
-                        It's time to experience and savor the rich, classic flavors of authentic Mexican tequila. Take a
-                        leisurely stroll and discover more of its streets, its people, in a city that embraces
-                        cosmopolitan tourism. Here, languages, customs, and visitors converge, sharing a slice of
-                        paradise.
+                        It is time to see and enjoy the best of the old and classic taste of the true Mexican tequila
+                        welcome to then stroll and see a little more of its streets, its people a city with a
+                        Cosmopolitan tourism a city where languages, customs and visitors share a piece of Paradise.
                         <br>
 
-                        As this magical adventure draws to an end, just before the sun sets, we set sail to explore the
-                        furthest reaches of the earth, guided by the waters that caress the bay. It's time to witness
-                        and relish in an unforgettable sunset, one that Los Cabos graciously offers to the world. <br>
+                        This magical adventure ends before the sun sets we embark and sail to the end of the earth
+                        through the waters that bathe the bay is time to see and enjoy an incredible sunset the sunset
+                        that Los Cabos gives to the world. <br>
                     </p>
                 </div><!-- /.tour-listing-details__explore -->
                 <div class="tour-listing-details__included">
@@ -215,7 +305,11 @@
                             <ul class="tour-listing-details__included-list-one">
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>Catamaran option (Oceanus, Cabo Escape, Cabo Mar or Pirates)</p>
+                                    <p>Sailing in the pacific on a boat: duration 2 hours</p>
+                                </li>
+                                <li>
+                                    <i class="fas fa-check-circle"></i>
+                                    <p>Dinner and dance</p>
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
@@ -223,18 +317,8 @@
                                 </li>
                                 <li>
                                     <i class="fas fa-check-circle"></i>
-                                    <p>New model vans with built-in microphone and sound equipment.</p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
                                     <p>Round transportation</p>
                                 </li>
-
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Dinner: Fajitas</p>
-                                </li>
-
                                 <li>
                                     <i class="fas fa-check-circle"></i>
                                     <p>Certified bilingual guide</p>
@@ -243,13 +327,8 @@
                                 <li>
                                     <i class="fas fa-check-circle"></i>
                                     <p>
-                                        Visit to Cabo San Lucas and free time in the city.
+                                    Tour of Cabo San Lucas and free time in the Marina area
                                     </p>
-                                </li>
-                                <li>
-                                    <i class="fas fa-check-circle"></i>
-                                    <p>Ride to the arch aboard the incredible Crystal Boat (Lands end, sea lion colony
-                                        and rock formations).</p>
                                 </li>
 
                                 <li>

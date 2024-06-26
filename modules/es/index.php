@@ -639,7 +639,7 @@
                             </a>
                         </div><!-- /.tour-listing__card-camera-group -->
                         <h3 class="tour-listing__card-title"><a href="sunset.php">
-                                Sunset & Tasting Plus
+                                Atardeceres en barco
                             </a></h3>
                         <p class="tour-listing__card-text text-small">
                             Embárcate en un tour único en Los Cabos, donde los atardeceres deslumbrantes se mezclan con
