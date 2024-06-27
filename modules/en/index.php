@@ -129,12 +129,12 @@
                 data-wow-duration="1500ms">
                 <div class="destination-one__card">
                     <div class="destination-one__card-img-box destination-one__card-img-box--round">
-                        <img src="assets/images/destination/09.jpg?=1" alt="Novo Tours"
+                        <img src="assets/images/destination/11.webp?=1" alt="Novo Tours"
                             class="destination-one__card-img destination-one__card-img--round">
                         <div class="destination-one__card-overlay destination-one__card-overlay--round">
                             <div class="destination-one__card-content destination-one__card-content--round">
-                                <h4 class="destination-one__card-title"><a href="ballenas.php">
-                                        Whale watching</a></h4>
+                                <h4 class="destination-one__card-title"><a href="clearBoat.php">
+                                        Clear Boat</a></h4>
                             </div><!-- /.destination-one__card-content destination-one__card-content--round -->
                         </div><!-- /.destination-one__card-overlay destination-one__card-overlay--round -->
                     </div><!-- /.destination-one__card-img-box -->
