@@ -62,37 +62,40 @@
 
             <h2 class="sec-title__title">Novo Tours will contact you</h2>
         </div>
-        <form class="contact-page__form form-one row gutter-20">
+        <form class="contact-page__form form-one row gutter-20" method="POST" action="/php/contact.php">
             <div class="col-md-6 wow animated fadeInUp" data-wow-delay="0s" data-wow-duration="1500ms">
                 <div class="form-one__group">
-                    <input type="text" name="form-box-name-input" id="form-one-name-input" placeholder="Name"
+                    <input type="text" name="nombre" placeholder="Name" required
                         class="form-one__input">
                 </div><!-- /.form-one__group -->
             </div><!-- /.col-md-6 -->
             <div class="col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                 <div class="form-one__group">
-                    <input type="email" name="form-box-email-input" id="form-one-email-input" placeholder="Email"
+                    <input type="email" name="correo" placeholder="Email" required
                         class="form-one__input">
                 </div><!-- /.form-one__group -->
             </div><!-- /.col-md-6 -->
             <div class="col-md-6 wow animated fadeInUp" data-wow-delay="0s" data-wow-duration="1500ms">
                 <div class="form-one__group">
-                    <input type="tel" name="form-box-phone-input" id="form-one-phone-input" placeholder="Phone"
+                    <input type="tel" name="tel" placeholder="Phone" required
                         class="form-one__input">
                 </div><!-- /.form-one__group -->
             </div><!-- /.col-md-6 -->
             <div class="col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                 <div class="form-one__group">
-                    <input type="text" name="form-box-subject-input" id="form-one-subject-input" placeholder="Subject"
+                    <input type="text" name="asunto" placeholder="Subject" required
                         class="form-one__input">
                 </div><!-- /.form-one__group -->
             </div><!-- /.col-md-6 -->
             <div class="col-12 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="form-one__group">
-                    <textarea name="form-one-message-input" id="form-one-message-input" cols="30" rows="10"
+                    <textarea name="msj" cols="30" rows="10" required
                         placeholder="Write Your Message" class="form-one__message form-one__input"></textarea>
                 </div><!-- /.form-one__group -->
             </div><!-- /.col-12-->
+            <div class="col-12 col-md-5">
+                <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required></div>
+            </div>
             <div class="col-12 wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
                 <div class="form-one__btn-box">
                     <button type="submit" class="form-one__btn trevlo-btn trevlo-btn--base"><span>

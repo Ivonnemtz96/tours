@@ -61,37 +61,40 @@
 
             <h2 class="sec-title__title">Novo Tours se pondrá en contacto</h2>
         </div>
-        <form class="contact-page__form form-one row gutter-20">
+        <form class="contact-page__form form-one row gutter-20" method="POST" action="/php/contact.php">
             <div class="col-md-6 wow animated fadeInUp" data-wow-delay="0s" data-wow-duration="1500ms">
                 <div class="form-one__group">
-                    <input type="text" name="form-box-name-input" id="form-one-name-input" placeholder="Nombre"
+                    <input type="text" name="nombre"  placeholder="Nombre"
+                        class="form-one__input" required>
+                </div><!-- /.form-one__group -->
+            </div><!-- /.col-md-6 -->
+            <div class="col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                <div class="form-one__group">
+                    <input type="email" name="correo"  placeholder="Correo" required
+                        class="form-one__input">
+                </div><!-- /.form-one__group -->
+            </div><!-- /.col-md-6 -->
+            <div class="col-md-6 wow animated fadeInUp" data-wow-delay="0s" data-wow-duration="1500ms">
+                <div class="form-one__group">
+                    <input type="tel" name="tel"  placeholder="Teléfono" required
                         class="form-one__input">
                 </div><!-- /.form-one__group -->
             </div><!-- /.col-md-6 -->
             <div class="col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                 <div class="form-one__group">
-                    <input type="email" name="form-box-email-input" id="form-one-email-input" placeholder="Correo"
-                        class="form-one__input">
-                </div><!-- /.form-one__group -->
-            </div><!-- /.col-md-6 -->
-            <div class="col-md-6 wow animated fadeInUp" data-wow-delay="0s" data-wow-duration="1500ms">
-                <div class="form-one__group">
-                    <input type="tel" name="form-box-phone-input" id="form-one-phone-input" placeholder="Teléfono"
-                        class="form-one__input">
-                </div><!-- /.form-one__group -->
-            </div><!-- /.col-md-6 -->
-            <div class="col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
-                <div class="form-one__group">
-                    <input type="text" name="form-box-subject-input" id="form-one-subject-input" placeholder="Asunto"
+                    <input type="text" name="asunto"  placeholder="Asunto" required
                         class="form-one__input">
                 </div><!-- /.form-one__group -->
             </div><!-- /.col-md-6 -->
             <div class="col-12 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="form-one__group">
-                    <textarea name="form-one-message-input" id="form-one-message-input" cols="30" rows="10"
+                    <textarea name="msj" cols="30" rows="10" required
                         placeholder="Escriba su mensaje" class="form-one__message form-one__input"></textarea>
                 </div><!-- /.form-one__group -->
             </div><!-- /.col-12-->
+            <div class="col-12 col-md-5">
+                <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required></div>
+            </div>
             <div class="col-12 wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
                 <div class="form-one__btn-box">
                     <button type="submit" class="form-one__btn trevlo-btn trevlo-btn--base"><span>

@@ -39,4 +39,7 @@
 
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/trevlo.css" />
+
+    <!-- captcha -->
+     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>

@@ -1,3 +1,9 @@
+<?
+if (isset($_GET)) {
+  include_once("php/msg2.php");
+}
+?>
+
 <!-- main-slider-start -->
 <section class="main-slider-one">
     <div class="main-slider-one__carousel trevlo-owl__carousel owl-carousel owl-theme" data-owl-options='{
