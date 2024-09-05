@@ -461,6 +461,12 @@
                                 <h4 class="tour-listing-details__destination-info-bottom">Los Cabos</h4>
                             </div>
                         </div>
+                        <div class="tour-listing-details__destination-info-title">
+                                <h4 class="tour-listing-details__destination-info-top">Special Offer</h4>
+                                <h3 class="tour-listing__card-price"
+                                        style="font-size: 12px; text-decoration: line-through;">$119 USD</h3>
+                                    <h3 class="tour-listing__card-price" style="font-size: 18px;">$101 USD</h3>
+                            </div>
 
                         <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
                             data-wow-duration="1500ms">

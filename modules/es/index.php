@@ -329,7 +329,13 @@ if (isset($_GET)) {
                                         <span class="icon-clock-1"></span>
                                         <p class="tour-listing__card-day-text text-small">4 horas</p>
                                     </div><!-- /.tour-listing__card-day -->
-                                </div><!-- /.tour-listing__card-bottom-left -->
+                                </div>
+                                <div class="tour-listing__card-bottom-right text-end">
+                                    <span>Precio especial</span>
+                                    <h3 class="tour-listing__card-price"
+                                        style="font-size: 12px; text-decoration: line-through;">$1,000MXN</h3>
+                                    <h3 class="tour-listing__card-price" style="font-size: 15px;">$850MXN</h3>
+                                </div>
                             </div>
                             <div class="tour-listing__card-divider"></div>
                         </div>
@@ -394,11 +400,13 @@ if (isset($_GET)) {
                                         <span class="icon-clock-1"></span>
                                         <p class="tour-listing__card-day-text text-small">6 horas</p>
                                     </div><!-- /.tour-listing__card-day -->
-                                    <div class="tour-listing__card-people">
-                                        <span class="icon-Duration"></span>
-                                        <p class="tour-listing__card-people-text text-small">5+</p>
-                                    </div><!-- /.tour-listing__card-people -->
-                                </div><!-- /.tour-listing__card-bottom-left -->
+                                </div>
+                                <div class="tour-listing__card-bottom-right text-end">
+                                    <span>Precio especial</span>
+                                    <h3 class="tour-listing__card-price"
+                                        style="font-size: 12px; text-decoration: line-through;">$1,700MXN</h3>
+                                    <h3 class="tour-listing__card-price" style="font-size: 15px;">$1,445MXN</h3>
+                                </div><!-- /.tour-listing__card-people -->
                             </div>
                             <!-- /.tour-listing__card-bottom -->
                         </div>
@@ -467,11 +475,13 @@ if (isset($_GET)) {
                                         <span class="icon-clock-1"></span>
                                         <p class="tour-listing__card-day-text text-small">6 horas</p>
                                     </div><!-- /.tour-listing__card-day -->
-                                    <div class="tour-listing__card-people">
-                                        <span class="icon-Duration"></span>
-                                        <p class="tour-listing__card-people-text text-small">8+</p>
-                                    </div><!-- /.tour-listing__card-people -->
-                                </div><!-- /.tour-listing__card-bottom-left -->
+                                </div>
+                                <div class="tour-listing__card-bottom-right text-end">
+                                    <span>Precio especial</span>
+                                    <h3 class="tour-listing__card-price"
+                                        style="font-size: 12px; text-decoration: line-through;">$2,100MXN</h3>
+                                    <h3 class="tour-listing__card-price" style="font-size: 15px;">$1,785MXN</h3>
+                                </div>
                             </div><!-- /.tour-listing__card-bottom -->
                         </div>
                         <div class="tour-listing__card-bottom mt-20 text-center">
@@ -532,9 +542,14 @@ if (isset($_GET)) {
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
                                         <p class="tour-listing__card-day-text text-small">6 horas</p>
-                                    </div><!-- /.tour-listing__card-day -->
-
-                                </div><!-- /.tour-listing__card-bottom-left -->
+                                    </div>
+                                </div>
+                                <div class="tour-listing__card-bottom-right text-end">
+                                    <span>Precio especial</span>
+                                    <h3 class="tour-listing__card-price"
+                                        style="font-size: 12px; text-decoration: line-through;">$2,100MXN</h3>
+                                    <h3 class="tour-listing__card-price" style="font-size: 15px;">$1,785MXN</h3>
+                                </div>
                             </div>
                             <!-- /.tour-listing__card-bottom -->
                         </div>
@@ -598,7 +613,13 @@ if (isset($_GET)) {
                                         <span class="icon-clock-1"></span>
                                         <p class="tour-listing__card-day-text text-small">10 horas</p>
                                     </div>
-                                </div><!-- /.tour-listing__card-bottom-left -->
+                                </div>
+                                <div class="tour-listing__card-bottom-right text-end">
+                                    <span>Precio especial</span>
+                                    <h3 class="tour-listing__card-price"
+                                        style="font-size: 12px; text-decoration: line-through;">$2,300MXN</h3>
+                                    <h3 class="tour-listing__card-price" style="font-size: 15px;">$1,955MXN</h3>
+                                </div>
                             </div><!-- /.tour-listing__card-bottom -->
                         </div>
                         <div class="tour-listing__card-bottom mt-20 text-center">
@@ -663,8 +684,14 @@ if (isset($_GET)) {
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
                                         <p class="tour-listing__card-day-text text-small">4 horas</p>
-                                    </div><!-- /.tour-listing__card-day -->
-                                </div><!-- /.tour-listing__card-bottom-left -->
+                                    </div>
+                                </div>
+                                <div class="tour-listing__card-bottom-right text-end">
+                                    <span>Precio especial</span>
+                                    <h3 class="tour-listing__card-price"
+                                        style="font-size: 12px; text-decoration: line-through;">$2,300MXN</h3>
+                                    <h3 class="tour-listing__card-price" style="font-size: 15px;">$1,955MXN</h3>
+                                </div>
                             </div><!-- /.tour-listing__card-bottom -->
                         </div>
                         <div class="tour-listing__card-bottom mt-20 text-center">
@@ -726,8 +753,14 @@ if (isset($_GET)) {
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
                                         <p class="tour-listing__card-day-text text-small">4 horas</p>
-                                    </div><!-- /.tour-listing__card-day -->
-                                </div><!-- /.tour-listing__card-bottom-left -->
+                                    </div>
+                                </div>
+                                <div class="tour-listing__card-bottom-right text-end">
+                                    <span>Precio especial</span>
+                                    <h3 class="tour-listing__card-price"
+                                        style="font-size: 12px; text-decoration: line-through;">900MXN</h3>
+                                    <h3 class="tour-listing__card-price" style="font-size: 15px;">$765MXN</h3>
+                                </div>
                             </div><!-- /.tour-listing__card-bottom -->
                         </div>
                         <div class="tour-listing__card-bottom mt-20 text-center">
@@ -788,8 +821,14 @@ if (isset($_GET)) {
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
                                         <p class="tour-listing__card-day-text text-small">5 horas</p>
-                                    </div><!-- /.tour-listing__card-day -->
-                                </div><!-- /.tour-listing__card-bottom-left -->
+                                    </div>
+                                </div>
+                                <div class="tour-listing__card-bottom-right text-end">
+                                    <span>Precio especial</span>
+                                    <h3 class="tour-listing__card-price"
+                                        style="font-size: 12px; text-decoration: line-through;">$2,300MXN</h3>
+                                    <h3 class="tour-listing__card-price" style="font-size: 15px;">$1,955MXN</h3>
+                                </div>
                             </div><!-- /.tour-listing__card-bottom -->
                         </div>
                         <div class="tour-listing__card-bottom mt-20 text-center">
@@ -850,9 +889,14 @@ if (isset($_GET)) {
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
                                         <p class="tour-listing__card-day-text text-small">3 horas</p>
-                                    </div><!-- /.tour-listing__card-day -->
-
-                                </div><!-- /.tour-listing__card-bottom-left -->
+                                    </div>
+                                </div>
+                                <div class="tour-listing__card-bottom-right text-end">
+                                    <span>Precio especial</span>
+                                    <h3 class="tour-listing__card-price"
+                                        style="font-size: 12px; text-decoration: line-through;">$1,200MXN</h3>
+                                    <h3 class="tour-listing__card-price" style="font-size: 15px;">$1,020MXN</h3>
+                                </div>
                             </div>
                             <!-- /.tour-listing__card-bottom -->
                         </div>
@@ -929,9 +973,15 @@ if (isset($_GET)) {
                                     <div class="tour-listing__card-day">
                                         <span class="icon-clock-1"></span>
                                         <p class="tour-listing__card-day-text text-small">4-5 horas</p>
-                                    </div><!-- /.tour-listing__card-day -->
+                                    </div>
+                                </div>
+                                <div class="tour-listing__card-bottom-right text-end">
+                                    <span>Precio especial</span>
+                                    <h3 class="tour-listing__card-price"
+                                        style="font-size: 12px; text-decoration: line-through;">$1,300MXN</h3>
+                                    <h3 class="tour-listing__card-price" style="font-size: 15px;">$1,105MXN</h3>
+                                </div>
 
-                                </div><!-- /.tour-listing__card-bottom-left -->
                             </div><!-- /.tour-listing__card-bottom -->
                         </div>
                         <div class="tour-listing__card-bottom mt-20 text-center">

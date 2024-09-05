@@ -158,7 +158,7 @@
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/paz/grandes/07.webp"
+                            "src": "assets/images/tours/paz/grandes/07.jpeg"
                           }
                         ],
                         "gallery": {
@@ -179,7 +179,7 @@
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/paz/grandes/08.webp"
+                            "src": "assets/images/tours/paz/grandes/08.jpeg"
                           }
                         ],
                         "gallery": {
@@ -200,7 +200,7 @@
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/paz/grandes/09.webp"
+                            "src": "assets/images/tours/paz/grandes/09.jpeg"
                           }
                         ],
                         "gallery": {
@@ -221,7 +221,7 @@
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/paz/grandes/10.webp"
+                            "src": "assets/images/tours/paz/grandes/10.jpeg"
                           }
                         ],
                         "gallery": {
@@ -242,7 +242,7 @@
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/paz/grandes/11.webp"
+                            "src": "assets/images/tours/paz/grandes/11.jpeg"
                           }
                         ],
                         "gallery": {
@@ -284,7 +284,7 @@
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/paz/grandes/13.webp"
+                            "src": "assets/images/tours/paz/grandes/13.jpeg"
                           }
                         ],
                         "gallery": {
@@ -305,7 +305,7 @@
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/paz/grandes/14.webp"
+                            "src": "assets/images/tours/paz/grandes/14.jpeg"
                           }
                         ],
                         "gallery": {
@@ -326,7 +326,7 @@
                             data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/paz/grandes/15.webp"
+                            "src": "assets/images/tours/paz/grandes/15.jpeg"
                           }
                         ],
                         "gallery": {
@@ -385,6 +385,12 @@
                                 <h4 class="tour-listing-details__destination-info-top">Lugar</h4>
                                 <h4 class="tour-listing-details__destination-info-bottom">La Paz</h4>
                             </div>
+                        </div>
+                        <div class="tour-listing-details__destination-info-title">
+                            <h4 class="tour-listing-details__destination-info-top">Oferta especial</h4>
+                            <h3 class="tour-listing__card-price"
+                                style="font-size: 12px; text-decoration: line-through;">$2,300 MXN</h3>
+                            <h3 class="tour-listing__card-price" style="font-size: 18px;">$1,955 MXN</h3>
                         </div>
 
                         <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.5s"
